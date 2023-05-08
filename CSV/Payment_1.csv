@@ -1,0 +1,275 @@
+amount,payment_method,private_visibility,receiver
+116,debit card,True,Amelia
+49,,False,Mahmoud
+33,credit card,False,Margaret
+97,debit card,False,Emma
+161,,False,Isabella
+31,credit card,False,Rachel
+50,debit card,False,Mary
+18,,False,Emma
+96,app balance,False,Mahmoud
+89,debit card,False,Rachel
+130,,True,Tom
+169,credit card,False,Yumi
+96,debit card,False,Amelia
+215,,True,Mahmoud
+42,app balance,False,Victoria
+154,debit card,True,Mary
+132,,False,Rachel
+84,credit card,False,Svetlana
+110,debit card,False,Tom
+161,,False,Jerry
+79,app balance,True,Victoria
+34,app balance,False,Rachel
+58,,False,Tom
+141,debit card,False,Bob
+162,credit card,False,Rachel
+134,,False,Bob
+53,app balance,True,Mary
+21,app balance,False,Emma
+61,,False,Mahmoud
+29,credit card,False,Margaret
+83,credit card,False,Margaret
+35,,False,Yumi
+16,debit card,True,Mary
+29,credit card,False,Amelia
+50,,False,Rachel
+42,debit card,False,Peter
+123,app balance,False,Wilson
+80,,False,Rachel
+45,debit card,False,Jerry
+164,app balance,False,Emma
+14,,False,Victoria
+36,credit card,False,Bob
+44,app balance,False,Wilson
+53,,True,Amelia
+73,debit card,False,Mahmoud
+117,debit card,True,Tom
+120,,False,Jerry
+125,credit card,False,Wilson
+166,debit card,False,Rachel
+94,,False,Margaret
+16,credit card,False,Isabella
+84,app balance,False,Amelia
+93,,False,Isabella
+112,credit card,False,Mahmoud
+34,app balance,False,Diego
+86,,False,Emma
+65,credit card,False,Amelia
+164,,False,Isabella
+109,app balance,False,Wilson
+12,,False,Diego
+44,credit card,True,Amelia
+155,,False,Amelia
+119,credit card,False,Svetlana
+138,,True,Svetlana
+48,debit card,False,Rachel
+147,,True,Peter
+151,app balance,False,Victoria
+9,,False,Margaret
+94,debit card,True,Wilson
+115,,True,Amelia
+82,debit card,False,Jerry
+117,,False,Margaret
+93,credit card,False,Mary
+108,,True,Diego
+105,credit card,False,Mary
+60,,False,Mary
+115,app balance,False,Bob
+175,,False,Margaret
+168,app balance,False,Victoria
+42,,True,Wilson
+155,credit card,False,Yumi
+157,,False,Isabella
+51,debit card,False,Peter
+79,,False,Isabella
+169,debit card,False,Svetlana
+83,,False,Mahmoud
+46,debit card,False,Bob
+112,,False,Amelia
+27,credit card,False,Svetlana
+30,,True,Mary
+94,app balance,False,Yumi
+171,,False,Amelia
+138,,False,Peter
+101,,False,Peter
+79,,False,Peter
+30,,False,Mahmoud
+11,,True,Jerry
+6,,False,Victoria
+153,,False,Amelia
+4,,True,Rachel
+7,,True,Jerry
+142,,True,Rachel
+52,,False,Wilson
+132,,False,Wilson
+35,,False,Bob
+175,,False,Emma
+109,,False,Yumi
+13,,False,Victoria
+56,,False,Mahmoud
+2,,True,Isabella
+134,,False,Mahmoud
+124,,False,Svetlana
+111,,False,Diego
+144,,True,Yumi
+84,,False,Victoria
+117,,False,Mary
+51,,False,Mary
+103,,False,Mary
+71,,False,Isabella
+162,,False,Diego
+35,,False,Svetlana
+6,,True,Svetlana
+150,,False,Margaret
+135,,False,Amelia
+67,,False,Tom
+23,,True,Bob
+46,,True,Margaret
+71,,False,Peter
+84,,False,Jerry
+14,,False,Amelia
+144,,False,Isabella
+105,,False,Svetlana
+126,,False,Tom
+71,,True,Peter
+16,,False,Jerry
+18,,True,Victoria
+112,,False,Tom
+39,,False,Emma
+106,,True,Yumi
+86,,True,Svetlana
+99,,True,Bob
+115,,False,Emma
+4,,False,Isabella
+13,,False,Jerry
+59,,False,Isabella
+159,,True,Tom
+45,,False,Jerry
+167,,False,Yumi
+130,,False,Diego
+134,,False,Mary
+30,,False,Amelia
+17,,False,Jerry
+188,,False,Peter
+32,,False,Svetlana
+115,,True,Mahmoud
+120,,True,Yumi
+52,,True,Emma
+149,,False,Peter
+105,,True,Svetlana
+170,,True,Wilson
+115,,False,Tom
+124,,False,Victoria
+106,,False,Margaret
+77,,False,Svetlana
+128,,True,Amelia
+124,,False,Amelia
+104,,True,Mary
+43,,False,Tom
+96,,False,Svetlana
+50,,True,Yumi
+128,,False,Svetlana
+68,,False,Svetlana
+40,,False,Diego
+145,,False,Mary
+180,,True,Wilson
+30,,True,Jerry
+150,,True,Tom
+75,,False,Emma
+65,,True,Rachel
+65,,False,Victoria
+109,,False,Amelia
+52,,False,Emma
+198,,False,Mahmoud
+158,debit card,False,Victoria
+36,app balance,False,Bob
+33,app balance,True,Tom
+106,app balance,True,Rachel
+63,app balance,False,Rachel
+7,app balance,False,Peter
+173,app balance,True,Victoria
+132,app balance,False,Margaret
+111,debit card,False,Peter
+38,debit card,False,Amelia
+180,debit card,False,Mahmoud
+84,app balance,False,Yumi
+139,app balance,True,Victoria
+119,debit card,False,Peter
+132,debit card,False,Margaret
+179,debit card,False,Tom
+123,debit card,False,Isabella
+44,debit card,False,Mary
+125,credit card,True,Wilson
+45,credit card,False,Isabella
+11,credit card,False,Mary
+25,credit card,False,Yumi
+68,credit card,False,Margaret
+174,credit card,False,Mary
+55,credit card,False,Rachel
+118,app balance,True,Mahmoud
+116,app balance,False,Bob
+64,app balance,False,Jerry
+18,debit card,True,Mahmoud
+117,debit card,False,Wilson
+32,credit card,False,Victoria
+15,credit card,False,Yumi
+98,credit card,False,Jerry
+121,app balance,False,Isabella
+111,credit card,False,Margaret
+3,credit card,False,Victoria
+75,credit card,False,Rachel
+148,credit card,False,Bob
+58,credit card,False,Svetlana
+49,debit card,False,Margaret
+120,app balance,False,Emma
+153,app balance,False,Svetlana
+72,app balance,False,Mary
+24,app balance,False,Peter
+72,app balance,False,Amelia
+134,debit card,False,Mary
+31,debit card,False,Svetlana
+96,debit card,False,Peter
+176,debit card,False,Margaret
+149,debit card,False,Victoria
+149,debit card,True,Mahmoud
+155,app balance,False,Yumi
+47,app balance,False,Mary
+82,debit card,False,Wilson
+116,credit card,False,Mary
+131,app balance,False,Wilson
+171,credit card,True,Victoria
+169,credit card,True,Jerry
+100,app balance,False,Mary
+152,credit card,True,Emma
+77,app balance,False,Diego
+25,app balance,False,Yumi
+168,app balance,False,Mary
+79,app balance,False,Margaret
+74,credit card,False,Isabella
+82,credit card,False,Jerry
+50,credit card,True,Emma
+126,app balance,False,Amelia
+119,app balance,False,Diego
+121,app balance,False,Mary
+132,debit card,False,Wilson
+89,app balance,False,Margaret
+116,debit card,False,Emma
+43,credit card,True,Mahmoud
+93,credit card,True,Wilson
+17,debit card,True,Svetlana
+90,debit card,False,Mahmoud
+18,credit card,False,Margaret
+129,debit card,False,Emma
+141,debit card,False,Margaret
+127,debit card,True,Diego
+97,debit card,False,Victoria
+10,credit card,False,Margaret
+121,credit card,False,Amelia
+85,credit card,False,Mary
+97,credit card,False,Rachel
+51,debit card,False,Wilson
+104,app balance,False,Jerry
+62,app balance,False,Amelia
+114,app balance,True,Isabella
+122,credit card,False,Diego

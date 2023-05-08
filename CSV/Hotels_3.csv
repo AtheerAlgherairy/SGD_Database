@@ -1,0 +1,1492 @@
+average_rating,check_in_date,check_out_date,hotel_name,location,number_of_rooms,pets_welcome,phone_number,price,street_address
+4.3,,,Springhill Suites By Marriott Fresno,Fresno,,FALSE,+1 888-287-9400,720,6844 North Fresno Street
+4.4,,,Novotel London Tower Bridge Hotel,London,,TRUE,+44 20 7660 0675,952,10 Pepys Street
+4.2,,,Holiday Inn Express London - Excel,London,,FALSE,+44 20 3096 5888,396,1018 Dockside Road
+4.5,,,"Sls Hotel, A Luxury Collection Hotel, Beverly Hills",Los Angeles,,TRUE,+1 310-247-0400,1344,465 La Cienega Boulevard
+4,,,Travelodge Anaheim Inn And Suite,Anaheim,,FALSE,+1 800-576-0767,1728,1057 West Ball Road
+3.7,,,Ibis Sydney World Square,Sydney,,FALSE,+61 2 8267 3111,2808,382/384 Pitt Street
+4.4,,,Even Hotel Seattle Downtown - Lake Union,Seattle,,TRUE,+1 206-596-2302,1080,527 Fairview Avenue North
+4.4,,,Renaissance Paris Vendome Hotel,Paris,,FALSE,+33 1 40 20 20 00,208,"4 Rue du Mont Thabor, 75001"
+4,,,Kyriad Paris Bercy Village,Paris,,TRUE,+33 1 44 67 75 75,1452,"17 Rue Baron le Roy, 75012"
+4.2,,,Crowne Plaza Portland-Downtown Conv Ctr,Portland,,FALSE,+1 503-233-2401,2520,1441 Northeast 2nd Avenue
+4.1,,,Tropicana Inn & Suites,Anaheim,,FALSE,+1 714-635-4082,1584,1540 South Harbor Boulevard
+3.9,,,Timhotel Paris Place D'Italie,Paris,,TRUE,+33 1 44 24 01 01,609,"178 Boulevard Vincent Auriol, 75013"
+4.6,,,Amastan Paris,Paris,,FALSE,+33 1 49 52 99 70,1664,"34 Rue Jean Mermoz, 75008"
+4.2,,,Hotel Griffon,San Francisco,,FALSE,+1 415-495-2100,2916,"1206, 155 Steuart Street"
+4.2,,,Hampton Inn Portland-Airport,Portland,,FALSE,+1 503-288-2423,3648,8633 Northeast Airport Way
+4.2,,,Fairfield Inn & Suites By Marriott New York Manhattan/Central Park,New York,,FALSE,+1 212-757-8550,1364,538 West 58th Street
+4.5,,,Dossier,Portland,,TRUE,+1 877-628-4408,968,750 Southwest Alder Street
+3.8,,,Doubletree By Hilton Hotel New York City - Chelsea,New York,,TRUE,+1 212-564-0994,93,128 West 29th Street
+4.4,,,Penn'S View Hotel,Philadelphia,,FALSE,+1 800-331-7634,1400,14 North Front Street
+3.9,,,Hotel Le Bleu,New York,,FALSE,+1 866-427-6073,2592,"370 4th Avenue, Brooklyn"
+4.1,,,Furama Bukit Bintang,Kuala Lumpur,,FALSE,+60 3-2788 8888,3696,"136, Jalan Changkat Thambi Dollah, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan"
+3.8,,,Travelodge London Farringdon,London,,TRUE,+44 871 984 6274,702,10 - 42 King's Cross Road
+3.9,,,Eurostars Wall Street,New York,,FALSE,+1 212-742-0003,1332,129 Front Street
+4.4,,,Hotel Indigo Atlanta Downtown,Atlanta,,TRUE,+1 404-523-7600,2496,230 Peachtree Street
+4.3,,,"Victory House, London Leicester Square",London,,FALSE,+44 20 3909 4100,1008,14 Leicester Place
+3.4,,,Travelodge Seattle By The Space Needle,Seattle,,FALSE,+1 206-962-8678,1224,200 6th Avenue North
+3.5,,,Travelodge London Battersea,London,,TRUE,+44 871 984 6189,1512,200 York Road
+3.9,,,Piccadilly Inn Airport,Fresno,,FALSE,+1 559-375-7760,666,5115 East McKinley Avenue
+4,,,Clarion Inn & Suites Atlanta Downtown,Atlanta,,FALSE,+1 404-893-4663,720,186 Northside Drive Southwest
+3.8,,,Best Western Jfk Airport Hotel,New York,,FALSE,+1 718-977-2100,2340,"14425 153rd Lane, Jamaica"
+3.9,,,Comfort Inn Buckingham Palace Road,London,,FALSE,+44 20 7834 2988,828,10 Saint George's Drive
+2.6,,,Hotel Paris Bercy,Paris,,FALSE,+33 1 43 43 31 91,588,"21 Rue de Wattignies, 75012"
+4,,,Nu Hotel,Kuala Lumpur,,FALSE,+60 3-2274 9000,2592,"37, Jalan Thambipillay, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan"
+4.2,,,Beverly Hills Marriott,Los Angeles,,FALSE,+1 310-553-6561,1472,1150 South Beverly Drive
+4.3,,,Vibe Hotel North Sydney,Sydney,,FALSE,+61 2 9955 1111,1764,"171 Pacific Highway, North"
+4.5,,,Alila Bangsar,Kuala Lumpur,,FALSE,+60 3-2268 3888,240,"East Side, 58, Jalan Ang Seng, Brickfields, 50470"
+4.4,,,Aloft Kuala Lumpur Sentral,Kuala Lumpur,,FALSE,+60 3-2723 1188,5616,"No. 5, Jalan Stesen Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan"
+3.9,,,Ancasa Hotel & Spa Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2026 6060,198,"Jalan Tun Tan Cheng Lock, City Centre, 50500 Kuala Lumpur, Wilayah Persekutuan"
+3.5,,,Arenaa Star Hotel,Kuala Lumpur,,FALSE,+60 3-2078 0988,1080,"49-51, Jalan Hang Lekiu, 50100"
+4.8,,,Banyan Tree Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2113 1888,480,"2, Jalan Conlay, 50450 Kuala Lumpur, Wilayah Persekutuan"
+3.7,,,Citin Hotel Masjid Jamek,Kuala Lumpur,,FALSE,+60 3-2693 2999,3159,"33, Jalan Melayu, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan"
+4,,,Cititel Mid Valley,Kuala Lumpur,,FALSE,+60 3-2296 1188,552,"Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan"
+4.2,,,Concorde Hotel Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2144 2200,2268,"2, Jalan Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan"
+4,,,Container Hotel,Kuala Lumpur,,FALSE,+60 12-702 2851,2072,"Jalan Delima, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan"
+4,,,Corus Hotel Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2161 8888,336,"Jalan Ampang, Hampshire Park, 50450 Kuala Lumpur, Wilayah Persekutuan"
+3.9,,,Ancasa Hotel & Spa Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2026 6060,1404,"Jalan Tun Tan Cheng Lock, City Centre, 50500 Kuala Lumpur, Wilayah Persekutuan"
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,990,2889 East Hastings Street
+4.1,,,Auberge Vancouver Hotel,Vancouver,,FALSE,+1 604-678-8899,2760,837 West Hastings Street
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,2232,1100 Granville Street
+4,,,Best Western Plus Sands,Vancouver,,TRUE,+1 604-682-1831,1768,1755 Davie Street
+4.3,,,Blue Horizon Hotel,Vancouver,,FALSE,+1 604-688-1411,2736,1225 Robson Street
+4.3,,,Coast Coal Harbour Vancouver Hotel By Apa,Vancouver,,TRUE,+1 604-697-0202,348,1180 West Hastings Street
+3.5,,,Coast Vancouver Airport Hotel,Vancouver,,FALSE,+1 604-263-1555,918,1041 Southwest Marine Drive
+3.2,,,Days Inn By Wyndham Vancouver Downtown,Vancouver,,FALSE,+1 604-681-4335,621,921 West Pender Street
+4.5,,,Delta Hotels By Marriott Vancouver Downtown Suites,Vancouver,,TRUE,+1 844-254-5048,1800,550 West Hastings Street
+4.4,,,Exchange Hotel Vancouver,Vancouver,,FALSE,+1 604-563-4693,1632,475 Howe Street
+4.4,,,Georgian Court Hotel,Vancouver,,TRUE,+1 800-663-1155,1056,773 Beatty Street
+4.4,,,Hampton Inn & Suites,Vancouver,,TRUE,+1 604-602-1008,2112,111 Robson Street
+4.4,,,Hotel Blu Vancouver,Vancouver,,TRUE,+1 604-620-6200,1116,177 Robson Street
+4.7,,,L'Hermitage Vancouver,Vancouver,,TRUE,+1 888-855-1050,1716,788 Richards Street
+4.7,,,Loden Hotel,Vancouver,,TRUE,+1 604-669-5060,1296,1177 Melville Street
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,1232,998 West Mission Bay Drive
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,1440,2575 Clairemont Drive
+4.3,,,Best Western Plus Bayside Inn,San Diego,,FALSE,+1 619-233-7500,2000,555 West Ash Street
+4.2,,,Best Western Plus Hacienda Hotel Old Town,San Diego,,FALSE,+1 619-298-4707,720,4041 Harney Street
+4.5,,,Best Western Plus Island Palms Hotel & Marina,San Diego,,FALSE,+1 619-222-0561,2072,2051 Shelter Island Drive
+3.9,,,Best Western San Diego/Miramar Hotel,San Diego,,FALSE,+1 858-578-6600,4212,9310 Kearny Mesa Road
+3.7,,,Best Western Seven Seas,San Diego,,FALSE,+1 619-291-1300,1800,411 Hotel Circle South
+4,,,Best Western Yacht Harbor Hotel,San Diego,,FALSE,+1 619-224-3254,720,5005 North Harbor Drive
+4.4,,,Blue Sea Beach Hotel,San Diego,,FALSE,+1 858-488-4700,928,707 Pacific Beach Drive
+4.3,,,Capri By The Sea By All Seasons Resort Lodging,San Diego,,FALSE,+1 858-483-6110,1104,4767 Ocean Boulevard
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,4884,"60 Furman Street, Brooklyn"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,1944,1414 6th Avenue
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,432,11 Howard Street
+4,,,6 Columbus Hotel,New York,,TRUE,+1 212-204-3000,3536,308 West 58th Street
+4.5,,,Ac Hotel New York Times Square,New York,,FALSE,+1 212-398-2700,496,260 West 40th Street
+4.3,,,Ace Hotel,New York,,TRUE,+1 212-991-0551,3960,20 West 29th Street
+3.9,,,Adria Hotel & Conference Center,New York,,FALSE,+1 718-631-5900,684,"221-17 Northern Boulevard, Bayside"
+4.4,,,Aka Central Park,New York,,FALSE,+1 646-744-3100,2352,42 West 58th Street
+4.4,,,Aka Times Square,New York,,TRUE,+1 212-764-5700,1728,123 West 44th Street
+4.6,,,Aka Wall Street,New York,,FALSE,+1 212-252-9090,744,84 William Street
+4,,,Aloft Atlanta Downtown,Atlanta,,TRUE,+1 678-515-0300,456,300 Ted Turner Drive Northwest
+3.3,,,"Country Inn & Suites By Radisson, Atlanta Downtown South At Turner Field, Ga",Atlanta,,TRUE,+1 404-658-1961,1209,759 Pollard Boulevard Southwest
+3.9,,,Crowne Plaza Atlanta - Midtown,Atlanta,,TRUE,+1 404-877-9000,2178,590 West Peachtree Street Northwest
+4.2,,,Home2 Suites By Hilton Atlanta Downtown,Atlanta,,TRUE,+1 404-965-7992,3840,87 Walton Street Northwest
+4.4,,,Hotel Indigo Atlanta Downtown,Atlanta,,TRUE,+1 404-523-7600,2736,230 Peachtree Street
+4.3,,,Hyatt Centric Midtown Atlanta,Atlanta,,TRUE,+1 404-443-1234,3848,125 10th Street Northeast
+4.3,,,Hyatt House Atlanta/Downtown,Atlanta,,TRUE,+1 404-332-5522,3120,431 Marietta Street NorthWest
+4.1,,,Hyatt Place Atlanta/Buckhead,Atlanta,,TRUE,+1 404-869-6161,1200,3242 Peachtree Road Northeast
+4.2,,,Hyatt Place Atlanta/Downtown,Atlanta,,TRUE,+1 404-577-1980,1320,330 Peachtree Street Northeast
+3.9,,,La Quinta Inn & Suites By Wyndham Atlanta Midtown - Buckhead,Atlanta,,TRUE,+1 404-321-0999,675,2535 Chantilly Drive Northeast
+4.1,,,Adina Apartment Hotel Sydney Darling Harbour,Sydney,,FALSE,+61 2 9249 7000,2880,55 Shelley Street
+4,,,Adina Apartment Hotel Sydney Town Hall,Sydney,,FALSE,+61 2 9274 0000,1176,511 Kent Street
+3.6,,,Adina Serviced Apartments Sydney Martin Place (Formerly Medina),Sydney,,FALSE,+61 1300 633 462,1701,1 Hosking Place
+4.3,,,Amora Hotel,Sydney,,FALSE,+61 2 9696 2500,4212,11 Jamison Street
+3.6,,,Base Backpackers Sydney,Sydney,,FALSE,+61 1800 242 273,279,477 Kent Street
+2.9,,,Breakfree On Clarence,Sydney,,FALSE,+61 2 8017 8888,1664,193-195 Clarence Street
+3.6,,,Breakfree On George,Sydney,,FALSE,+61 132007,3240,653 George Street
+4.1,,,Courtyard By Marriott Sydney-North Ryde,Sydney,,FALSE,+61 2 9491 9500,768,7-11 Talavera Road North Ryde
+4.2,,,Establishment Hotel,Sydney,,FALSE,+61 2 9240 3100,3024,5 Bridge Lane
+4.4,,,Fraser Suites Sydney,Sydney,,FALSE,+61 2 8823 8888,2784,488 Kent Street
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,320,630 North Rush Street
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,1440,311 North Morgan Street
+4.5,,,Acme Hotel Company Chicago,Chicago,,FALSE,+1 312-894-0800,3552,15 East Ohio Street
+4.5,,,Aloft Chicago Downtown River North,Chicago,,TRUE,+1 312-661-1000,960,515 North Clark Street
+3.9,,,Aloft Chicago Mag Mile,Chicago,,TRUE,+1 312-429-6600,1053,243 East Ontario Street
+4.2,,,Ambassador Chicago,Chicago,,FALSE,+1 888-506-3471,3552,1301 North State Parkway
+3.9,,,Best Western Grant Park Hotel,Chicago,,FALSE,+1 312-922-2900,207,1100 South Michigan Avenue
+4.3,,,Best Western Plus Hawthorne Terrace Hotel,Chicago,,TRUE,+1 773-244-3434,2400,3434 N Broadway Ave
+4.1,,,Best Western River North Hotel,Chicago,,FALSE,+1 312-467-0800,744,125 West Ohio Street
+4.2,,,Cambria Hotel Chicago Magnificent Mile,Chicago,,FALSE,+1 312-787-6000,2728,166 East Superior Street
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,1344,45 Park Lane
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,960,121 Sussex Gardens
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,552,28-30 Bute Gardens
+4.1,,,Accommodation London Bridge,London,,FALSE,+44 20 7403 4299,1520,58 Great Dover Street
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,1400,100 Shoreditch High Street
+3.7,,,Airways Hotel London Victoria,London,,FALSE,+44 20 7834 0205,2592,29-31 Saint George's Drive
+4.5,,,Amba Hotel Charing Cross,London,,FALSE,+44 871 376 9012,2480,Strand
+4.2,,,Amba Hotel Marble Arch,London,,FALSE,+44 800 330 8523,624,Bryanston Street
+3.9,,,Ambassadors Bloomsbury Hotel,London,,FALSE,+44 20 7388 9930,720,12 Upper Woburn Place
+3,,,Ambassadors Hotel,London,,FALSE,+44 20 7373 1075,198,16 Collingham Road
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,1170,28-30 Bute Gardens
+4.2,,,Amba Hotel Marble Arch,London,,FALSE,+44 800 330 8523,1408,Bryanston Street
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,3168,1600 South Harbor Boulevard
+4,,,Anaheim Majestic Garden Hotel,Anaheim,,TRUE,+1 714-778-1700,2400,900 South Disneyland Drive
+3.9,,,Anaheim Portofino Inn & Suites,Anaheim,,FALSE,+1 800-341-6301,2112,1831 South Harbor Boulevard
+4.4,,,Anaheim Rv Park,Anaheim,,TRUE,+1 714-774-3860,3648,200 West Midway Drive
+4.5,,,Ayres Hotel Anaheim,Anaheim,,FALSE,+1 714-634-2106,2520,2550 East Katella Avenue
+4.4,,,Best Western Plus Anaheim Inn,Anaheim,,FALSE,+1 714-774-1050,1624,1630 South Harbor Boulevard
+4.3,,,Best Western Plus Park Place Inn - Mini Suites,Anaheim,,FALSE,+1 714-776-4800,2304,1544 South Harbor Boulevard
+4.3,,,Best Western Plus Pavilions,Anaheim,,FALSE,+1 714-776-0140,5460,1176 West Katella Avenue
+4.1,,,Best Western Plus Raffles Inn & Suites,Anaheim,,FALSE,+1 714-750-6100,2100,2040 South Harbor Boulevard
+4.3,,,Best Western Plus Stovall'S Inn,Anaheim,,FALSE,+1 714-778-1880,528,1110 West Katella Avenue
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,672,1600 South Harbor Boulevard
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,1008,"6 Rue Gustave Charpentier, 75017"
+4.6,,,Amastan Paris,Paris,,FALSE,+33 1 49 52 99 70,1056,"34 Rue Jean Mermoz, 75008"
+3.4,,,Aparthotel Adagio Access Paris La Villette,Paris,,TRUE,+33 1 44 72 42 00,900,"28bis Avenue Corentin Cariou, 75019"
+4.1,,,Aparthotel Adagio Paris Montmartre,Paris,,TRUE,+33 1 42 57 14 55,1680,"10 Place Charles Dullin, 75018"
+3.7,,,Austin'S Saint Lazare HoTel,Paris,,FALSE,+33 1 48 74 48 71,3267,"26 Rue d'Amsterdam, 75009"
+3.7,,,Avalon Hotel Paris Gare Du Nord,Paris,,TRUE,+33 1 42 85 50 00,405,"131 Boulevard de Magenta, 75010"
+3.6,,,Best Western Bretagne Montparnasse,Paris,,FALSE,+33 1 45 38 52 59,600,"33 Rue Raymond Losserand, 75014"
+4.4,,,Bob Hotel By Elegancia,Paris,,FALSE,+33 1 40 43 02 33,400,"30 Rue Pernety, 75014"
+4.1,,,Brach Paris,Paris,,FALSE,+33 1 44 30 10 00,864,"1-7 Rue Jean Richepin, 75016"
+4.5,,,Buddha-Bar Hotel Paris,Paris,,TRUE,+33 1 83 96 88 88,936,"4 Rue d'Anjou, 75008"
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,1672,"6 Rue Gustave Charpentier, 75017"
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,2340,3600 Wieuca Road Northeast
+4.3,,,Ac Hotel By Marriott Atlanta Downtown,Atlanta,,FALSE,+1 404-524-5555,3276,101 Andrew Young International Boulevard Northwest
+4.2,,,Atlanta Marriott Suites Midtown,Atlanta,,FALSE,+1 404-876-8888,3888,35 14th Street Northeast
+3.1,,,Barclay Hotel Atlanta Downtown,Atlanta,,FALSE,+1 404-524-7991,3150,89 Luckie Street Northwest
+4.7,,,Canopy By Hilton Atlanta Midtown,Atlanta,,FALSE,+1 404-685-1677,2904,1414 West Peachtree Street Northwest
+4,,,Clarion Inn & Suites Atlanta Downtown,Atlanta,,FALSE,+1 404-893-4663,1184,186 Northside Drive Southwest
+4.1,,,Courtyard By Marriott Atlanta Buckhead,Atlanta,,FALSE,+1 404-869-0818,5772,3332 Peachtree Road Northeast
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,832,3600 Wieuca Road Northeast
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,522,749 Taylor Street
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,324,495 Jefferson Street
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,1480,2222 Market Street
+2.6,,,Bei Hotel San Francisco,San Francisco,,TRUE,+1 415-626-6103,468,50 8th Street
+4,,,Beresford Arms Hotel,San Francisco,,TRUE,+1 415-673-2600,3040,701 Post Street
+3.6,,,Casa Loma Hotel,San Francisco,,FALSE,+1 415-552-7100,720,610 Fillmore Street
+4.3,,,Chancellor Hotel On Union Square,San Francisco,,FALSE,+1 415-362-2004,1104,433 Powell Street
+4.1,,,Chelsea,San Francisco,,FALSE,+1 415-563-5600,4884,2095 Lombard Street
+3.9,,,Comfort Inn By The Bay,San Francisco,,FALSE,+1 415-928-5000,435,2775 Van Ness Avenue
+4.3,,,Cornell Hotel De France,San Francisco,,FALSE,+1 415-421-3154,1440,715 Bush Street
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,1008,2222 Market Street
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,2088,4450 East Washington Street
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,600,8000 Arizona Grand Parkway
+4.4,,,Cambria Hotel North Scottsdale Desert Ridge,Phoenix,,FALSE,+1 480-585-6644,1924,4425 E Irma Ln&nbsp
+3.8,,,Comfort Suites Phoenix North,Phoenix,,TRUE,+1 602-861-3900,1650,10210 North 26th Drive
+4.5,,,Courtyard By Marriott Phoenix Downtown,Phoenix,,FALSE,+1 602-603-2001,992,132 South Central Avenue
+4.1,,,Crowne Plaza Phoenix Airport,Phoenix,,TRUE,+1 602-273-7778,1392,4300 East Washington Street
+3.1,,,Days Inn By Wyndham Airport - Phoenix,Phoenix,,FALSE,+1 800-615-3107,2457,2900 East Van Buren Street
+4.1,,,Doubletree Suites By Hilton Hotel Phoenix,Phoenix,,TRUE,+1 602-225-0500,648,320 North 44th Street
+4.5,,,Drury Inn & Suites Phoenix Airport,Phoenix,,TRUE,+1 602-437-8400,592,3333 East University Drive
+4.5,,,Drury Inn & Suites Phoenix Happy Valley,Phoenix,,TRUE,+1 623-879-8800,640,2335 West Pinnacle Peak Road
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,456,45 Park Lane
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,4836,100 Shoreditch High Street
+4.2,,,Citadines Barbican London (Apart Hotel London),London,,TRUE,+44 20 7566 8000,5460,7-21 Goswell Road
+4.1,,,Citadines Holborn-Covent Garden London (Apart Hotel London),London,,TRUE,+44 20 7395 8800,2208,94-99 High Holborn
+4.2,,,Citadines Trafalgar Square London (Apart Hotel London),London,,TRUE,+44 20 7766 3700,1872,18-21 Northumberland Avenue
+4.4,,,Como Metropolitan London,London,,TRUE,+44 20 7447 1000,5928,19 Old Park Lane
+3.8,,,Days Inn London Hyde Park,London,,TRUE,+44 20 7723 2939,2736,148-152 Sussex Gardens
+4.1,,,De Vere Devonport House,London,,TRUE,+44 871 222 4796,4896,King William Walk
+4.6,,,Devonshire Club,London,,TRUE,+44 20 3750 4545,4680,5 Devonshire Square
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,324,11 Howard Street
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,3168,11 Howard Street
+4.5,,,Ac Hotel New York Times Square,New York,,FALSE,+1 212-398-2700,2592,260 West 40th Street
+4.6,,,Aka Wall Street,New York,,FALSE,+1 212-252-9090,2088,84 William Street
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,2960,1414 6th Avenue
+3.9,,,Best Western Plus Toronto North York Hotel & Suites,Toronto,,FALSE,+1 416-663-9500,198,50 Norfinch Drive
+3,,,Best Western Primrose Hotel Downtown-Toronto,Toronto,,TRUE,+1 800-780-7234,228,111 Carlton Street
+4.4,,,Bisha Hotel Toronto,Toronto,,TRUE,+1 416-551-2800,440,80 Blue Jays Way
+3.7,,,Bond Place Hotel Toronto,Toronto,,FALSE,+1 800-268-9390,2232,65 Dundas Street East
+4.1,,,Cambridge Suites Toronto,Toronto,,FALSE,+1 800-463-1990,1776,15 Richmond Street East
+4.1,,,Courtyard By Marriott Toronto Downtown,Toronto,,FALSE,+1 416-924-0611,2340,475 Yonge Street
+3.4,,,Days Inn By Wyndham Toronto East Beaches,Toronto,,FALSE,+1 647-693-6842,1980,1684 Queen Street East
+4.2,,,Doubletree By Hilton Hotel Toronto Downtown,Toronto,,FALSE,+1 416-977-5000,1056,108 Chestnut Street
+4.4,,,Embassy Suites By Hilton Toronto Airport,Toronto,,TRUE,+1 416-674-8442,480,262 Carlingview Drive
+3.9,,,Executive Hotel Cosmopolitan Toronto,Toronto,,FALSE,+1 855-958-3488,2106,8 Colborne Street
+4.2,,,Aliz Hotel Times Square,New York,,TRUE,+1 646-609-5122,5460,310 West 40th Street
+4.2,,,Aloft Harlem,New York,,TRUE,+1 212-749-4000,2808,2296 Frederick Douglass Boulevard
+4.2,,,Aloft Long Island City-Manhattan View,New York,,TRUE,+1 718-433-9305,1872,"27-45 Jackson Avenue, Long Island City"
+4.1,,,Aloft Manhattan Downtown - Financial District,New York,,TRUE,+1 212-513-0003,3456,49-53 Ann Street
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,2720,45 Park Lane
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,1320,6399 Wilshire Boulevard
+4.1,,,Best Western Plus Dragon Gate Inn,Los Angeles,,TRUE,+1 213-617-3077,432,818 North Hill Street
+4.2,,,Beverly Hills Marriott,Los Angeles,,FALSE,+1 310-553-6561,1188,1150 South Beverly Drive
+4.1,,,Beverly Laurel Motor Hotel,Los Angeles,,FALSE,+1 800-947-7666,2376,8018 Beverly Boulevard
+4.2,,,Courtyard By Marriott Los Angeles Century City/Beverly Hills,Los Angeles,,FALSE,+1 310-556-2777,2640,10320 West Olympic Boulevard
+4.4,,,Courtyard By Marriott Los Angeles L.A. Live,Los Angeles,,FALSE,+1 213-443-9222,1040,901 West Olympic Boulevard
+4.2,,,Courtyard By Marriott Los Angeles Lax/Century Boulevard,Los Angeles,,FALSE,+1 310-649-1400,304,6161 West Century Boulevard
+4.1,,,Crowne Plaza Los Angeles Airport,Los Angeles,,FALSE,+1 310-642-7500,1600,5985 West Century Boulevard
+3.6,,,Dunes Inn - Wilshire,Los Angeles,,FALSE,+1 323-938-3617,630,4300 Wilshire Boulevard
+4.3,,,Embassy Suites By Hilton Los Angeles International Airport North,Los Angeles,,FALSE,+1 310-215-1000,756,9801 Airport Boulevard
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,672,2222 Market Street
+4.3,,,Chancellor Hotel On Union Square,San Francisco,,FALSE,+1 415-362-2004,2448,433 Powell Street
+3.9,,,Comfort Inn By The Bay,San Francisco,,FALSE,+1 415-928-5000,450,2775 Van Ness Avenue
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,456,749 Taylor Street
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,1980,1414 6th Avenue
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,552,11 Howard Street
+4,,,6 Columbus Hotel,New York,,TRUE,+1 212-204-3000,4212,308 West 58th Street
+4.5,,,Ac Hotel New York Times Square,New York,,FALSE,+1 212-398-2700,4356,260 West 40th Street
+3.9,,,Ancasa Hotel & Spa Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2026 6060,1260,"Jalan Tun Tan Cheng Lock, City Centre, 50500 Kuala Lumpur, Wilayah Persekutuan"
+4.4,,,Aloft Kuala Lumpur Sentral,Kuala Lumpur,,FALSE,+60 3-2723 1188,3744,"No. 5, Jalan Stesen Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan"
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,2016,11 Howard Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1344,"60 Furman Street, Brooklyn"
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,2808,28-30 Bute Gardens
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,184,9920 Northeast Cascades Parkway
+4.7,,,Canopy By Hilton Portland Pearl District,Portland,,TRUE,+1 971-351-0230,3648,425 Northwest 9th Avenue
+4.3,,,Courtyard By Marriott Portland City Center,Portland,,TRUE,+1 503-505-5000,1488,550 Southwest Oak Street
+4.5,,,Dossier,Portland,,TRUE,+1 877-628-4408,936,750 Southwest Alder Street
+4.2,,,Doubletree By Hilton Hotel Portland,Portland,,TRUE,+1 503-281-6111,528,1000 Northeast Multnomah Street
+3.8,,,Holiday Inn Portland-Airport (I-205),Portland,,TRUE,+1 503-256-5000,1638,8439 Northeast Columbia Boulevard
+4.6,,,Hyatt House Portland/Downtown,Portland,,TRUE,+1 503-241-2775,2304,2080 Southwest River Drive
+4.4,,,Hyatt Place Portland Airport /Cascade Station,Portland,,TRUE,+1 503-288-2808,2600,9750 Northeast Cascades Parkway
+4.6,,,Kimpton Hotel Monaco Portland,Portland,,TRUE,+1 503-222-0001,160,506 Southwest Washington Street
+4.5,,,Kimpton Riverplace Hotel,Portland,,TRUE,+1 888-869-3108,304,1510 Southwest Harbor Way
+4.2,,,Citadines Trafalgar Square London (Apart Hotel London),London,,TRUE,+44 20 7766 3700,540,18-21 Northumberland Avenue
+4.1,,,De Vere Devonport House,London,,TRUE,+44 871 222 4796,736,King William Walk
+4.3,,,Dorset Square Hotel,London,,TRUE,+44 20 7723 7874,3348,39-40 Dorset Square
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,4896,998 West Mission Bay Drive
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,3240,2575 Clairemont Drive
+4.3,,,Best Western Plus Bayside Inn,San Diego,,FALSE,+1 619-233-7500,1620,555 West Ash Street
+4.5,,,Best Western Plus Island Palms Hotel & Marina,San Diego,,FALSE,+1 619-222-0561,1116,2051 Shelter Island Drive
+3.7,,,Best Western Seven Seas,San Diego,,FALSE,+1 619-291-1300,2079,411 Hotel Circle South
+4,,,Best Western Yacht Harbor Hotel,San Diego,,FALSE,+1 619-224-3254,1392,5005 North Harbor Drive
+4.4,,,Blue Sea Beach Hotel,San Diego,,FALSE,+1 858-488-4700,5772,707 Pacific Beach Drive
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,198,2889 East Hastings Street
+4,,,Best Western Plus Sands,Vancouver,,TRUE,+1 604-682-1831,1512,1755 Davie Street
+4.3,,,Coast Coal Harbour Vancouver Hotel By Apa,Vancouver,,TRUE,+1 604-697-0202,3024,1180 West Hastings Street
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,1485,2889 East Hastings Street
+3.7,,,Four Points By Sheraton Los Angeles International Airport,Los Angeles,,TRUE,+1 310-645-4600,1155,9750 Airport Boulevard
+4.6,,,Four Seasons Hotel Los Angeles At Beverly Hills,Los Angeles,,TRUE,+1 310-273-2222,3828,300 Doheny Drive
+4.3,,,Freehand Los Angeles,Los Angeles,,TRUE,+1 213-612-0021,800,416 West 8th Street
+4.5,,,Hotel Indigo Los Angeles Downtown,Los Angeles,,TRUE,+1 213-232-8800,2100,899 Francisco Street
+4.5,,,Intercontinental Los Angeles Downtown,Los Angeles,,TRUE,+1 213-688-7777,920,900 Wilshire Boulevard
+4.6,,,Kimpton Everly Hotel,Los Angeles,,TRUE,+1 213-279-3532,1352,1800 Argyle Avenue
+4.4,,,Kimpton Hotel Palomar Los Angeles Beverly Hills,Los Angeles,,TRUE,+1 310-475-8711,2640,10740 Wilshire Boulevard
+4.2,,,Kimpton Hotel Wilshire,Los Angeles,,TRUE,+1 323-852-6000,1440,6317 Wilshire Boulevard
+3.7,,,La Quinta Inn & Suites By Wyndham Lax,Los Angeles,,TRUE,+1 310-645-2200,324,5249 West Century Boulevard
+4.6,,,Four Seasons Hotel Los Angeles At Beverly Hills,Los Angeles,,TRUE,+1 310-273-2222,444,300 Doheny Drive
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,4488,1414 6th Avenue
+4.1,,,Doubletree By Hilton Hotel Sacramento,Sacramento,,TRUE,+1 916-929-8855,1728,2001 Point West Way
+4.2,,,Hilton Sacramento Arden West,Sacramento,,TRUE,+1 916-922-4700,300,2200 Harvard Street
+3.8,,,Holiday Inn Express Sacramento Convention Center,Sacramento,,TRUE,+1 916-444-4436,756,728 16th Street
+4.5,,,Kimpton Sawyer Hotel,Sacramento,,TRUE,+1 916-545-7100,1620,500 J Street
+3.5,,,La Quinta Inn By Wyndham Sacramento Downtown,Sacramento,,TRUE,+1 916-448-8100,528,200 Jibboom Street
+4.4,,,Residence Inn By Marriott Sacramento Downtown At Capitol Park,Sacramento,,TRUE,+1 916-443-0500,1116,1121 15th Street
+4.3,,,Sheraton Grand Sacramento Hotel,Sacramento,,TRUE,+1 916-447-1700,312,"13th And, J Street"
+3.4,,,Surestay Plus Hotel By Best Western Sacramento North,Sacramento,,TRUE,+1 916-497-0955,720,350 Bercut Drive
+4.4,,,"The Citizen Hotel, Autograph Collection",Sacramento,,TRUE,+1 916-447-2700,1260,926 J Street
+4.5,,,The Westin Sacramento,Sacramento,,TRUE,+1 916-443-8400,4320,4800 Riverside Boulevard
+4.2,,,Hilton Sacramento Arden West,Sacramento,,TRUE,+1 916-922-4700,736,2200 Harvard Street
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,168,45 Park Lane
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,1092,28-30 Bute Gardens
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,2552,45 Park Lane
+3.7,,,Avalon Hotel Paris Gare Du Nord,Paris,,TRUE,+33 1 42 85 50 00,918,"131 Boulevard de Magenta, 75010"
+3.6,,,Best Western Bretagne Montparnasse,Paris,,FALSE,+33 1 45 38 52 59,1260,"33 Rue Raymond Losserand, 75014"
+4.4,,,Bob Hotel By Elegancia,Paris,,FALSE,+33 1 40 43 02 33,1440,"30 Rue Pernety, 75014"
+4.6,,,Amastan Paris,Paris,,FALSE,+33 1 49 52 99 70,528,"34 Rue Jean Mermoz, 75008"
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,420,"60 Furman Street, Brooklyn"
+3.9,,,Aloft Chicago Mag Mile,Chicago,,TRUE,+1 312-429-6600,819,243 East Ontario Street
+4.2,,,Cambria Hotel Chicago Magnificent Mile,Chicago,,FALSE,+1 312-787-6000,1300,166 East Superior Street
+4.5,,,Acme Hotel Company Chicago,Chicago,,FALSE,+1 312-894-0800,1440,15 East Ohio Street
+4.2,,,Azure Hotel Nairobi Westlands,Nairobi,,FALSE,+254 709 716000,4560,Lantana Road
+4.4,,,Crowne Plaza Nairobi,Nairobi,,FALSE,+254 719 096000,1056,"Kenya Road, Upper Hill"
+4.4,,,Crowne Plaza Nairobi Airport,Nairobi,,FALSE,+254 709 222444,480,First Freight Lane Jomo Kenyatta International Airport
+4.4,,,Doubletree By Hilton Nairobi Hurlingham,Nairobi,,FALSE,+254 709 090000,1872,Ngong Lane Ngong Road
+4.5,,,Dusitd2 Nairobi,Nairobi,,FALSE,+254 787 657000,2520,14 Riverside Westlands
+4.4,,,Eka Hotel Nairobi,Nairobi,,FALSE,+254 719 045000,4752,"Eka Hotel, Along Mombasa Road"
+4.5,,,Four Points By Sheraton Nairobi Airport,Nairobi,,FALSE,+254 709 760000,320,9042/1044 Tower Avenue Jomo Kenyatta Intl Airport
+4.7,,,Hemingways Nairobi,Nairobi,,FALSE,+254 711 032000,240,Mbagathi Ridge
+4.5,,,Hilton Garden Inn Nairobi Airport,Nairobi,,FALSE,+254 20 4075000,1480,Jomo Kenyatta International Airport Mombasa Road
+4.4,,,Intercontinental Hotel,Nairobi,,FALSE,+254 20 3200000,144,City Hall Way
+4.1,,,Best Western Plus Dragon Gate Inn,Los Angeles,,TRUE,+1 213-617-3077,4080,818 North Hill Street
+4.2,,,Beverly Hills Marriott,Los Angeles,,FALSE,+1 310-553-6561,1152,1150 South Beverly Drive
+4.4,,,Courtyard By Marriott Los Angeles L.A. Live,Los Angeles,,FALSE,+1 213-443-9222,2432,901 West Olympic Boulevard
+4.2,,,Courtyard By Marriott Los Angeles Lax/Century Boulevard,Los Angeles,,FALSE,+1 310-649-1400,2160,6161 West Century Boulevard
+4.3,,,Embassy Suites By Hilton Los Angeles International Airport North,Los Angeles,,FALSE,+1 310-215-1000,792,9801 Airport Boulevard
+4.4,,,Catamaran Resort Hotel And Spa,San Diego,,TRUE,+1 858-488-1081,1512,3999 Mission Boulevard
+3.9,,,Crowne Plaza San Diego - Mission Valley,San Diego,,TRUE,+1 619-297-1101,1701,2270 Hotel Circle North
+4.2,,,Doubletree By Hilton Hotel San Diego - Del Mar,San Diego,,TRUE,+1 858-481-5900,1296,11915 El Camino Real
+4.2,,,Doubletree By Hilton Hotel San Diego - Mission Valley,San Diego,,TRUE,+1 619-297-5466,3672,7450 Hazard Center Drive
+4.2,,,Hampton Inn San Diego/Del Mar,San Diego,,TRUE,+1 858-792-5557,720,11920 El Camino Real
+4.2,,,Hilton San Diego Airport/Harbor Island,San Diego,,TRUE,+1 619-291-6700,1872,1960 Harbor Island Drive
+4.4,,,Catamaran Resort Hotel And Spa,San Diego,,TRUE,+1 858-488-1081,3552,3999 Mission Boulevard
+4.2,,,Aloft Harlem,New York,,TRUE,+1 212-749-4000,368,2296 Frederick Douglass Boulevard
+4,,,Aloft New York Brooklyn,New York,,TRUE,+1 718-256-3833,1000,"216 Duffield Street, Brooklyn"
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,1400,1100 H Street
+4.1,,,Courtyard By Marriott Sacramento Midtown,Sacramento,,FALSE,+1 916-455-6800,1080,4422 Y Street
+4.4,,,Embassy Suites By Hilton Sacramento Riverfront Promenade,Sacramento,,FALSE,+1 916-326-5000,4356,100 Capitol Mall
+4.1,,,Fairfield Inn By Marriott Sacramento Cal Expo,Sacramento,,FALSE,+1 916-920-5300,480,1780 Tribute Road
+3.5,,,Four Points By Sheraton Sacramento International Airport,Sacramento,,FALSE,+1 916-263-9000,525,4900 Duckhorn Drive
+4.3,,,Hilton Garden Inn Sacramento/South Natomas,Sacramento,,FALSE,+1 916-568-5400,936,2540 Venture Oaks Way
+4.1,,,Holiday Inn Sacramento Downtown - Arena,Sacramento,,FALSE,+1 916-446-0100,276,300 J Street
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,1344,3600 Wieuca Road Northeast
+4.1,,,Ibis London City - Shoreditch Hotel,London,,FALSE,+44 20 7422 8400,1848,5 Commercial Street
+3.6,,,Casa Loma Hotel,San Francisco,,FALSE,+1 415-552-7100,810,610 Fillmore Street
+4.2,,,Concorde Hotel Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2144 2200,928,"2, Jalan Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan"
+4.2,,,Holiday Inn London - Whitechapel,London,,FALSE,+44 871 942 9299,2856,5 Cavell Street
+4.1,,,Hilton Checkers Los Angeles,Los Angeles,,FALSE,+1 213-624-0000,1628,535 South Grand Avenue
+4.5,,,Springhill Suites By Marriott San Diego Downtown/Bayfront,San Diego,,FALSE,+1 888-287-9400,2400,900 Bayfront Court
+4.4,,,The Kitano Hotel New York,New York,,FALSE,+1 212-885-7000,3120,66 Park Avenue
+3.7,,,Hotel 91,New York,,FALSE,+1 212-266-6800,1827,91 E Broadway
+4.1,,,Auberge Vancouver Hotel,Vancouver,,FALSE,+1 604-678-8899,2432,837 West Hastings Street
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,3240,630 North Rush Street
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,4212,311 North Morgan Street
+4.5,,,Aloft Chicago Downtown River North,Chicago,,TRUE,+1 312-661-1000,3744,515 North Clark Street
+4.3,,,Best Western Plus Hawthorne Terrace Hotel,Chicago,,TRUE,+1 773-244-3434,2592,3434 N Broadway Ave
+4.6,,,Chicago Athletic Association,Chicago,,TRUE,+1 312-940-3552,3744,12 South Michigan Avenue
+3.7,,,Chicago Lake Shore Hotel,Chicago,,TRUE,+1 773-288-5800,540,"3250, 4900B South Lake Shore Drive"
+4.2,,,Comfort Suites Michigan Avenue - Loop,Chicago,,TRUE,+1 623-432-0770,2088,320 North Michigan Avenue
+3.9,,,Crowne Plaza Chicago West Loop,Chicago,,TRUE,+1 312-829-5000,1152,25 South Halsted Street
+4.2,,,Hampton Inn Chicago Downtown/Magnificent Mile,Chicago,,TRUE,+1 312-706-0888,3564,160 East Huron Street
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,1008,311 North Morgan Street
+3.7,,,Cova Hotel,San Francisco,,TRUE,+1 415-771-3000,1728,655 Ellis Street
+3.9,,,Executive Hotel Vintage Court San Francisco,San Francisco,,TRUE,+1 800-654-1100,1584,650 Bush Street
+3.5,,,Hotel Beresford,San Francisco,,TRUE,+1 415-673-9900,240,635 Sutter Street
+3.6,,,Hotel Bijou,San Francisco,,TRUE,+1 415-771-1200,1053,111 Mason Street
+3.8,,,Hotel Diva,San Francisco,,TRUE,+1 844-592-4559,315,440 Geary Street
+3.9,,,Hotel Spero,San Francisco,,TRUE,+1 415-885-2500,540,405 Taylor Street
+3.8,,,Hotel Triton,San Francisco,,TRUE,+1 415-394-0500,180,342 Grant Avenue
+4,,,Beresford Arms Hotel,San Francisco,,TRUE,+1 415-673-2600,4056,701 Post Street
+3.7,,,Cova Hotel,San Francisco,,TRUE,+1 415-771-3000,486,655 Ellis Street
+3.9,,,Executive Hotel Vintage Court San Francisco,San Francisco,,TRUE,+1 800-654-1100,3366,650 Bush Street
+3.5,,,Hotel Beresford,San Francisco,,TRUE,+1 415-673-9900,2016,635 Sutter Street
+3.8,,,Hotel Diva,San Francisco,,TRUE,+1 844-592-4559,2079,440 Geary Street
+3.9,,,Hotel Spero,San Francisco,,TRUE,+1 415-885-2500,189,405 Taylor Street
+3.8,,,Hotel Triton,San Francisco,,TRUE,+1 415-394-0500,1440,342 Grant Avenue
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,2856,2423 1st Avenue
+4.2,,,Belltown Inn,Seattle,,TRUE,+1 866-525-4704,416,2301 3rd Avenue
+4.2,,,Best Western Plus Pioneer Square Hotel Downtown,Seattle,,FALSE,+1 206-340-1234,1288,77 Yesler Way
+4.2,,,Courtyard By Marriott Seattle Downtown/Lake Union,Seattle,,FALSE,+1 206-213-0100,864,925 Westlake Avenue North
+4.4,,,Crowne Plaza Seattle Downtown,Seattle,,FALSE,+1 206-464-1980,1368,1113 6th Avenue
+3,,,Days Inn By Wyndham Seattle North Of Downtown,Seattle,,FALSE,+1 800-615-3107,588,9100 Aurora Avenue North
+4.5,,,Embassy Suites By Hilton Seattle Downtown Pioneer Square,Seattle,,FALSE,+1 206-859-4400,96,255 South King Street
+4.4,,,Even Hotel Seattle Downtown - Lake Union,Seattle,,TRUE,+1 206-596-2302,1036,527 Fairview Avenue North
+3.3,,,Extended Stay America - Seattle - Northgate,Seattle,,TRUE,+1 206-365-8100,468,13300 Stone Avenue North
+4,,,Four Points By Sheraton Downtown Seattle Center,Seattle,,FALSE,+1 206-282-2600,648,601 Roy Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,276,2423 1st Avenue
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,792,45 Park Lane
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,1008,121 Sussex Gardens
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,1674,28-30 Bute Gardens
+4.1,,,Accommodation London Bridge,London,,FALSE,+44 20 7403 4299,464,58 Great Dover Street
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,128,100 Shoreditch High Street
+3.7,,,Airways Hotel London Victoria,London,,FALSE,+44 20 7834 0205,240,29-31 Saint George's Drive
+4.5,,,Amba Hotel Charing Cross,London,,FALSE,+44 871 376 9012,1624,Strand
+4.2,,,Amba Hotel Marble Arch,London,,FALSE,+44 800 330 8523,252,Bryanston Street
+3.9,,,Ambassadors Bloomsbury Hotel,London,,FALSE,+44 20 7388 9930,300,12 Upper Woburn Place
+3,,,Ambassadors Hotel,London,,FALSE,+44 20 7373 1075,150,16 Collingham Road
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,672,45 Park Lane
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,360,"60 Furman Street, Brooklyn"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,1680,1414 6th Avenue
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,544,11 Howard Street
+4,,,6 Columbus Hotel,New York,,TRUE,+1 212-204-3000,1440,308 West 58th Street
+4.5,,,Ac Hotel New York Times Square,New York,,FALSE,+1 212-398-2700,280,260 West 40th Street
+4.3,,,Ace Hotel,New York,,TRUE,+1 212-991-0551,720,20 West 29th Street
+3.9,,,Adria Hotel & Conference Center,New York,,FALSE,+1 718-631-5900,648,"221-17 Northern Boulevard, Bayside"
+4.4,,,Aka Central Park,New York,,FALSE,+1 646-744-3100,1536,42 West 58th Street
+4.4,,,Aka Times Square,New York,,TRUE,+1 212-764-5700,1440,123 West 44th Street
+4.6,,,Aka Wall Street,New York,,FALSE,+1 212-252-9090,832,84 William Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1488,"60 Furman Street, Brooklyn"
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,3024,11 Howard Street
+4.5,,,Ac Hotel New York Times Square,New York,,FALSE,+1 212-398-2700,2376,260 West 40th Street
+4.3,,,Ace Hotel,New York,,TRUE,+1 212-991-0551,912,20 West 29th Street
+4.4,,,Aka Times Square,New York,,TRUE,+1 212-764-5700,1656,123 West 44th Street
+4.6,,,Aka Wall Street,New York,,FALSE,+1 212-252-9090,2772,84 William Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1320,"60 Furman Street, Brooklyn"
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,1824,"6 Rue Gustave Charpentier, 75017"
+4.6,,,Amastan Paris,Paris,,FALSE,+33 1 49 52 99 70,384,"34 Rue Jean Mermoz, 75008"
+3.4,,,Aparthotel Adagio Access Paris La Villette,Paris,,TRUE,+33 1 44 72 42 00,864,"28bis Avenue Corentin Cariou, 75019"
+4.1,,,Aparthotel Adagio Paris Montmartre,Paris,,TRUE,+33 1 42 57 14 55,800,"10 Place Charles Dullin, 75018"
+3.7,,,Austin'S Saint Lazare HoTel,Paris,,FALSE,+33 1 48 74 48 71,288,"26 Rue d'Amsterdam, 75009"
+3.7,,,Avalon Hotel Paris Gare Du Nord,Paris,,TRUE,+33 1 42 85 50 00,315,"131 Boulevard de Magenta, 75010"
+3.6,,,Best Western Bretagne Montparnasse,Paris,,FALSE,+33 1 45 38 52 59,690,"33 Rue Raymond Losserand, 75014"
+4.4,,,Bob Hotel By Elegancia,Paris,,FALSE,+33 1 40 43 02 33,588,"30 Rue Pernety, 75014"
+4.1,,,Brach Paris,Paris,,FALSE,+33 1 44 30 10 00,1728,"1-7 Rue Jean Richepin, 75016"
+4.5,,,Buddha-Bar Hotel Paris,Paris,,TRUE,+33 1 83 96 88 88,2520,"4 Rue d'Anjou, 75008"
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,576,"6 Rue Gustave Charpentier, 75017"
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,2352,"60 Furman Street, Brooklyn"
+4.2,,,28 Hotel Sydney,Sydney,,FALSE,+61 2 9102 2828,1512,"28 Regent Street, Chippendale New South Wales 2008, Australia"
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,264,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.3,,,Adina Apartment Hotel Bondi Beach Sydney,Sydney,,FALSE,+61 2 9300 4800,880,"69/73 Hall Street, Bondi Beach New South Wales 2026, Australia"
+4,,,Adina Apartment Hotel Coogee Sydney,Sydney,,FALSE,+61 2 9578 6000,1092,"183 Coogee Bay Road, Coogee New South Wales 2034, Australia"
+4.3,,,Adina Apartment Hotel Sydney Airport,Sydney,,FALSE,+61 2 9381 2000,504,"17 Bourke Road, Mascot New South Wales 2020, Australia"
+4.2,,,Adina Apartment Hotel Sydney Central,Sydney,,FALSE,+61 2 8396 9800,1280,"2 Lee Street, Haymarket New South Wales 2000, Australia"
+4.1,,,Adina Apartment Hotel Sydney Darling Harbour,Sydney,,FALSE,+61 2 9249 7000,348,55 Shelley Street
+4.2,,,Adina Apartment Hotel Sydney Surry Hills,Sydney,,FALSE,+61 2 8302 1000,1728,"359 Crown Street, Surry Hills New South Wales 2010, Australia"
+4,,,Adina Apartment Hotel Sydney Town Hall,Sydney,,FALSE,+61 2 9274 0000,240,511 Kent Street
+3.6,,,Adina Serviced Apartments Sydney Martin Place (Formerly Medina),Sydney,,FALSE,+61 1300 633 462,1620,1 Hosking Place
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,1944,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,736,6399 Wilshire Boulevard
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,420,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,200,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.2,,,Best Western Burbank Airport Inn,Los Angeles,,FALSE,+1 818-765-2900,1680,"7615 Lankershim Boulevard, North Hollywood, California 91605, United States"
+4,,,Best Western Hollywood Plaza Inn,Los Angeles,,FALSE,+1 323-851-1800,120,"2011 North Highland Avenue, Hollywood, California 90068, United States"
+3.8,,,Best Western Los Angeles Worldport Hotel,Los Angeles,,FALSE,+1 310-834-3400,408,"1402 West Pacific Coast Highway, Wilmington, California 90744, United States"
+4.1,,,Best Western Plus Dragon Gate Inn,Los Angeles,,TRUE,+1 213-617-3077,1680,818 North Hill Street
+4.2,,,Best Western Plus Hollywood Hills Hotel,Los Angeles,,FALSE,+1 323-464-5181,1736,"6141 Franklin Avenue, Hollywood, California 90028, United States"
+4.2,,,Best Western Plus San Pedro Hotel & Suites,Los Angeles,,FALSE,+1 310-514-1414,840,"111 South Gaffey Street, San Pedro, California 90731, United States"
+4.2,,,Beverly Hills Marriott,Los Angeles,,FALSE,+1 310-553-6561,2268,1150 South Beverly Drive
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,1248,4301 Island Avenue
+4.4,,,Aloft Philadelphia Downtown,Philadelphia,,TRUE,+1 215-607-2020,396,101 North Broad Street
+3.8,,,Four Points By Sheraton Philadelphia Airport,Philadelphia,,TRUE,+1 215-492-0400,216,4101A Island Avenue
+4.4,,,Hilton Philadelphia At Penn'S Landing,Philadelphia,,TRUE,+1 215-521-6500,552,201 South Christopher Columbus Boulevard
+4.3,,,"Home2 Suites By Hilton Philadelphia - Convention Center, Pa",Philadelphia,,TRUE,+1 215-627-1850,432,1200 Arch Street
+4.5,,,Kimpton Hotel Monaco Philadelphia,Philadelphia,,TRUE,+1 855-295-2355,1224,433 Chestnut Street
+4.3,,,Le MeRidien Philadelphia,Philadelphia,,TRUE,+1 215-422-8200,192,1421 Arch Street
+4.2,,,Renaissance Philadelphia Downtown Hotel,Philadelphia,,TRUE,+1 800-468-3571,600,401 Chestnut Street
+4.2,,,Sheraton Philadelphia Society Hill Hotel,Philadelphia,,TRUE,+1 215-238-6000,148,One Dock Street
+4.1,,,Sheraton Philadelphia University City Hotel,Philadelphia,,TRUE,+1 215-387-8000,448,3549 Chestnut Street
+3.8,,,Four Points By Sheraton Philadelphia Airport,Philadelphia,,TRUE,+1 215-492-0400,1638,4101A Island Avenue
+4.2,,,Renaissance Philadelphia Downtown Hotel,Philadelphia,,TRUE,+1 800-468-3571,1568,401 Chestnut Street
+4.2,,,Sheraton Philadelphia Society Hill Hotel,Philadelphia,,TRUE,+1 215-238-6000,2304,One Dock Street
+4.4,,,Aloft Philadelphia Downtown,Philadelphia,,TRUE,+1 215-607-2020,1260,101 North Broad Street
+3.4,,,Aparthotel Adagio Access Paris La Villette,Paris,,TRUE,+33 1 44 72 42 00,69,"28bis Avenue Corentin Cariou, 75019"
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,1116,749 Taylor Street
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,1200,495 Jefferson Street
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,2184,2222 Market Street
+2.6,,,Bei Hotel San Francisco,San Francisco,,TRUE,+1 415-626-6103,608,50 8th Street
+4,,,Beresford Arms Hotel,San Francisco,,TRUE,+1 415-673-2600,92,701 Post Street
+3.6,,,Casa Loma Hotel,San Francisco,,FALSE,+1 415-552-7100,504,610 Fillmore Street
+4.3,,,Chancellor Hotel On Union Square,San Francisco,,FALSE,+1 415-362-2004,1160,433 Powell Street
+4.1,,,Chelsea,San Francisco,,FALSE,+1 415-563-5600,1152,2095 Lombard Street
+3.9,,,Comfort Inn By The Bay,San Francisco,,FALSE,+1 415-928-5000,828,2775 Van Ness Avenue
+4.3,,,Cornell Hotel De France,San Francisco,,FALSE,+1 415-421-3154,640,715 Bush Street
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,504,749 Taylor Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,840,2423 1st Avenue
+3.8,,,Four Points By Sheraton Philadelphia Airport,Philadelphia,,TRUE,+1 215-492-0400,1344,4101A Island Avenue
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,1188,749 Taylor Street
+4.3,,,Doubletree By Hilton Hotel San Pedro - Port Of Los Angeles,Los Angeles,,TRUE,+1 310-514-3344,1248,"2800 Via Cabrillo-Marina, San Pedro, California 90731, United States"
+3.7,,,Four Points By Sheraton Los Angeles International Airport,Los Angeles,,TRUE,+1 310-645-4600,312,9750 Airport Boulevard
+4.6,,,Four Seasons Hotel Los Angeles At Beverly Hills,Los Angeles,,TRUE,+1 310-273-2222,680,300 Doheny Drive
+4.3,,,Freehand Los Angeles,Los Angeles,,TRUE,+1 213-612-0021,1160,416 West 8th Street
+4.1,,,Holiday Inn Los Angeles Gateway - Torrance,Los Angeles,,TRUE,+1 310-781-9100,80,"19800 South Vermont Avenue, Torrance, California 90502, United States"
+4.5,,,Hotel Indigo Los Angeles Downtown,Los Angeles,,TRUE,+1 213-232-8800,720,899 Francisco Street
+4.1,,,Hotel Mdr Marina Del Rey - A Doubletree By Hilton,Los Angeles,,TRUE,+1 310-822-8555,1480,"13480 Maxella Avenue, Marina del Rey, California 90292, United States"
+4.5,,,Intercontinental Los Angeles Downtown,Los Angeles,,TRUE,+1 213-688-7777,528,900 Wilshire Boulevard
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,1260,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,768,28-30 Bute Gardens
+4.3,,,Adina Apartment Hotel Bondi Beach Sydney,Sydney,,FALSE,+61 2 9300 4800,864,"69/73 Hall Street, Bondi Beach New South Wales 2026, Australia"
+4,,,Adina Apartment Hotel Coogee Sydney,Sydney,,FALSE,+61 2 9578 6000,1800,"183 Coogee Bay Road, Coogee New South Wales 2034, Australia"
+4.2,,,Adina Apartment Hotel Sydney Central,Sydney,,FALSE,+61 2 8396 9800,1584,"2 Lee Street, Haymarket New South Wales 2000, Australia"
+4.1,,,Adina Apartment Hotel Sydney Darling Harbour,Sydney,,FALSE,+61 2 9249 7000,888,55 Shelley Street
+4,,,Adina Apartment Hotel Sydney Town Hall,Sydney,,FALSE,+61 2 9274 0000,1728,511 Kent Street
+4.2,,,28 Hotel Sydney,Sydney,,FALSE,+61 2 9102 2828,840,"28 Regent Street, Chippendale New South Wales 2008, Australia"
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,936,998 West Mission Bay Drive
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,1755,2575 Clairemont Drive
+4.3,,,Best Western Plus Bayside Inn,San Diego,,FALSE,+1 619-233-7500,1000,555 West Ash Street
+4.2,,,Best Western Plus Hacienda Hotel Old Town,San Diego,,FALSE,+1 619-298-4707,868,4041 Harney Street
+4.5,,,Best Western Plus Island Palms Hotel & Marina,San Diego,,FALSE,+1 619-222-0561,1480,2051 Shelter Island Drive
+3.9,,,Best Western San Diego/Miramar Hotel,San Diego,,FALSE,+1 858-578-6600,324,9310 Kearny Mesa Road
+3.7,,,Best Western Seven Seas,San Diego,,FALSE,+1 619-291-1300,990,411 Hotel Circle South
+4,,,Best Western Yacht Harbor Hotel,San Diego,,FALSE,+1 619-224-3254,672,5005 North Harbor Drive
+4.4,,,Blue Sea Beach Hotel,San Diego,,FALSE,+1 858-488-4700,624,707 Pacific Beach Drive
+4.3,,,Capri By The Sea By All Seasons Resort Lodging,San Diego,,FALSE,+1 858-483-6110,540,4767 Ocean Boulevard
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,420,2575 Clairemont Drive
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,1176,28-30 Bute Gardens
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,528,630 North Rush Street
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,1584,311 North Morgan Street
+4.5,,,Acme Hotel Company Chicago,Chicago,,FALSE,+1 312-894-0800,1296,15 East Ohio Street
+4.5,,,Aloft Chicago Downtown River North,Chicago,,TRUE,+1 312-661-1000,672,515 North Clark Street
+3.9,,,Aloft Chicago Mag Mile,Chicago,,TRUE,+1 312-429-6600,66,243 East Ontario Street
+4.2,,,Ambassador Chicago,Chicago,,FALSE,+1 888-506-3471,1216,1301 North State Parkway
+3.9,,,Best Western Grant Park Hotel,Chicago,,FALSE,+1 312-922-2900,945,1100 South Michigan Avenue
+4.3,,,Best Western Plus Hawthorne Terrace Hotel,Chicago,,TRUE,+1 773-244-3434,3276,3434 N Broadway Ave
+4.1,,,Best Western River North Hotel,Chicago,,FALSE,+1 312-467-0800,768,125 West Ohio Street
+4.2,,,Cambria Hotel Chicago Magnificent Mile,Chicago,,FALSE,+1 312-787-6000,1680,166 East Superior Street
+4.5,,,Acme Hotel Company Chicago,Chicago,,FALSE,+1 312-894-0800,864,15 East Ohio Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,1200,2423 1st Avenue
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,264,"Cira Centre South, 2929 Walnut Street"
+3.9,,,Best Western Plus Philadelphia Convention Center Hotel,Philadelphia,,FALSE,+1 215-398-3080,138,1225 Vine Street
+4,,,"Club Quarters Hotel, Philadelphia",Philadelphia,,FALSE,+1 215-282-5000,312,1628 Chestnut Street
+4.3,,,Courtyard By Marriott Philadelphia City Avenue,Philadelphia,,FALSE,+1 215-477-0200,880,4100 Presidential Boulevard
+4.5,,,Courtyard By Marriott Philadelphia South At The Navy Yard,Philadelphia,,FALSE,+1 215-644-9200,1536,1001 Intrepid Avenue
+3.9,,,Doubletree By Hilton Hotel Philadelphia Airport,Philadelphia,,FALSE,+1 215-365-4150,468,4509 Island Avenue
+4,,,Embassy Suites By Hilton Philadelphia Airport,Philadelphia,,FALSE,+1 215-365-4500,504,9000 Bartram Avenue
+4.1,,,Fairfield Inn & Suites By Marriott Philadelphia Downtown/Center City,Philadelphia,,FALSE,+1 800-228-2800,720,261 South 13th Street
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,816,4301 Island Avenue
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,840,"60 Furman Street, Brooklyn"
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,288,121 Sussex Gardens
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,1224,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,980,1414 6th Avenue
+4.2,,,Aliz Hotel Times Square,New York,,TRUE,+1 646-609-5122,300,310 West 40th Street
+4.2,,,Aloft Harlem,New York,,TRUE,+1 212-749-4000,384,2296 Frederick Douglass Boulevard
+4.2,,,Aloft Long Island City-Manhattan View,New York,,TRUE,+1 718-433-9305,1080,"27-45 Jackson Avenue, Long Island City"
+4.1,,,Aloft Manhattan Downtown - Financial District,New York,,TRUE,+1 212-513-0003,408,49-53 Ann Street
+4,,,Aloft New York Brooklyn,New York,,TRUE,+1 718-256-3833,540,"216 Duffield Street, Brooklyn"
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,920,"60 Furman Street, Brooklyn"
+4.4,,,Aloft New Delhi Aerocity,Delhi,,FALSE,+91 11 4565 0000,200,"5B Igi T3 Road, Delhi - Ajmer Expressway, Aerocity, New Delhi"
+4.6,,,Andaz Delhi - A Concept By Hyatt,Delhi,,TRUE,+91 11 4903 1234,432,"Asset, Street Number 1, New Delhi"
+4.1,,,Bloomrooms @ New Delhi Railway Station,Delhi,,FALSE,+91 11 4122 5666,620,"8591, Arakashan Road, Opp New Delhi Railway Station, New Delhi"
+4.2,,,Calista Resort,Delhi,,FALSE,+91 11 4103 4591,912,"37/2-4 Old, National Highway 48, Kapas Hera, New Delhi"
+4.3,,,Crowne Plaza New Delhi Mayur Vihar Noida,Delhi,,FALSE,+91 11 4110 2222,176,"13 B, District Centre, Mayur Vihar, New Delhi"
+4.3,,,Crowne Plaza New Delhi Okhla,Delhi,,FALSE,+91 11 4646 2000,1260,"Plot No 1, Community Center, Okhla Phase I, New Delhi"
+3.9,,,Deemarks Hotel & Resorts Conference Venues Corporate Event In Mahipalpur Near Airport In South Delhi,Delhi,,FALSE,+91 11 2506 0721,648,"Shiv Murti, Nh-8, Delhi - Jaipur Expressway, Rangpuri, New Delhi"
+4.1,,,Fortune Select Global - Hotel In Gurgaon,Delhi,,FALSE,+91 124 419 6666,1860,"Global Arcade, Mehrauli-Gurgaon Road, Gurugram, Haryana 122002, India"
+4.3,,,"Four Points By Sheraton New Delhi, Airport Highway",Delhi,,FALSE,+91 11 6604 0000,184,"Plot no 9, National Highway - 8, Samalka, New Delhi"
+4.2,,,Haveli Dharampura,Delhi,,FALSE,+91 11 2326 1000,296,"Haveli Dharampura, 2293, Gali Gulian, Chandni Chowk, New Delhi"
+4.4,,,Aloft New Delhi Aerocity,Delhi,,FALSE,+91 11 4565 0000,1584,"5B Igi T3 Road, Delhi - Ajmer Expressway, Aerocity, New Delhi"
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,576,2889 East Hastings Street
+4.1,,,Auberge Vancouver Hotel,Vancouver,,FALSE,+1 604-678-8899,2160,837 West Hastings Street
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,400,1100 Granville Street
+4,,,Best Western Plus Sands,Vancouver,,TRUE,+1 604-682-1831,408,1755 Davie Street
+4.3,,,Blue Horizon Hotel,Vancouver,,FALSE,+1 604-688-1411,440,1225 Robson Street
+4.3,,,Coast Coal Harbour Vancouver Hotel By Apa,Vancouver,,TRUE,+1 604-697-0202,1248,1180 West Hastings Street
+3.5,,,Coast Vancouver Airport Hotel,Vancouver,,FALSE,+1 604-263-1555,279,1041 Southwest Marine Drive
+3.2,,,Days Inn By Wyndham Vancouver Downtown,Vancouver,,FALSE,+1 604-681-4335,1053,921 West Pender Street
+4.5,,,Delta Hotels By Marriott Vancouver Downtown Suites,Vancouver,,TRUE,+1 844-254-5048,1200,550 West Hastings Street
+4.4,,,Exchange Hotel Vancouver,Vancouver,,FALSE,+1 604-563-4693,1260,475 Howe Street
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,156,2889 East Hastings Street
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,1944,11 Howard Street
+4,,,Best Western Hollywood Plaza Inn,Los Angeles,,FALSE,+1 323-851-1800,1332,"2011 North Highland Avenue, Hollywood, California 90068, United States"
+3.8,,,Best Western Los Angeles Worldport Hotel,Los Angeles,,FALSE,+1 310-834-3400,420,"1402 West Pacific Coast Highway, Wilmington, California 90744, United States"
+4.2,,,Best Western Plus San Pedro Hotel & Suites,Los Angeles,,FALSE,+1 310-514-1414,1728,"111 South Gaffey Street, San Pedro, California 90731, United States"
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,544,6399 Wilshire Boulevard
+3.7,,,La Quinta Inn By Wyndham Fresno Yosemite,Fresno,,TRUE,+1 559-442-1110,306,2926 Tulare Street
+3.7,,,La Quinta Inn By Wyndham Fresno Yosemite,Fresno,,TRUE,+1 559-442-1110,912,2926 Tulare Street
+4.1,,,Adina Apartment Hotel Sydney Darling Harbour,Sydney,,FALSE,+61 2 9249 7000,1216,55 Shelley Street
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,1216,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,864,"6 Rue Gustave Charpentier, 75017"
+4.6,,,Amastan Paris,Paris,,FALSE,+33 1 49 52 99 70,2520,"34 Rue Jean Mermoz, 75008"
+4.1,,,Aparthotel Adagio Paris Montmartre,Paris,,TRUE,+33 1 42 57 14 55,2016,"10 Place Charles Dullin, 75018"
+3.7,,,Austin'S Saint Lazare HoTel,Paris,,FALSE,+33 1 48 74 48 71,1053,"26 Rue d'Amsterdam, 75009"
+3.6,,,Best Western Bretagne Montparnasse,Paris,,FALSE,+33 1 45 38 52 59,270,"33 Rue Raymond Losserand, 75014"
+4.4,,,Bob Hotel By Elegancia,Paris,,FALSE,+33 1 40 43 02 33,1584,"30 Rue Pernety, 75014"
+3.4,,,Aparthotel Adagio Access Paris La Villette,Paris,,TRUE,+33 1 44 72 42 00,1755,"28bis Avenue Corentin Cariou, 75019"
+3.2,,,Campanile Paris 15 - Tour Eiffel,Paris,,TRUE,+33 1 45 78 61 33,1260,"30 Rue Saint-Charles, 75015"
+4.1,,,Citadines Bastille Gare De Lyon (Apart Hotel Paris),Paris,,TRUE,+33 1 40 04 43 50,816,"18 Rue de Chaligny, 75012"
+3.7,,,Citadines Didot Montparnasse Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 41 05 79 05,264,"94 Rue Didot, 75014"
+4.2,,,Citadines OpeRa Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 40 15 14 00,960,"18 Rue Favart, 75002"
+3.9,,,Citadines Place D'Italie Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 43 13 85 00,1152,"18 Place d'Italie, 75013"
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,552,"6 Rue Gustave Charpentier, 75017"
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,936,"60 Furman Street, Brooklyn"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,720,45 Park Lane
+4.5,,,Alila Bangsar,Kuala Lumpur,,FALSE,+60 3-2268 3888,936,"East Side, 58, Jalan Ang Seng, Brickfields, 50470"
+4.4,,,Aloft Kuala Lumpur Sentral,Kuala Lumpur,,FALSE,+60 3-2723 1188,320,"No. 5, Jalan Stesen Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan"
+3.9,,,Ancasa Hotel & Spa Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2026 6060,972,"Jalan Tun Tan Cheng Lock, City Centre, 50500 Kuala Lumpur, Wilayah Persekutuan"
+3.5,,,Arenaa Star Hotel,Kuala Lumpur,,FALSE,+60 3-2078 0988,234,"49-51, Jalan Hang Lekiu, 50100"
+4.8,,,Banyan Tree Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2113 1888,728,"2, Jalan Conlay, 50450 Kuala Lumpur, Wilayah Persekutuan"
+3.7,,,Citin Hotel Masjid Jamek,Kuala Lumpur,,FALSE,+60 3-2693 2999,768,"33, Jalan Melayu, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan"
+4,,,Cititel Mid Valley,Kuala Lumpur,,FALSE,+60 3-2296 1188,1080,"Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan"
+4.2,,,Concorde Hotel Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2144 2200,912,"2, Jalan Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan"
+4,,,Container Hotel,Kuala Lumpur,,FALSE,+60 12-702 2851,1584,"Jalan Delima, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan"
+4,,,Corus Hotel Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2161 8888,464,"Jalan Ampang, Hampshire Park, 50450 Kuala Lumpur, Wilayah Persekutuan"
+4.4,,,Aloft Kuala Lumpur Sentral,Kuala Lumpur,,FALSE,+60 3-2723 1188,740,"No. 5, Jalan Stesen Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan"
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,700,6399 Wilshire Boulevard
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,1200,4450 East Washington Street
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,1080,8000 Arizona Grand Parkway
+4.4,,,Cambria Hotel North Scottsdale Desert Ridge,Phoenix,,FALSE,+1 480-585-6644,624,4425 E Irma Ln&nbsp
+3.8,,,Comfort Suites Phoenix North,Phoenix,,TRUE,+1 602-861-3900,612,10210 North 26th Drive
+4.5,,,Courtyard By Marriott Phoenix Downtown,Phoenix,,FALSE,+1 602-603-2001,696,132 South Central Avenue
+4.1,,,Crowne Plaza Phoenix Airport,Phoenix,,TRUE,+1 602-273-7778,888,4300 East Washington Street
+3.1,,,Days Inn By Wyndham Airport - Phoenix,Phoenix,,FALSE,+1 800-615-3107,1575,2900 East Van Buren Street
+4.1,,,Doubletree Suites By Hilton Hotel Phoenix,Phoenix,,TRUE,+1 602-225-0500,700,320 North 44th Street
+4.5,,,Drury Inn & Suites Phoenix Airport,Phoenix,,TRUE,+1 602-437-8400,252,3333 East University Drive
+4.5,,,Drury Inn & Suites Phoenix Happy Valley,Phoenix,,TRUE,+1 623-879-8800,1560,2335 West Pinnacle Peak Road
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,232,8000 Arizona Grand Parkway
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1116,"60 Furman Street, Brooklyn"
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,3108,630 North Rush Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,768,2423 1st Avenue
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,720,2889 East Hastings Street
+4.3,,,Blue Horizon Hotel,Vancouver,,FALSE,+1 604-688-1411,2160,1225 Robson Street
+4.3,,,Coast Coal Harbour Vancouver Hotel By Apa,Vancouver,,TRUE,+1 604-697-0202,744,1180 West Hastings Street
+4.5,,,Delta Hotels By Marriott Vancouver Downtown Suites,Vancouver,,TRUE,+1 844-254-5048,1332,550 West Hastings Street
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,1260,2889 East Hastings Street
+4.2,,,Citadines Barbican London (Apart Hotel London),London,,TRUE,+44 20 7566 8000,312,7-21 Goswell Road
+4.1,,,Citadines Holborn-Covent Garden London (Apart Hotel London),London,,TRUE,+44 20 7395 8800,312,94-99 High Holborn
+4.2,,,Citadines Trafalgar Square London (Apart Hotel London),London,,TRUE,+44 20 7766 3700,400,18-21 Northumberland Avenue
+4.4,,,Como Metropolitan London,London,,TRUE,+44 20 7447 1000,456,19 Old Park Lane
+3.8,,,Days Inn London Hyde Park,London,,TRUE,+44 20 7723 2939,1404,148-152 Sussex Gardens
+4.1,,,De Vere Devonport House,London,,TRUE,+44 871 222 4796,264,King William Walk
+4.6,,,Devonshire Club,London,,TRUE,+44 20 3750 4545,256,5 Devonshire Square
+3.2,,,Campanile Paris 15 - Tour Eiffel,Paris,,TRUE,+33 1 45 78 61 33,783,"30 Rue Saint-Charles, 75015"
+4.1,,,Citadines Bastille Gare De Lyon (Apart Hotel Paris),Paris,,TRUE,+33 1 40 04 43 50,1200,"18 Rue de Chaligny, 75012"
+3.7,,,Citadines Didot Montparnasse Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 41 05 79 05,810,"94 Rue Didot, 75014"
+4.2,,,Citadines OpeRa Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 40 15 14 00,768,"18 Rue Favart, 75002"
+3.9,,,Citadines Place D'Italie Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 43 13 85 00,189,"18 Place d'Italie, 75013"
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,840,"6 Rue Gustave Charpentier, 75017"
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,576,"60 Furman Street, Brooklyn"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,864,45 Park Lane
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,320,"6 Rue Gustave Charpentier, 75017"
+4.3,,,Dorset Square Hotel,London,,TRUE,+44 20 7723 7874,348,39-40 Dorset Square
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,640,45 Park Lane
+4.2,,,Citadines Barbican London (Apart Hotel London),London,,TRUE,+44 20 7566 8000,1584,7-21 Goswell Road
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,252,630 North Rush Street
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,756,121 Sussex Gardens
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,728,"6 Rue Gustave Charpentier, 75017"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,756,45 Park Lane
+3.9,,,Best Western Plus Toronto North York Hotel & Suites,Toronto,,FALSE,+1 416-663-9500,297,50 Norfinch Drive
+4,,,Best Western Premier Toronto Airport Carlingview Hotel,Toronto,,TRUE,+1 416-637-7000,184,"135 Carlingview Drive, Etobicoke, Ontario M9W 5E7, Canada"
+3,,,Best Western Primrose Hotel Downtown-Toronto,Toronto,,TRUE,+1 800-780-7234,138,111 Carlton Street
+4.4,,,Bisha Hotel Toronto,Toronto,,TRUE,+1 416-551-2800,1568,80 Blue Jays Way
+3.7,,,Bond Place Hotel Toronto,Toronto,,FALSE,+1 800-268-9390,252,65 Dundas Street East
+4.1,,,Cambridge Suites Toronto,Toronto,,FALSE,+1 800-463-1990,96,15 Richmond Street East
+3.4,,,Comfort Inn Toronto North,Toronto,,FALSE,+1 416-736-4700,270,"66 Norfinch Drive, North York, Ontario M3N 1X1, Canada"
+4.1,,,Courtyard By Marriott Toronto Airport,Toronto,,FALSE,+1 416-675-0411,600,"231 Carlingview Drive, Etobicoke, Ontario M9W 5E8, Canada"
+4.1,,,Courtyard By Marriott Toronto Downtown,Toronto,,FALSE,+1 416-924-0611,160,475 Yonge Street
+3.6,,,Crowne Plaza Toronto Airport,Toronto,,TRUE,+1 416-675-1234,450,"33 Carlson Court, Etobicoke, Ontario M9W 6H5, Canada"
+3.9,,,Best Western Plus Toronto North York Hotel & Suites,Toronto,,FALSE,+1 416-663-9500,648,50 Norfinch Drive
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,2088,8000 Arizona Grand Parkway
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,1056,45 Park Lane
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,840,45 Park Lane
+4.6,,,Andaz Delhi - A Concept By Hyatt,Delhi,,TRUE,+91 11 4903 1234,1728,"Asset, Street Number 1, New Delhi"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,2072,45 Park Lane
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,945,121 Sussex Gardens
+4,,,Best Western Premier Toronto Airport Carlingview Hotel,Toronto,,TRUE,+1 416-637-7000,2736,"135 Carlingview Drive, Etobicoke, Ontario M9W 5E7, Canada"
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,680,998 West Mission Bay Drive
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,1848,100 Shoreditch High Street
+3.7,,,Airways Hotel London Victoria,London,,FALSE,+44 20 7834 0205,315,29-31 Saint George's Drive
+4.2,,,Amba Hotel Marble Arch,London,,FALSE,+44 800 330 8523,480,Bryanston Street
+3.9,,,Ambassadors Bloomsbury Hotel,London,,FALSE,+44 20 7388 9930,690,12 Upper Woburn Place
+3,,,Ambassadors Hotel,London,,FALSE,+44 20 7373 1075,648,16 Collingham Road
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,1710,121 Sussex Gardens
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,342,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+4.2,,,"Cambria Hotel Washington, D.C. Convention Center",Washington D.C.,,FALSE,+1 202-299-1188,1216,"899 O Street Northwest, Washington, District of Columbia 20001, United States"
+4.5,,,Capitol Hill Hotel,Washington D.C.,,TRUE,+1 202-543-6000,2040,"200 C Street Southeast, Washington, DC 20003, USA"
+3.8,,,"Club Quarters Hotel In Washington, D.C.",Washington D.C.,,FALSE,+1 202-463-6400,567,"839 17th Street Northwest, Washington, District of Columbia 20006, United States"
+4,,,Comfort Inn Downtown Dc/Convention Center,Washington D.C.,,FALSE,+1 202-682-5300,312,"1201 13th Street Northwest, Washington, District of Columbia 20005, United States"
+4.1,,,Courtyard By Marriott Washington Capitol Hill/Navy Yard,Washington D.C.,,TRUE,+1 202-479-0027,288,"140 L Street Southeast, Washington, DC 20003, USA"
+4.3,,,Courtyard By Marriott Washington Downtown/Convention Center,Washington D.C.,,FALSE,+1 202-589-1800,108,"901 L Street Northwest, Washington, DC 20001, USA"
+4.2,,,"Courtyard By Marriott Washington, Dc/Dupont Circle",Washington D.C.,,FALSE,+1 202-332-9300,420,"1900 Connecticut Avenue Northwest, Washington, DC 20009, USA"
+4.3,,,"Courtyard By Marriott Washington, Dc/Foggy Bottom",Washington D.C.,,FALSE,+1 202-296-5700,1176,"515 20th Street Northwest, Washington, DC 20006, USA"
+3.4,,,Days Inn By Wyndham Washington Dc/Connecticut Avenue,Washington D.C.,,FALSE,+1 800-615-3107,504,"4400 Connecticut Avenue Northwest, Washington, District of Columbia 20008, United States"
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,312,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,936,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,460,45 Park Lane
+4,,,Delta Hotels By Marriott Toronto Airport & Conference Centre,Toronto,,TRUE,+1 416-244-1711,2736,"655 Dixon Road, Etobicoke, Ontario M9W 1J3, Canada"
+4,,,Delta Hotels By Marriott Toronto East,Toronto,,TRUE,+1 416-299-1500,624,"2035 Kennedy Road, Scarborough, Ontario M1T 3G2, Canada"
+4.2,,,Doubletree By Hilton Toronto Airport,Toronto,,TRUE,+1 416-674-2222,240,"925 Dixon Road, Etobicoke, Ontario M9W 1J8, Canada"
+4.4,,,Embassy Suites By Hilton Toronto Airport,Toronto,,TRUE,+1 416-674-8442,96,262 Carlingview Drive
+3.9,,,Holiday Inn Express Toronto-North York,Toronto,,TRUE,+1 416-665-3500,315,"30 Norfinch Drive, North York, Ontario M3N 1X1, Canada"
+4,,,Holiday Inn Toronto-Yorkdale,Toronto,,TRUE,+1 416-789-5161,1360,"3450 Dufferin Street, North York, Ontario M6A 2V1, Canada"
+4,,,Best Western Premier Toronto Airport Carlingview Hotel,Toronto,,TRUE,+1 416-637-7000,2100,"135 Carlingview Drive, Etobicoke, Ontario M9W 5E7, Canada"
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,952,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,2016,1100 Granville Street
+4.3,,,Doubletree By Hilton Hotel Fresno Convention Center,Fresno,,FALSE,+1 559-268-1000,312,2233 Ventura Street
+3.7,,,La Quinta Inn By Wyndham Fresno Yosemite,Fresno,,TRUE,+1 559-442-1110,156,2926 Tulare Street
+3.9,,,Piccadilly Inn Airport,Fresno,,FALSE,+1 559-375-7760,300,5115 East McKinley Avenue
+3.8,,,Radisson Hotel Fresno Conference Center,Fresno,,FALSE,+1 559-233-6650,816,1055 Van Ness Avenue
+4.3,,,Springhill Suites By Marriott Fresno,Fresno,,FALSE,+1 888-287-9400,432,6844 North Fresno Street
+3.7,,,La Quinta Inn By Wyndham Fresno Yosemite,Fresno,,TRUE,+1 559-442-1110,1050,2926 Tulare Street
+4.6,,,Chicago Athletic Association,Chicago,,TRUE,+1 312-940-3552,208,12 South Michigan Avenue
+3.7,,,Chicago Lake Shore Hotel,Chicago,,TRUE,+1 773-288-5800,900,"3250, 4900B South Lake Shore Drive"
+4.2,,,Comfort Suites Michigan Avenue - Loop,Chicago,,TRUE,+1 623-432-0770,1120,320 North Michigan Avenue
+3.9,,,Crowne Plaza Chicago West Loop,Chicago,,TRUE,+1 312-829-5000,450,25 South Halsted Street
+4.2,,,Hampton Inn Chicago Downtown/Magnificent Mile,Chicago,,TRUE,+1 312-706-0888,864,160 East Huron Street
+4.5,,,Aloft Chicago Downtown River North,Chicago,,TRUE,+1 312-661-1000,2160,515 North Clark Street
+3.9,,,Aloft Chicago Mag Mile,Chicago,,TRUE,+1 312-429-6600,306,243 East Ontario Street
+4.5,,,Aloft Chicago Downtown River North,Chicago,,TRUE,+1 312-661-1000,920,515 North Clark Street
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,1296,2889 East Hastings Street
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,1624,"Cira Centre South, 2929 Walnut Street"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,1064,45 Park Lane
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,464,2222 Market Street
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,768,100 Shoreditch High Street
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,1568,"6 Rue Gustave Charpentier, 75017"
+4.4,,,Aloft Kuala Lumpur Sentral,Kuala Lumpur,,FALSE,+60 3-2723 1188,1008,"No. 5, Jalan Stesen Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan"
+3.4,,,Aparthotel Adagio Access Paris La Villette,Paris,,TRUE,+33 1 44 72 42 00,540,"28bis Avenue Corentin Cariou, 75019"
+4.4,,,Aloft New Delhi Aerocity,Delhi,,FALSE,+91 11 4565 0000,1500,"5B Igi T3 Road, Delhi - Ajmer Expressway, Aerocity, New Delhi"
+4.2,,,Azure Hotel Nairobi Westlands,Nairobi,,FALSE,+254 709 716000,348,Lantana Road
+4.4,,,Crowne Plaza Nairobi,Nairobi,,FALSE,+254 719 096000,1536,"Kenya Road, Upper Hill"
+4.4,,,Crowne Plaza Nairobi Airport,Nairobi,,FALSE,+254 709 222444,2184,First Freight Lane Jomo Kenyatta International Airport
+4.4,,,Doubletree By Hilton Nairobi Hurlingham,Nairobi,,FALSE,+254 709 090000,1008,Ngong Lane Ngong Road
+4.5,,,Dusitd2 Nairobi,Nairobi,,FALSE,+254 787 657000,336,14 Riverside Westlands
+4.4,,,Eka Hotel Nairobi,Nairobi,,FALSE,+254 719 045000,2376,"Eka Hotel, Along Mombasa Road"
+4.5,,,Four Points By Sheraton Nairobi Airport,Nairobi,,FALSE,+254 709 760000,504,9042/1044 Tower Avenue Jomo Kenyatta Intl Airport
+4.7,,,Hemingways Nairobi,Nairobi,,FALSE,+254 711 032000,1680,Mbagathi Ridge
+4.5,,,Hilton Garden Inn Nairobi Airport,Nairobi,,FALSE,+254 20 4075000,1152,Jomo Kenyatta International Airport Mombasa Road
+4.2,,,Ibis Styles Hotel Westlands Nairobi,Nairobi,,FALSE,+254 20 7757000,396,"Ibis Styles Hotel Westlands, Kenya"
+4.2,,,Azure Hotel Nairobi Westlands,Nairobi,,FALSE,+254 709 716000,2280,Lantana Road
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,2016,311 North Morgan Street
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,800,6399 Wilshire Boulevard
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,756,"Cira Centre South, 2929 Walnut Street"
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,3108,"Cira Centre South, 2929 Walnut Street"
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,140,2423 1st Avenue
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,1152,1600 South Harbor Boulevard
+4,,,Anaheim Majestic Garden Hotel,Anaheim,,TRUE,+1 714-778-1700,124,900 South Disneyland Drive
+3.9,,,Anaheim Portofino Inn & Suites,Anaheim,,FALSE,+1 800-341-6301,441,1831 South Harbor Boulevard
+4.4,,,Anaheim Rv Park,Anaheim,,TRUE,+1 714-774-3860,1536,200 West Midway Drive
+4.5,,,Ayres Hotel Anaheim,Anaheim,,FALSE,+1 714-634-2106,224,2550 East Katella Avenue
+4.4,,,Best Western Plus Anaheim Inn,Anaheim,,FALSE,+1 714-774-1050,812,1630 South Harbor Boulevard
+4.3,,,Best Western Plus Park Place Inn - Mini Suites,Anaheim,,FALSE,+1 714-776-4800,264,1544 South Harbor Boulevard
+4.3,,,Best Western Plus Pavilions,Anaheim,,FALSE,+1 714-776-0140,1056,1176 West Katella Avenue
+4.1,,,Best Western Plus Raffles Inn & Suites,Anaheim,,FALSE,+1 714-750-6100,2520,2040 South Harbor Boulevard
+4.3,,,Best Western Plus Stovall'S Inn,Anaheim,,FALSE,+1 714-778-1880,840,1110 West Katella Avenue
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,644,1414 6th Avenue
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,304,9920 Northeast Cascades Parkway
+4.4,,,Best Western Plus Portland Airport Hotel & Suites,Portland,,FALSE,+1 503-251-9991,104,11938 Northeast Airport Way
+4.7,,,Canopy By Hilton Portland Pearl District,Portland,,TRUE,+1 971-351-0230,160,425 Northwest 9th Avenue
+4,,,Comfort Inn & Suites Portland Airport,Portland,,FALSE,+1 503-252-6397,1728,5019 Northeast 102nd Avenue
+4.1,,,"Country Inn & Suites By Radisson, Portland International Airport, Or",Portland,,FALSE,+1 503-255-2700,368,7025 Northeast Alderwood Road
+4.2,,,Courtyard By Marriott Portland Airport,Portland,,FALSE,+1 503-252-3200,1560,11550 Northeast Airport Way
+4.3,,,Courtyard By Marriott Portland City Center,Portland,,TRUE,+1 503-505-5000,1152,550 Southwest Oak Street
+4.3,,,Courtyard By Marriott Portland Downtown/Convention Center,Portland,,FALSE,+1 503-234-3200,1560,435 Northeast Wasco Street
+4.2,,,Crowne Plaza Portland-Downtown Conv Ctr,Portland,,FALSE,+1 503-233-2401,2940,1441 Northeast 2nd Avenue
+4.5,,,Dossier,Portland,,TRUE,+1 877-628-4408,1728,750 Southwest Alder Street
+4.7,,,Canopy By Hilton Portland Pearl District,Portland,,TRUE,+1 971-351-0230,1560,425 Northwest 9th Avenue
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,888,"Cira Centre South, 2929 Walnut Street"
+3.9,,,Best Western Plus Philadelphia Convention Center Hotel,Philadelphia,,FALSE,+1 215-398-3080,999,1225 Vine Street
+4,,,Embassy Suites By Hilton Philadelphia Airport,Philadelphia,,FALSE,+1 215-365-4500,1728,9000 Bartram Avenue
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,1380,4301 Island Avenue
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,1440,3600 Wieuca Road Northeast
+4.3,,,Ac Hotel By Marriott Atlanta Downtown,Atlanta,,FALSE,+1 404-524-5555,240,101 Andrew Young International Boulevard Northwest
+4,,,Aloft Atlanta Downtown,Atlanta,,TRUE,+1 678-515-0300,1040,300 Ted Turner Drive Northwest
+4.2,,,Atlanta Marriott Suites Midtown,Atlanta,,FALSE,+1 404-876-8888,704,35 14th Street Northeast
+3.1,,,Barclay Hotel Atlanta Downtown,Atlanta,,FALSE,+1 404-524-7991,1449,89 Luckie Street Northwest
+4.7,,,Canopy By Hilton Atlanta Midtown,Atlanta,,FALSE,+1 404-685-1677,312,1414 West Peachtree Street Northwest
+4,,,Clarion Inn & Suites Atlanta Downtown,Atlanta,,FALSE,+1 404-893-4663,2688,186 Northside Drive Southwest
+3.3,,,"Country Inn & Suites By Radisson, Atlanta Downtown South At Turner Field, Ga",Atlanta,,TRUE,+1 404-658-1961,468,759 Pollard Boulevard Southwest
+4.1,,,Courtyard By Marriott Atlanta Buckhead,Atlanta,,FALSE,+1 404-869-0818,792,3332 Peachtree Road Northeast
+3.9,,,Crowne Plaza Atlanta - Midtown,Atlanta,,TRUE,+1 404-877-9000,1728,590 West Peachtree Street Northwest
+4.6,,,Four Seasons Hotel Los Angeles At Beverly Hills,Los Angeles,,TRUE,+1 310-273-2222,456,300 Doheny Drive
+4.1,,,Holiday Inn Los Angeles Gateway - Torrance,Los Angeles,,TRUE,+1 310-781-9100,336,"19800 South Vermont Avenue, Torrance, California 90502, United States"
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,504,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,92,8669 West Sahara Avenue
+3.4,,,Budget Suites Of America,Las Vegas,,TRUE,+1 702-638-1800,540,2219 North Rancho Drive
+4.1,,,Hampton Inn Las Vegas/Summerlin,Las Vegas,,FALSE,+1 702-360-5700,384,7100 Cascade Valley Court
+4.2,,,La Quinta Inn & Suites By Wyndham Las Vegas Summerlin Tech,Las Vegas,,TRUE,+1 702-360-1200,544,7101 Cascade Valley Court
+3.5,,,Oasis At Gold Spike,Las Vegas,,TRUE,+1 702-768-9823,1554,217 Las Vegas Boulevard North
+3.7,,,Thunderbird Boutique Hotel,Las Vegas,,FALSE,+1 702-489-7500,2394,1215 South Las Vegas Boulevard
+3.4,,,Budget Suites Of America,Las Vegas,,TRUE,+1 702-638-1800,837,2219 North Rancho Drive
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,3276,45 Park Lane
+3.4,,,Budget Suites Of America,Las Vegas,,TRUE,+1 702-638-1800,1764,2219 North Rancho Drive
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,2340,1600 South Harbor Boulevard
+3.9,,,Embassy Suites By Hilton Phoenix Airport,Phoenix,,TRUE,+1 602-957-1910,114,2333 East Thomas Road
+4.1,,,Embassy Suites By Hilton Phoenix Biltmore,Phoenix,,TRUE,+1 602-955-3992,768,2630 East Camelback Road
+4.6,,,Embassy Suites By Hilton Phoenix Downtown North,Phoenix,,TRUE,+1 602-222-1111,2736,10 East Thomas Road
+4.1,,,Four Points By Sheraton Phoenix North,Phoenix,,TRUE,+1 602-943-2341,116,2532 West Peoria Avenue
+4.1,,,Crowne Plaza Phoenix Airport,Phoenix,,TRUE,+1 602-273-7778,744,4300 East Washington Street
+4.1,,,Doubletree Suites By Hilton Hotel Phoenix,Phoenix,,TRUE,+1 602-225-0500,232,320 North 44th Street
+3.9,,,Embassy Suites By Hilton Phoenix Airport,Phoenix,,TRUE,+1 602-957-1910,315,2333 East Thomas Road
+4.1,,,Crowne Plaza Phoenix Airport,Phoenix,,TRUE,+1 602-273-7778,1520,4300 East Washington Street
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,819,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.1,,,Aparthotel Adagio Paris Montmartre,Paris,,TRUE,+33 1 42 57 14 55,496,"10 Place Charles Dullin, 75018"
+4.3,,,Ac Hotel By Marriott Atlanta Downtown,Atlanta,,FALSE,+1 404-524-5555,2016,101 Andrew Young International Boulevard Northwest
+4.7,,,Canopy By Hilton Atlanta Midtown,Atlanta,,FALSE,+1 404-685-1677,528,1414 West Peachtree Street Northwest
+3.3,,,"Country Inn & Suites By Radisson, Atlanta Downtown South At Turner Field, Ga",Atlanta,,TRUE,+1 404-658-1961,918,759 Pollard Boulevard Southwest
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,2128,3600 Wieuca Road Northeast
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,1764,"6 Rue Gustave Charpentier, 75017"
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,576,1600 South Harbor Boulevard
+4.7,,,Canopy By Hilton Portland Pearl District,Portland,,TRUE,+1 971-351-0230,1536,425 Northwest 9th Avenue
+4.2,,,Home2 Suites By Hilton Atlanta Downtown,Atlanta,,TRUE,+1 404-965-7992,864,87 Walton Street Northwest
+4.4,,,Hotel Indigo Atlanta Downtown,Atlanta,,TRUE,+1 404-523-7600,928,230 Peachtree Street
+4.3,,,Hyatt Centric Midtown Atlanta,Atlanta,,TRUE,+1 404-443-1234,1360,125 10th Street Northeast
+4.3,,,Hyatt House Atlanta/Downtown,Atlanta,,TRUE,+1 404-332-5522,444,431 Marietta Street NorthWest
+4.1,,,Hyatt Place Atlanta/Buckhead,Atlanta,,TRUE,+1 404-869-6161,420,3242 Peachtree Road Northeast
+4.2,,,Hyatt Place Atlanta/Downtown,Atlanta,,TRUE,+1 404-577-1980,368,330 Peachtree Street Northeast
+3.9,,,La Quinta Inn & Suites By Wyndham Atlanta Midtown - Buckhead,Atlanta,,TRUE,+1 404-321-0999,1368,2535 Chantilly Drive Northeast
+4,,,Aloft Atlanta Downtown,Atlanta,,TRUE,+1 678-515-0300,1200,300 Ted Turner Drive Northwest
+4.4,,,Georgian Court Hotel,Vancouver,,TRUE,+1 800-663-1155,444,773 Beatty Street
+4.4,,,Hampton Inn & Suites,Vancouver,,TRUE,+1 604-602-1008,1932,111 Robson Street
+4.4,,,Hotel Blu Vancouver,Vancouver,,TRUE,+1 604-620-6200,1104,177 Robson Street
+4.7,,,L'Hermitage Vancouver,Vancouver,,TRUE,+1 888-855-1050,1800,788 Richards Street
+4.7,,,Loden Hotel,Vancouver,,TRUE,+1 604-669-5060,1872,1177 Melville Street
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,1680,998 West Mission Bay Drive
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,588,8000 Arizona Grand Parkway
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,2016,4450 East Washington Street
+4.2,,,28 Hotel Sydney,Sydney,,FALSE,+61 2 9102 2828,576,"28 Regent Street, Chippendale New South Wales 2008, Australia"
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,450,2889 East Hastings Street
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,1400,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,624,8000 Arizona Grand Parkway
+4.4,,,Best Western Plus Portland Airport Hotel & Suites,Portland,,FALSE,+1 503-251-9991,928,11938 Northeast Airport Way
+4.4,,,Best Western Plus Portland Airport Hotel & Suites,Portland,,FALSE,+1 503-251-9991,1560,11938 Northeast Airport Way
+4,,,Anaheim Majestic Garden Hotel,Anaheim,,TRUE,+1 714-778-1700,224,900 South Disneyland Drive
+3.9,,,Anaheim Portofino Inn & Suites,Anaheim,,FALSE,+1 800-341-6301,1350,1831 South Harbor Boulevard
+4.4,,,Best Western Plus Anaheim Inn,Anaheim,,FALSE,+1 714-774-1050,1200,1630 South Harbor Boulevard
+4.3,,,Best Western Plus Park Place Inn - Mini Suites,Anaheim,,FALSE,+1 714-776-4800,420,1544 South Harbor Boulevard
+4.1,,,Candlewood Suites Anaheim - Resort Area,Anaheim,,TRUE,+1 714-635-5555,1860,1733 South Anaheim Boulevard
+4.3,,,Clementine Hotel & Suites Anaheim,Anaheim,,TRUE,+1 714-533-3555,1056,1700 South Clementine Street
+3.3,,,Extended Stay America Orange County - Anaheim Convention Center,Anaheim,,TRUE,+1 800-804-3724,264,1742 South Clementine Street
+3.8,,,Four Points By Sheraton Anaheim,Anaheim,,TRUE,+1 714-758-0900,612,1221 South Harbor Boulevard
+4.1,,,Holiday Inn Hotel And Suites Anaheim,Anaheim,,TRUE,+1 714-535-0300,1440,1240 South Walnut Street
+4.4,,,Hotel Indigo Anaheim,Anaheim,,TRUE,+1 714-772-7755,1456,435 West Katella Avenue
+4.5,,,Hyatt House At Anaheim Resort/ Convention Center,Anaheim,,TRUE,+1 714-971-1800,1440,1800 South Harbor Boulevard
+4.4,,,Anaheim Rv Park,Anaheim,,TRUE,+1 714-774-3860,768,200 West Midway Drive
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,616,4450 East Washington Street
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,609,2889 East Hastings Street
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,960,8669 West Sahara Avenue
+4.1,,,Hampton Inn Las Vegas/Summerlin,Las Vegas,,FALSE,+1 702-360-5700,1848,7100 Cascade Valley Court
+4.2,,,La Quinta Inn & Suites By Wyndham Las Vegas Summerlin Tech,Las Vegas,,TRUE,+1 702-360-1200,792,7101 Cascade Valley Court
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,2072,"6 Rue Gustave Charpentier, 75017"
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,2604,9920 Northeast Cascades Parkway
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,1248,1600 South Harbor Boulevard
+3.9,,,Best Western Of Long Beach,Long Beach,,FALSE,+1 562-599-5555,216,1725 Long Beach Boulevard
+4.4,,,Courtyard By Marriott Long Beach Airport,Long Beach,,FALSE,+1 562-429-5803,928,3841 North Lakewood Boulevard
+4.2,,,Courtyard By Marriott Long Beach Downtown,Long Beach,,FALSE,+1 562-435-8511,1920,500 East First Street
+4.4,,,Hampton Inn Long Beach Airport,Long Beach,,FALSE,+1 562-425-0012,608,3771 North Lakewood Boulevard
+4,,,Holiday Inn Long Beach Downtown Area,Long Beach,,FALSE,+1 562-590-8858,200,1133 Atlantic Avenue
+4.5,,,Homewood Suites By Hilton Long Beach Airport,Long Beach,,FALSE,+1 562-425-0010,208,3771 North Lakewood Boulevard
+4.3,,,Hotel Current Long Beach,Long Beach,,FALSE,+1 562-597-5171,400,5325 Pacific Coast Highway
+4.5,,,Hyatt Centric The Pike Long Beach,Long Beach,,FALSE,+1 562-432-1234,216,285 Bay Street
+4.4,,,Hyatt Regency Long Beach,Long Beach,,FALSE,+1 562-491-1234,640,200 South Pine Avenue
+4.3,,,Long Beach Marriott,Long Beach,,FALSE,+1 800-228-9290,560,4700 Airport Plaza Drive
+4.4,,,Courtyard By Marriott Long Beach Airport,Long Beach,,FALSE,+1 562-429-5803,372,3841 North Lakewood Boulevard
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,1200,"Cira Centre South, 2929 Walnut Street"
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,672,2423 1st Avenue
+4.4,,,Georgian Court Hotel,Vancouver,,TRUE,+1 800-663-1155,512,773 Beatty Street
+4.4,,,Hotel Blu Vancouver,Vancouver,,TRUE,+1 604-620-6200,576,177 Robson Street
+4.7,,,Loden Hotel,Vancouver,,TRUE,+1 604-669-5060,1056,1177 Melville Street
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,924,1100 Granville Street
+4.4,,,Best Western Plus Portland Airport Hotel & Suites,Portland,,FALSE,+1 503-251-9991,2184,11938 Northeast Airport Way
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,336,4450 East Washington Street
+3.8,,,Comfort Suites Phoenix North,Phoenix,,TRUE,+1 602-861-3900,1053,10210 North 26th Drive
+4.1,,,Crowne Plaza Phoenix Airport,Phoenix,,TRUE,+1 602-273-7778,1728,4300 East Washington Street
+4.1,,,Doubletree Suites By Hilton Hotel Phoenix,Phoenix,,TRUE,+1 602-225-0500,1800,320 North 44th Street
+4.1,,,Four Points By Sheraton Phoenix North,Phoenix,,TRUE,+1 602-943-2341,3024,2532 West Peoria Avenue
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,2736,4450 East Washington Street
+4.4,,,Aloft Philadelphia Downtown,Philadelphia,,TRUE,+1 215-607-2020,1680,101 North Broad Street
+4.6,,,Andaz Delhi - A Concept By Hyatt,Delhi,,TRUE,+91 11 4903 1234,1632,"Asset, Street Number 1, New Delhi"
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,624,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,1260,1100 H Street
+4.1,,,Courtyard By Marriott Sacramento Midtown,Sacramento,,FALSE,+1 916-455-6800,324,4422 Y Street
+4.1,,,Doubletree By Hilton Hotel Sacramento,Sacramento,,TRUE,+1 916-929-8855,432,2001 Point West Way
+4.4,,,Embassy Suites By Hilton Sacramento Riverfront Promenade,Sacramento,,FALSE,+1 916-326-5000,264,100 Capitol Mall
+4.1,,,Fairfield Inn By Marriott Sacramento Cal Expo,Sacramento,,FALSE,+1 916-920-5300,336,1780 Tribute Road
+3.5,,,Four Points By Sheraton Sacramento International Airport,Sacramento,,FALSE,+1 916-263-9000,648,4900 Duckhorn Drive
+4.3,,,Hilton Garden Inn Sacramento/South Natomas,Sacramento,,FALSE,+1 916-568-5400,396,2540 Venture Oaks Way
+4.2,,,Hilton Sacramento Arden West,Sacramento,,TRUE,+1 916-922-4700,2268,2200 Harvard Street
+3.8,,,Holiday Inn Express Sacramento Convention Center,Sacramento,,TRUE,+1 916-444-4436,1710,728 16th Street
+4.1,,,Holiday Inn Sacramento Downtown - Arena,Sacramento,,FALSE,+1 916-446-0100,624,300 J Street
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,2160,1100 H Street
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,1360,"6 Rue Gustave Charpentier, 75017"
+4.3,,,Doubletree By Hilton Hotel Fresno Convention Center,Fresno,,FALSE,+1 559-268-1000,1040,2233 Ventura Street
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,896,495 Jefferson Street
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,504,1414 6th Avenue
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,1064,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+3.9,,,Anaheim Portofino Inn & Suites,Anaheim,,FALSE,+1 800-341-6301,1449,1831 South Harbor Boulevard
+4.2,,,Azure Hotel Nairobi Westlands,Nairobi,,FALSE,+254 709 716000,600,Lantana Road
+4.4,,,Crowne Plaza Nairobi,Nairobi,,FALSE,+254 719 096000,864,"Kenya Road, Upper Hill"
+4.4,,,Crowne Plaza Nairobi Airport,Nairobi,,FALSE,+254 709 222444,544,First Freight Lane Jomo Kenyatta International Airport
+4.4,,,Doubletree By Hilton Nairobi Hurlingham,Nairobi,,FALSE,+254 709 090000,500,Ngong Lane Ngong Road
+4.4,,,Eka Hotel Nairobi,Nairobi,,FALSE,+254 719 045000,272,"Eka Hotel, Along Mombasa Road"
+4.5,,,Four Points By Sheraton Nairobi Airport,Nairobi,,FALSE,+254 709 760000,800,9042/1044 Tower Avenue Jomo Kenyatta Intl Airport
+4.7,,,Hemingways Nairobi,Nairobi,,FALSE,+254 711 032000,200,Mbagathi Ridge
+4.5,,,Hilton Garden Inn Nairobi Airport,Nairobi,,FALSE,+254 20 4075000,288,Jomo Kenyatta International Airport Mombasa Road
+4.2,,,Ibis Styles Hotel Westlands Nairobi,Nairobi,,FALSE,+254 20 7757000,184,"Ibis Styles Hotel Westlands, Kenya"
+4.4,,,Crowne Plaza Nairobi,Nairobi,,FALSE,+254 719 096000,1848,"Kenya Road, Upper Hill"
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,1848,1600 South Harbor Boulevard
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,1248,45 Park Lane
+3.3,,,"Country Inn & Suites By Radisson, Atlanta Downtown South At Turner Field, Ga",Atlanta,,TRUE,+1 404-658-1961,2394,759 Pollard Boulevard Southwest
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,1764,2889 East Hastings Street
+4.1,,,Ibis New Delhi Aerocity,Delhi,,TRUE,+91 11 4302 0202,1344,Asset no 9 Indira Gandhi International Airport Aerocity Hospitality District
+3.6,,,Oaks On Castlereagh,Sydney,,FALSE,+61 1300 080 292,333,"317 Castlereagh Street, Haymarket New South Wales 2000, Australia"
+4.5,,,The Lalit New Delhi,Delhi,,FALSE,+91 11 4444 7777,1740,"Near, Barakhamba Road, Police Station, Connaught Place, New Delhi"
+4.5,,,Wombat'S City Hostel,London,,FALSE,+44 20 7680 7600,2100,7 Dock Street
+3.6,,,"Seraphine Hammersmith, Sure Hotel Collection By Best Western",London,,FALSE,+44 20 8600 0555,1008,84 King Street
+4.3,,,Radisson Hotel Portland Airport,Portland,,FALSE,+1 503-251-2000,3108,6233 Northeast 78th Court
+4.2,,,North Sydney Harbourview Hotel,Sydney,,FALSE,+61 1300 785 453,2160,"17 Blue Street, North"
+4.3,,,Hotel Opera Cadet,Paris,,FALSE,+33 1 53 34 50 50,1536,"24 Rue Cadet, 75009"
+4.5,,,Ham Yard Hotel,London,,FALSE,+44 20 3642 2000,352,1 Ham Yard
+4.6,,,Four Seasons Hotel Seattle,Seattle,,TRUE,+1 206-749-7000,576,99 Union Street
+4,,,Jamison Hotel,Sydney,,FALSE,+61 2 4721 5764,576,"186 Smith Street, Penrith New South Wales 2750, Australia"
+3.8,,,Hotel Ibis Paris Opera La Fayette,Paris,,TRUE,+33 1 42 80 27 27,1323,"19 Rue Buffault, 75009"
+4.5,,,Aloft Chicago Downtown River North,Chicago,,TRUE,+1 312-661-1000,1824,515 North Clark Street
+3.7,,,La Quinta Inn & Suites By Wyndham Lax,Los Angeles,,TRUE,+1 310-645-2200,936,5249 West Century Boulevard
+4,,,Days Inn By Wyndham San Francisco Downtown/Civic Cntr Area,San Francisco,,FALSE,+1 800-615-3107,168,465 Grove Street
+4,,,Grange Strathmore Hotel,London,,FALSE,+44 20 7233 7888,216,41 Queen's Gate Gardens
+4.1,,,Parc 55 San Francisco - A Hilton Hotel,San Francisco,,FALSE,+1 415-392-8000,400,55 Cyril Magnin Street
+4.6,,,Four Seasons Hotel Seattle,Seattle,,TRUE,+1 206-749-7000,2184,99 Union Street
+3.8,,,Quest North Ryde,Sydney,,FALSE,+61 2 8899 8888,2394,"58-62 Delhi Road, North Ryde New South Wales 2113, Australia"
+4.2,,,Hotel Novotel London Paddington,London,,TRUE,+44 20 7266 6000,96,3 Kingdom Street
+4,,,Le Apple Boutique Hotel Klcc,Kuala Lumpur,,FALSE,+60 3-2179 3777,320,"160, Jalan Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan"
+4,,,The Sebel Sydney Chatswood,Sydney,,FALSE,+61 2 9414 1600,1500,"37 Victor Street, Chatswood New South Wales 2067, Australia"
+4.3,,,Homewood Suites By Hilton San Diego-Del Mar,San Diego,,FALSE,+1 858-523-0500,140,11025 Vista Sorrento Parkway
+4.6,,,Trademark Hotel,Nairobi,,FALSE,+254 730 886000,896,Limuru Road
+3.4,,,Hotel Iris,San Diego,,TRUE,+1 619-297-1691,420,625 Hotel Circle South
+3.9,,,Hotel Spero,San Francisco,,TRUE,+1 415-885-2500,504,405 Taylor Street
+4.2,,,Hotel Novotel London Paddington,London,,TRUE,+44 20 7266 6000,792,3 Kingdom Street
+4.2,,,Premier Inn London Hackney,London,,FALSE,+44 871 527 9582,1296,25 Dalston Lane
+4.1,,,Mapple Emerald,Delhi,,FALSE,+91 11 2566 1661,1260,"NH8, Rajokri, New Delhi"
+3.7,,,Embassy Suites By Hilton Atlanta Buckhead,Atlanta,,FALSE,+1 404-261-7733,630,3285 Peachtree Road Northeast
+3.2,,,Ibis Budget Sydney Airport,Sydney,,FALSE,+61 2 8339 1840,432,"5 Ross Smith Avenue, Mascot New South Wales 2020, Australia"
+4.5,,,Hub By Premier Inn London King'S Cross,London,,FALSE,+44 333 321 3104,408,50 Wharfdale Road
+4,,,Four Points By Sheraton Manhattan Soho Village,New York,,FALSE,+1 212-229-9988,200,66 Charlton Street
+4.3,,,Mama Shelter,Los Angeles,,FALSE,+1 323-785-6600,528,6500 Selma Avenue
+4.3,,,Hotel Zeppelin San Francisco,San Francisco,,TRUE,+1 415-563-0303,888,545 Post Street
+4.3,,,Courtyard By Marriott San Diego Central,San Diego,,FALSE,+1 858-573-0700,864,8651 Spectrum Center Boulevard
+4,,,Carlton Arms Hotel,New York,,FALSE,+1 212-679-0680,216,160 East 25th Street
+4,,,Grange Strathmore Hotel,London,,FALSE,+44 20 7233 7888,264,41 Queen's Gate Gardens
+4,,,Best Western Bowery Hanbee Hotel,New York,,FALSE,+1 212-925-1177,1620,231 Grand Street
+4.4,,,Washington Square Hotel,New York,,FALSE,+1 800-222-0418,2304,103 Waverly Place
+4.4,,,"The Westbury Mayfair, A Luxury Collection Hotel, London",London,,FALSE,+44 20 7629 7755,368,37 Conduit Street
+4.1,,,Hilton Garden Inn New York Central Park South-Midtown West,New York,,FALSE,+1 212-253-6000,1872,237 West 54th Street
+4.3,,,Fairfield Inn & Suites Chicago Downtown/Magnificent Mile,Chicago,,FALSE,+1 312-787-3777,888,216 East Ontario Street
+4.1,,,Palihotel Melrose,Los Angeles,,TRUE,+1 323-327-9702,1044,7950 Melrose Avenue
+4.2,,,Gold3 Boutique Hotel,Kuala Lumpur,,FALSE,+60 3-2141 7753,256,"B5, Fahrenheit88, 179, Jalan Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan"
+3.7,,,Ibis Sydney Airport,Sydney,,FALSE,+61 2 8339 8500,624,"205 O'Riordan Street, Mascot New South Wales 2020, Australia"
+4,,,Premier Inn London Beckton,London,,FALSE,+44 871 527 8644,120,1 Woolwich Manor Way
+4.1,,,Holiday Inn Vancouver-Centre (Broadway),Vancouver,,FALSE,+1 604-879-0511,496,"711 W. Broadway @, Heather Street"
+4,,,"Club Quarters Hotel, Opposite Rockefeller Center",New York,,FALSE,+1 212-262-3200,800,25 West 51st Street
+4.2,,,Doubletree By Hilton Hotel San Diego - Mission Valley,San Diego,,TRUE,+1 619-297-5466,280,7450 Hazard Center Drive
+3.8,,,Mystic Hotel,San Francisco,,TRUE,+1 415-362-8063,1170,417 Stockton Street
+4.6,,,New Road Hotel,London,,FALSE,+44 20 3019 8710,1056,103-107 New Road
+3.7,,,Hilton London Olympia,London,,TRUE,+44 20 7603 3333,1404,380 Kensington High Street
+4,,,Grange Strathmore Hotel,London,,FALSE,+44 20 7233 7888,1632,41 Queen's Gate Gardens
+4,,,Holiday Inn Chicago O'Hare Area,Chicago,,TRUE,+1 773-693-5800,1536,5615 North Cumberland Avenue
+4.2,,,The Old Clare Hotel,Sydney,,FALSE,+61 2 8277 8277,252,"1 Kensington Street, Chippendale New South Wales 2008, Australia"
+4.4,,,Embassy Suites By Hilton Portland Downtown,Portland,,FALSE,+1 503-279-9000,1092,319 Southwest Pine Street
+3.6,,,Salisbury Hotel,New York,,FALSE,+1 888-692-5757,594,123 West 57th Street
+4,,,Karma Sanctum Soho London,London,,TRUE,+44 20 7292 6100,616,20 Warwick Street
+4.1,,,Parc 55 San Francisco - A Hilton Hotel,San Francisco,,FALSE,+1 415-392-8000,432,55 Cyril Magnin Street
+3.9,,,Citadines Place D'Italie Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 43 13 85 00,585,"18 Place d'Italie, 75013"
+3.6,,,Park Grand London Hyde Park,London,,FALSE,+44 20 7262 4521,936,78-82 Westbourne Terrace
+3,,,The Queens Park Hotel,London,,FALSE,+44 20 7229 8080,456,48 Queensborough Terrace
+4,,,Holiday Inn Parramatta,Sydney,,FALSE,+61 2 9891 1277,144,"18-40 Anderson Street, Parramatta New South Wales 2150, Australia"
+3.9,,,Premier Inn London Eltham,London,,FALSE,+44 871 527 9604,234,738 Sidcup Road
+4.6,,,The Anndore House,Toronto,,TRUE,+1 416-924-1222,276,15 Charles Street East
+4.5,,,Hampton Inn Brooklyn/Downtown,New York,,FALSE,+1 718-875-8800,1440,"125 Flatbush Avenue Extension, Brooklyn"
+3,,,Sure Hotel By Best Western Paris Gare Du Nord,Paris,,TRUE,+33 1 46 07 99 56,495,"224 Rue du Faubourg Saint-Denis, 75010"
+4.5,,,The Pelham London - Starhotels Collezione,London,,FALSE,+44 20 7589 8288,240,15 Cromwell Place
+4,,,The Gregory Hotel New York,New York,,TRUE,+1 212-947-0200,1044,42 West 35th Street
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,660,"6 Rue Gustave Charpentier, 75017"
+4.2,,,Hampton Inn & Suites Seattle-Downtown,Seattle,,FALSE,+1 206-282-7700,1188,700 5th Avenue North
+3.8,,,Travelodge London Excel,London,,TRUE,+44 871 984 6298,2331,1016 Dockside Road
+4.2,,,Pinnacle Hotel Harbourfront,Vancouver,,TRUE,+1 604-689-9211,1232,1133 West Hastings Street
+4.2,,,Belltown Inn,Seattle,,TRUE,+1 866-525-4704,1920,2301 3rd Avenue
+4.5,,,Holiday Inn Sydney St Marys,Sydney,,FALSE,+61 2 9208 5678,2592,Corner of Forrester & Boronia Rd St. Marys
+4.1,,,Fairfield Inn & Suites By Marriott Atlanta Buckhead,Atlanta,,FALSE,+1 404-846-0900,1440,3092 Piedmont Road Northeast
+4,,,Renaissance New York Hotel 57,New York,,TRUE,+1 212-753-8841,672,130 East 57th Street
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,624,"Cira Centre South, 2929 Walnut Street"
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,396,4301 Island Avenue
+4.3,,,Courtyard By Marriott Philadelphia City Avenue,Philadelphia,,FALSE,+1 215-477-0200,2520,4100 Presidential Boulevard
+3.9,,,Doubletree By Hilton Hotel Philadelphia Airport,Philadelphia,,FALSE,+1 215-365-4150,1152,4509 Island Avenue
+4,,,Embassy Suites By Hilton Philadelphia Airport,Philadelphia,,FALSE,+1 215-365-4500,336,9000 Bartram Avenue
+4,,,Beresford Arms Hotel,San Francisco,,TRUE,+1 415-673-2600,1860,701 Post Street
+3.7,,,Cova Hotel,San Francisco,,TRUE,+1 415-771-3000,540,655 Ellis Street
+3.9,,,Executive Hotel Vintage Court San Francisco,San Francisco,,TRUE,+1 800-654-1100,468,650 Bush Street
+3.5,,,Hotel Beresford,San Francisco,,TRUE,+1 415-673-9900,864,635 Sutter Street
+3.6,,,Hotel Bijou,San Francisco,,TRUE,+1 415-771-1200,1242,111 Mason Street
+3.8,,,Hotel Diva,San Francisco,,TRUE,+1 844-592-4559,2142,440 Geary Street
+3.9,,,Hotel Spero,San Francisco,,TRUE,+1 415-885-2500,576,405 Taylor Street
+3.8,,,Hotel Triton,San Francisco,,TRUE,+1 415-394-0500,1827,342 Grant Avenue
+4.6,,,Four Seasons Hotel Seattle,Seattle,,TRUE,+1 206-749-7000,608,99 Union Street
+4.4,,,Homewood Suites By Hilton Seattle Downtown,Seattle,,TRUE,+1 206-281-9393,936,206 Western Avenue West
+4.2,,,Homewood Suites By Hilton Seattle-Conv Ctr-Pike Street,Seattle,,TRUE,+1 206-682-8282,400,1011 Pike Street
+4.2,,,Hotel Max,Seattle,,TRUE,+1 206-728-6299,128,620 Stewart Street
+4.2,,,Hotel Theodore,Seattle,,TRUE,+1 206-621-1200,1380,1531 7th Avenue
+4.4,,,Hyatt House Seattle/Downtown,Seattle,,TRUE,+1 206-727-1234,760,201 5th Avenue North
+3.5,,,Hotel Beresford,San Francisco,,TRUE,+1 415-673-9900,252,635 Sutter Street
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,1008,998 West Mission Bay Drive
+4.3,,,Best Western Plus Bayside Inn,San Diego,,FALSE,+1 619-233-7500,900,555 West Ash Street
+4.2,,,Best Western Plus Hacienda Hotel Old Town,San Diego,,FALSE,+1 619-298-4707,2100,4041 Harney Street
+4.5,,,Best Western Plus Island Palms Hotel & Marina,San Diego,,FALSE,+1 619-222-0561,696,2051 Shelter Island Drive
+3.9,,,Best Western San Diego/Miramar Hotel,San Diego,,FALSE,+1 858-578-6600,1890,9310 Kearny Mesa Road
+3.7,,,Best Western Seven Seas,San Diego,,FALSE,+1 619-291-1300,216,411 Hotel Circle South
+4,,,Best Western Yacht Harbor Hotel,San Diego,,FALSE,+1 619-224-3254,420,5005 North Harbor Drive
+4.4,,,Blue Sea Beach Hotel,San Diego,,FALSE,+1 858-488-4700,936,707 Pacific Beach Drive
+4.3,,,Capri By The Sea By All Seasons Resort Lodging,San Diego,,FALSE,+1 858-483-6110,720,4767 Ocean Boulevard
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,2160,8669 West Sahara Avenue
+4.2,,,La Quinta Inn & Suites By Wyndham Las Vegas Summerlin Tech,Las Vegas,,TRUE,+1 702-360-1200,624,7101 Cascade Valley Court
+3.5,,,Oasis At Gold Spike,Las Vegas,,TRUE,+1 702-768-9823,1575,217 Las Vegas Boulevard North
+4.4,,,Even Hotel Seattle Downtown - Lake Union,Seattle,,TRUE,+1 206-596-2302,1624,527 Fairview Avenue North
+4.2,,,Homewood Suites By Hilton Seattle-Conv Ctr-Pike Street,Seattle,,TRUE,+1 206-682-8282,2016,1011 Pike Street
+4.2,,,Hotel Max,Seattle,,TRUE,+1 206-728-6299,1296,620 Stewart Street
+4.4,,,Hyatt House Seattle/Downtown,Seattle,,TRUE,+1 206-727-1234,480,201 5th Avenue North
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,900,2889 East Hastings Street
+3,,,Days Inn By Wyndham Seattle North Of Downtown,Seattle,,FALSE,+1 800-615-3107,504,9100 Aurora Avenue North
+4.5,,,Embassy Suites By Hilton Seattle Downtown Pioneer Square,Seattle,,FALSE,+1 206-859-4400,300,255 South King Street
+4.6,,,Andaz Delhi - A Concept By Hyatt,Delhi,,TRUE,+91 11 4903 1234,1152,"Asset, Street Number 1, New Delhi"
+4.1,,,Bloomrooms @ New Delhi Railway Station,Delhi,,FALSE,+91 11 4122 5666,1104,"8591, Arakashan Road, Opp New Delhi Railway Station, New Delhi"
+4.2,,,Calista Resort,Delhi,,FALSE,+91 11 4103 4591,1632,"37/2-4 Old, National Highway 48, Kapas Hera, New Delhi"
+4.3,,,Crowne Plaza New Delhi Mayur Vihar Noida,Delhi,,FALSE,+91 11 4110 2222,1368,"13 B, District Centre, Mayur Vihar, New Delhi"
+4.3,,,"Four Points By Sheraton New Delhi, Airport Highway",Delhi,,FALSE,+91 11 6604 0000,3108,"Plot no 9, National Highway - 8, Samalka, New Delhi"
+4.2,,,Haveli Dharampura,Delhi,,FALSE,+91 11 2326 1000,672,"Haveli Dharampura, 2293, Gali Gulian, Chandni Chowk, New Delhi"
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,312,630 North Rush Street
+4,,,Aloft Atlanta Downtown,Atlanta,,TRUE,+1 678-515-0300,792,300 Ted Turner Drive Northwest
+4.2,,,Home2 Suites By Hilton Atlanta Downtown,Atlanta,,TRUE,+1 404-965-7992,936,87 Walton Street Northwest
+4.4,,,Hotel Indigo Atlanta Downtown,Atlanta,,TRUE,+1 404-523-7600,3024,230 Peachtree Street
+4.3,,,Hyatt Centric Midtown Atlanta,Atlanta,,TRUE,+1 404-443-1234,1248,125 10th Street Northeast
+4.3,,,Hyatt House Atlanta/Downtown,Atlanta,,TRUE,+1 404-332-5522,3024,431 Marietta Street NorthWest
+4.1,,,Hyatt Place Atlanta/Buckhead,Atlanta,,TRUE,+1 404-869-6161,2220,3242 Peachtree Road Northeast
+4.2,,,Hyatt Place Atlanta/Downtown,Atlanta,,TRUE,+1 404-577-1980,288,330 Peachtree Street Northeast
+3.9,,,La Quinta Inn & Suites By Wyndham Atlanta Midtown - Buckhead,Atlanta,,TRUE,+1 404-321-0999,1890,2535 Chantilly Drive Northeast
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,224,630 North Rush Street
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,416,495 Jefferson Street
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,528,6399 Wilshire Boulevard
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,192,630 North Rush Street
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,210,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,200,6399 Wilshire Boulevard
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1392,"60 Furman Street, Brooklyn"
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,552,9920 Northeast Cascades Parkway
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,84,4301 Island Avenue
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,1944,749 Taylor Street
+2.6,,,Bei Hotel San Francisco,San Francisco,,TRUE,+1 415-626-6103,750,50 8th Street
+3.6,,,Casa Loma Hotel,San Francisco,,FALSE,+1 415-552-7100,270,610 Fillmore Street
+4.3,,,Chancellor Hotel On Union Square,San Francisco,,FALSE,+1 415-362-2004,828,433 Powell Street
+4.1,,,Chelsea,San Francisco,,FALSE,+1 415-563-5600,1872,2095 Lombard Street
+4.3,,,Cornell Hotel De France,San Francisco,,FALSE,+1 415-421-3154,348,715 Bush Street
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,300,495 Jefferson Street
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,640,6399 Wilshire Boulevard
+4.7,,,Canopy By Hilton Portland Pearl District,Portland,,TRUE,+1 971-351-0230,660,425 Northwest 9th Avenue
+3.8,,,Comfort Suites Phoenix North,Phoenix,,TRUE,+1 602-861-3900,396,10210 North 26th Drive
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,280,3600 Wieuca Road Northeast
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,240,3600 Wieuca Road Northeast
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,1216,2423 1st Avenue
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,864,6399 Wilshire Boulevard
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,210,749 Taylor Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,324,2423 1st Avenue
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,240,"60 Furman Street, Brooklyn"
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,1160,"Cira Centre South, 2929 Walnut Street"
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,232,2423 1st Avenue
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,1728,495 Jefferson Street
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,768,9920 Northeast Cascades Parkway
+4,,,Aloft New York Brooklyn,New York,,TRUE,+1 718-256-3833,1120,"216 Duffield Street, Brooklyn"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,396,1414 6th Avenue
+4.4,,,Best Western Plus Portland Airport Hotel & Suites,Portland,,FALSE,+1 503-251-9991,504,11938 Northeast Airport Way
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,760,9920 Northeast Cascades Parkway
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1440,"60 Furman Street, Brooklyn"
+3.8,,,Four Points By Sheraton Anaheim,Anaheim,,TRUE,+1 714-758-0900,102,1221 South Harbor Boulevard
+4.4,,,Hyatt Place At Anaheim Resort/ Convention Center,Anaheim,,TRUE,+1 714-750-4000,416,2035 South Harbor Boulevard
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,924,1100 H Street
+4.1,,,Doubletree By Hilton Hotel Sacramento,Sacramento,,TRUE,+1 916-929-8855,720,2001 Point West Way
+4.4,,,Embassy Suites By Hilton Sacramento Riverfront Promenade,Sacramento,,FALSE,+1 916-326-5000,416,100 Capitol Mall
+3.5,,,Four Points By Sheraton Sacramento International Airport,Sacramento,,FALSE,+1 916-263-9000,468,4900 Duckhorn Drive
+4.3,,,Hilton Garden Inn Sacramento/South Natomas,Sacramento,,FALSE,+1 916-568-5400,560,2540 Venture Oaks Way
+4.1,,,Holiday Inn Sacramento Downtown - Arena,Sacramento,,FALSE,+1 916-446-0100,80,300 J Street
+4.4,,,Courtyard By Marriott Long Beach Airport,Long Beach,,FALSE,+1 562-429-5803,888,3841 North Lakewood Boulevard
+4.4,,,Hampton Inn Long Beach Airport,Long Beach,,FALSE,+1 562-425-0012,2220,3771 North Lakewood Boulevard
+4,,,Holiday Inn Long Beach Downtown Area,Long Beach,,FALSE,+1 562-590-8858,1584,1133 Atlantic Avenue
+4.5,,,Homewood Suites By Hilton Long Beach Airport,Long Beach,,FALSE,+1 562-425-0010,480,3771 North Lakewood Boulevard
+4.3,,,Hotel Current Long Beach,Long Beach,,FALSE,+1 562-597-5171,360,5325 Pacific Coast Highway
+4.5,,,Hyatt Centric The Pike Long Beach,Long Beach,,FALSE,+1 562-432-1234,972,285 Bay Street
+4.4,,,Hyatt Regency Long Beach,Long Beach,,FALSE,+1 562-491-1234,252,200 South Pine Avenue
+4.3,,,Long Beach Marriott,Long Beach,,FALSE,+1 800-228-9290,1152,4700 Airport Plaza Drive
+4.2,,,Doubletree By Hilton Hotel Portland,Portland,,TRUE,+1 503-281-6111,1152,1000 Northeast Multnomah Street
+3.8,,,Holiday Inn Portland-Airport (I-205),Portland,,TRUE,+1 503-256-5000,1368,8439 Northeast Columbia Boulevard
+4.6,,,Hyatt House Portland/Downtown,Portland,,TRUE,+1 503-241-2775,2604,2080 Southwest River Drive
+4.4,,,Hyatt Place Portland Airport /Cascade Station,Portland,,TRUE,+1 503-288-2808,224,9750 Northeast Cascades Parkway
+4.6,,,Kimpton Hotel Monaco Portland,Portland,,TRUE,+1 503-222-0001,704,506 Southwest Washington Street
+4.5,,,Kimpton Riverplace Hotel,Portland,,TRUE,+1 888-869-3108,384,1510 Southwest Harbor Way
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,1260,1600 South Harbor Boulevard
+4,,,Anaheim Majestic Garden Hotel,Anaheim,,TRUE,+1 714-778-1700,312,900 South Disneyland Drive
+4.4,,,Anaheim Rv Park,Anaheim,,TRUE,+1 714-774-3860,2304,200 West Midway Drive
+4.5,,,Ayres Hotel Anaheim,Anaheim,,FALSE,+1 714-634-2106,2100,2550 East Katella Avenue
+4.3,,,Best Western Plus Pavilions,Anaheim,,FALSE,+1 714-776-0140,420,1176 West Katella Avenue
+4.4,,,Catamaran Resort Hotel And Spa,San Diego,,TRUE,+1 858-488-1081,2604,3999 Mission Boulevard
+3.9,,,Crowne Plaza San Diego - Mission Valley,San Diego,,TRUE,+1 619-297-1101,612,2270 Hotel Circle North
+4.2,,,Doubletree By Hilton Hotel San Diego - Del Mar,San Diego,,TRUE,+1 858-481-5900,444,11915 El Camino Real
+4.2,,,Doubletree By Hilton Hotel San Diego - Mission Valley,San Diego,,TRUE,+1 619-297-5466,264,7450 Hazard Center Drive
+4.5,,,Estancia La Jolla Hotel & Spa,San Diego,,TRUE,+1 855-430-7503,372,"9700 North Torrey Pines Road, La Jolla, California 92037, United States"
+4.2,,,Hampton Inn San Diego/Del Mar,San Diego,,TRUE,+1 858-792-5557,1872,11920 El Camino Real
+4.2,,,Hilton San Diego Airport/Harbor Island,San Diego,,TRUE,+1 619-291-6700,1008,1960 Harbor Island Drive
+4.3,,,Hilton San Diego Gaslamp Quarter,San Diego,,TRUE,+1 619-231-4040,704,401 K Street
+4.5,,,Kimpton Sawyer Hotel,Sacramento,,TRUE,+1 916-545-7100,816,500 J Street
+3.5,,,La Quinta Inn By Wyndham Sacramento Downtown,Sacramento,,TRUE,+1 916-448-8100,396,200 Jibboom Street
+4.4,,,Residence Inn By Marriott Sacramento Downtown At Capitol Park,Sacramento,,TRUE,+1 916-443-0500,744,1121 15th Street
+4.3,,,Sheraton Grand Sacramento Hotel,Sacramento,,TRUE,+1 916-447-1700,208,"13th And, J Street"
+3.4,,,Surestay Plus Hotel By Best Western Sacramento North,Sacramento,,TRUE,+1 916-497-0955,288,350 Bercut Drive
+4.4,,,"The Citizen Hotel, Autograph Collection",Sacramento,,TRUE,+1 916-447-2700,672,926 J Street
+4.5,,,The Westin Sacramento,Sacramento,,TRUE,+1 916-443-8400,1728,4800 Riverside Boulevard
+4.2,,,Best Western Plus Hacienda Hotel Old Town,San Diego,,FALSE,+1 619-298-4707,840,4041 Harney Street
+4,,,Best Western Yacht Harbor Hotel,San Diego,,FALSE,+1 619-224-3254,1088,5005 North Harbor Drive
+4.3,,,Hilton Garden Inn Sacramento/South Natomas,Sacramento,,FALSE,+1 916-568-5400,1232,2540 Venture Oaks Way
+4.4,,,Catamaran Resort Hotel And Spa,San Diego,,TRUE,+1 858-488-1081,360,3999 Mission Boulevard
+4.5,,,Estancia La Jolla Hotel & Spa,San Diego,,TRUE,+1 855-430-7503,672,"9700 North Torrey Pines Road, La Jolla, California 92037, United States"
+4.2,,,Hampton Inn San Diego/Del Mar,San Diego,,TRUE,+1 858-792-5557,620,11920 El Camino Real
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,2088,6399 Wilshire Boulevard
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,1386,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,2268,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.2,,,Best Western Burbank Airport Inn,Los Angeles,,FALSE,+1 818-765-2900,1776,"7615 Lankershim Boulevard, North Hollywood, California 91605, United States"
+3.8,,,Best Western Los Angeles Worldport Hotel,Los Angeles,,FALSE,+1 310-834-3400,756,"1402 West Pacific Coast Highway, Wilmington, California 90744, United States"
+4.1,,,Best Western Plus Dragon Gate Inn,Los Angeles,,TRUE,+1 213-617-3077,1332,818 North Hill Street
+4.2,,,Best Western Plus Hollywood Hills Hotel,Los Angeles,,FALSE,+1 323-464-5181,1488,"6141 Franklin Avenue, Hollywood, California 90028, United States"
+4.3,,,Doubletree By Hilton Hotel Fresno Convention Center,Fresno,,FALSE,+1 559-268-1000,372,2233 Ventura Street
+3.9,,,Piccadilly Inn Airport,Fresno,,FALSE,+1 559-375-7760,945,5115 East McKinley Avenue
+3.8,,,Radisson Hotel Fresno Conference Center,Fresno,,FALSE,+1 559-233-6650,990,1055 Van Ness Avenue
+4.3,,,Springhill Suites By Marriott Fresno,Fresno,,FALSE,+1 888-287-9400,1656,6844 North Fresno Street
+4.2,,,Belltown Inn,Seattle,,TRUE,+1 866-525-4704,1656,2301 3rd Avenue
+4.2,,,Best Western Plus Pioneer Square Hotel Downtown,Seattle,,FALSE,+1 206-340-1234,240,77 Yesler Way
+4.4,,,Even Hotel Seattle Downtown - Lake Union,Seattle,,TRUE,+1 206-596-2302,1248,527 Fairview Avenue North
+4.3,,,Hilton San Diego Gaslamp Quarter,San Diego,,TRUE,+1 619-231-4040,444,401 K Street
+4.3,,,Clementine Hotel & Suites Anaheim,Anaheim,,TRUE,+1 714-533-3555,324,1700 South Clementine Street
+3.3,,,Extended Stay America Orange County - Anaheim Convention Center,Anaheim,,TRUE,+1 800-804-3724,396,1742 South Clementine Street
+4.4,,,Hotel Indigo Anaheim,Anaheim,,TRUE,+1 714-772-7755,1440,435 West Katella Avenue
+4.4,,,Hyatt Place At Anaheim Resort/ Convention Center,Anaheim,,TRUE,+1 714-750-4000,2340,2035 South Harbor Boulevard
+4,,,Aloft Atlanta Downtown,Atlanta,,TRUE,+1 678-515-0300,420,300 Ted Turner Drive Northwest
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,99,749 Taylor Street
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,768,311 North Morgan Street
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,616,45 Park Lane
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,160,1414 6th Avenue
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,224,"6 Rue Gustave Charpentier, 75017"
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,396,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,756,8669 West Sahara Avenue
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,117,2889 East Hastings Street
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,1215,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,2184,45 Park Lane
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,208,4450 East Washington Street
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,60,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,174,2889 East Hastings Street
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,952,3600 Wieuca Road Northeast
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,232,6399 Wilshire Boulevard
+4.1,,,Auberge Vancouver Hotel,Vancouver,,FALSE,+1 604-678-8899,288,837 West Hastings Street
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,100,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,92,311 North Morgan Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,216,"60 Furman Street, Brooklyn"
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,528,8000 Arizona Grand Parkway
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,234,121 Sussex Gardens
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,100,3600 Wieuca Road Northeast
+4.6,,,Four Seasons Hotel Seattle,Seattle,,TRUE,+1 206-749-7000,756,99 Union Street
+4.2,,,Hotel Max,Seattle,,TRUE,+1 206-728-6299,1488,620 Stewart Street
+4,,,Best Western Premier Toronto Airport Carlingview Hotel,Toronto,,TRUE,+1 416-637-7000,552,"135 Carlingview Drive, Etobicoke, Ontario M9W 5E7, Canada"
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,496,8669 West Sahara Avenue
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,744,1100 Granville Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,1404,2423 1st Avenue
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,1088,"Cira Centre South, 2929 Walnut Street"
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,483,749 Taylor Street
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,1800,3600 Wieuca Road Northeast
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,304,45 Park Lane
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,192,6399 Wilshire Boulevard
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,288,3600 Wieuca Road Northeast
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,232,45 Park Lane
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,180,749 Taylor Street
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,232,9920 Northeast Cascades Parkway
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,140,495 Jefferson Street
+4.4,,,Aloft New Delhi Aerocity,Delhi,,FALSE,+91 11 4565 0000,160,"5B Igi T3 Road, Delhi - Ajmer Expressway, Aerocity, New Delhi"
+4,,,Aloft New York Brooklyn,New York,,TRUE,+1 718-256-3833,1392,"216 Duffield Street, Brooklyn"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,1224,1414 6th Avenue
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,792,"60 Furman Street, Brooklyn"
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,480,"Cira Centre South, 2929 Walnut Street"
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,570,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.3,,,Ac Hotel By Marriott Atlanta Downtown,Atlanta,,FALSE,+1 404-524-5555,152,101 Andrew Young International Boulevard Northwest
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1332,"60 Furman Street, Brooklyn"
+4.4,,,Aloft New Delhi Aerocity,Delhi,,FALSE,+91 11 4565 0000,192,"5B Igi T3 Road, Delhi - Ajmer Expressway, Aerocity, New Delhi"
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,480,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.2,,,La Quinta Inn & Suites By Wyndham Las Vegas Summerlin Tech,Las Vegas,,TRUE,+1 702-360-1200,2100,7101 Cascade Valley Court
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,400,"6 Rue Gustave Charpentier, 75017"
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,1260,3600 Wieuca Road Northeast
+4.2,,,28 Hotel Sydney,Sydney,,FALSE,+61 2 9102 2828,432,"28 Regent Street, Chippendale New South Wales 2008, Australia"
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,468,630 North Rush Street
+4.3,,,Arizona Grand Resort & Spa,Phoenix,,FALSE,+1 602-426-2638,960,8000 Arizona Grand Parkway
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,696,630 North Rush Street
+4.2,,,28 Hotel Sydney,Sydney,,FALSE,+61 2 9102 2828,116,"28 Regent Street, Chippendale New South Wales 2008, Australia"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,264,45 Park Lane
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,448,6399 Wilshire Boulevard
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,912,495 Jefferson Street
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,972,6399 Wilshire Boulevard
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,384,630 North Rush Street
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,432,8669 West Sahara Avenue
+4.3,,,Best Western Plus Bayside Inn,San Diego,,FALSE,+1 619-233-7500,100,555 West Ash Street
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,1008,6399 Wilshire Boulevard
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,432,3600 Wieuca Road Northeast
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,2079,749 Taylor Street
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,126,749 Taylor Street
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,480,495 Jefferson Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,480,"60 Furman Street, Brooklyn"
+4.3,,,Le MeRidien Philadelphia,Philadelphia,,TRUE,+1 215-422-8200,1680,1421 Arch Street
+4.2,,,Renaissance Philadelphia Downtown Hotel,Philadelphia,,TRUE,+1 800-468-3571,2772,401 Chestnut Street
+4.1,,,Sheraton Philadelphia University City Hotel,Philadelphia,,TRUE,+1 215-387-8000,1056,3549 Chestnut Street
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,252,4301 Island Avenue
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,336,630 North Rush Street
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,300,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,1860,6399 Wilshire Boulevard
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,96,749 Taylor Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,232,"60 Furman Street, Brooklyn"
+4.1,,,Ibis New Delhi Aerocity,Delhi,,TRUE,+91 11 4302 0202,756,Asset no 9 Indira Gandhi International Airport Aerocity Hospitality District
+4.7,,,"Taj Palace, New Delhi",Delhi,,TRUE,+91 11 2611 0202,420,"2, Sardar Patel Marg, Diplomatic Enclave, New Delhi"
+4.4,,,"Vivanta Ambassador, New Delhi",Delhi,,TRUE,+91 11 6626 1000,312,"Sujan Singh Park, Subramaniam Bharti Marg, New Delhi"
+4.4,,,"Vivanta New Delhi, Dwarka",Delhi,,TRUE,+91 11 6600 3000,224,"Metro Station Road, Sector 21, New Delhi"
+4.1,,,Ibis New Delhi Aerocity,Delhi,,TRUE,+91 11 4302 0202,136,Asset no 9 Indira Gandhi International Airport Aerocity Hospitality District
+4.6,,,Ace Hotel Chicago,Chicago,,TRUE,+1 312-764-1919,200,311 North Morgan Street
+4.5,,,Acme Hotel Company Chicago,Chicago,,FALSE,+1 312-894-0800,672,15 East Ohio Street
+4.3,,,Ac Hotel By Marriott Atlanta Downtown,Atlanta,,FALSE,+1 404-524-5555,480,101 Andrew Young International Boulevard Northwest
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,264,8669 West Sahara Avenue
+4,,,Aloft Atlanta Downtown,Atlanta,,TRUE,+1 678-515-0300,208,300 Ted Turner Drive Northwest
+4,,,Best Western Premier Toronto Airport Carlingview Hotel,Toronto,,TRUE,+1 416-637-7000,1800,"135 Carlingview Drive, Etobicoke, Ontario M9W 5E7, Canada"
+3,,,Best Western Primrose Hotel Downtown-Toronto,Toronto,,TRUE,+1 800-780-7234,720,111 Carlton Street
+4.4,,,Bisha Hotel Toronto,Toronto,,TRUE,+1 416-551-2800,936,80 Blue Jays Way
+4.1,,,Cambridge Suites Toronto,Toronto,,FALSE,+1 800-463-1990,912,15 Richmond Street East
+4.1,,,Courtyard By Marriott Toronto Downtown,Toronto,,FALSE,+1 416-924-0611,1656,475 Yonge Street
+4,,,Best Western Premier Toronto Airport Carlingview Hotel,Toronto,,TRUE,+1 416-637-7000,432,"135 Carlingview Drive, Etobicoke, Ontario M9W 5E7, Canada"
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,232,630 North Rush Street
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,176,495 Jefferson Street
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,640,9920 Northeast Cascades Parkway
+4.3,,,The Gore London - Starhotels Collezione,London,,FALSE,+44 20 7584 6601,240,190 Queen's Gate
+4.1,,,Holiday Inn Hotel And Suites Anaheim,Anaheim,,TRUE,+1 714-535-0300,640,1240 South Walnut Street
+4.4,,,Thompson Seattle,Seattle,,TRUE,+1 206-623-4600,672,110 Stewart Street
+3.8,,,Holiday Inn Express Sacramento Convention Center,Sacramento,,TRUE,+1 916-444-4436,1053,728 16th Street
+4.4,,,"Marriott Vacation Club Pulse At The Mayflower, Washington, D.C.",Washington D.C.,,FALSE,+1 202-347-3000,2592,"1127 Connecticut Avenue Northwest, Washington, District of Columbia 20036, United States"
+4.2,,,Quest Bella Vista,Sydney,,FALSE,+61 2 8818 9300,2100,"24 Norbrik Drive, Bella Vista New South Wales 2153, Australia"
+4.1,,,Holiday Inn Manhattan-Financial District,New York,,FALSE,+1 212-791-2900,208,99 Washington Street
+3.5,,,Travelodge By Wyndham Downtown Chicago,Chicago,,FALSE,+1 800-576-0767,288,65 East Harrison Street
+4.2,,,Yha London St Pancras Hostel,London,,FALSE,+44 345 371 9344,400,79-81 Euston Road
+4,,,Four Points By Sheraton New York Downtown,New York,,FALSE,+1 212-273-9388,800,6 Platt Street
+4.3,,,Citadines Tour Eiffel Paris (Apart Hotel Paris),Paris,,FALSE,+33 1 53 95 60 00,756,"132 Boulevard de Grenelle, 75015"
+4.4,,,Hyatt Place Washington Dc/National Mall,Washington D.C.,,TRUE,+1 202-803-6110,720,"400 E Street Southwest, Washington, District of Columbia 20024, United States"
+4.2,,,Mercure London Hyde Park Hotel,London,,FALSE,+44 20 7262 6699,1320,"Hyde Park, 8-14 Talbot Square"
+4.2,,,Comfort Suites Michigan Avenue - Loop,Chicago,,TRUE,+1 623-432-0770,540,320 North Michigan Avenue
+3.5,,,Kawada Hotel,Los Angeles,,FALSE,+1 213-621-4455,1344,200 South Hill Street
+4.4,,,Homewood Suites By Hilton Chicago-Downtown,Chicago,,TRUE,+1 312-644-2222,936,40 East Grand Avenue
+4.3,,,Hotel Opera Cadet,Paris,,FALSE,+33 1 53 34 50 50,1232,"24 Rue Cadet, 75009"
+3.9,,,La Quinta Inn & Suites By Wyndham San Diego Seaworld/Zoo,San Diego,,TRUE,+1 619-295-6886,87,641 Camino del Rio South
+4.6,,,The Westin Kierland Resort & Spa,Phoenix,,TRUE,+1 480-624-1000,2016,"6902 East Greenway Parkway, Scottsdale, Arizona 85254, United States"
+4,,,"The Muse Sarovar Portico Kapashera, New Delhi",Delhi,,FALSE,+91 11 4909 9999,600,"88-89, Bijwasan Road, Kapas Hera Extension, Kapashera, New Delhi"
+4.5,,,Homewood Suites By Hilton Los Angeles International Airport,Los Angeles,,FALSE,+1 310-215-3300,80,6151 West Century Boulevard
+4,,,Hotel Peyris Opera,Paris,,FALSE,+33 1 47 70 50 83,1008,"10 Rue du Conservatoire, 75009"
+4.2,,,The Westin Philadelphia,Philadelphia,,TRUE,+1 215-563-1600,192,"At Liberty Place, 99 South 17th Street"
+4.4,,,Holiday Inn Express & Suites La Jolla - Beach Area,San Diego,,TRUE,+1 858-454-7101,248,"6705 La Jolla Boulevard, La Jolla, California 92037, United States"
+4.2,,,Premier Inn London Wandsworth,London,,FALSE,+44 871 527 9486,288,45 Garratt Lane
+4.2,,,Palmers Lodge Swiss Cottage,London,,FALSE,+44 20 7483 8470,828,40 College Crescent
+3.8,,,Novotel Sydney Parramatta,Sydney,,FALSE,+61 2 9630 4999,1944,"350 Church Street, Parramatta New South Wales 2150, Australia"
+4.4,,,Hyatt Place Chicago/River North,Chicago,,FALSE,+1 312-755-1600,2040,66 West Illinois Street
+3.4,,,Motel 6 San Diego Hotel Circle - Mission Valley,San Diego,,TRUE,+1 619-296-1612,120,2424 Hotel Circle North
+4.2,,,Hilton Garden Inn New Delhi/Saket,Delhi,,FALSE,+91 11 3919 1919,300,"A4, DLF Place, Saket District Centre, New Delhi"
+4.4,,,State Plaza Hotel,Washington D.C.,,FALSE,+1 202-861-8200,1392,"2117 E Street Northwest, Washington, District of Columbia 20037, United States"
+4.1,,,"Radisson Blu Edwardian, Kenilworth",London,,TRUE,+44 20 7637 3477,480,97 Great Russell Street
+3.5,,,Travelodge London Battersea,London,,TRUE,+44 871 984 6189,105,200 York Road
+4.1,,,Meininger Hotel London Hyde Park,London,,FALSE,+44 20 3318 1407,1456,65-67 Queen's Gate
+4.2,,,Sheraton Philadelphia Society Hill Hotel,Philadelphia,,TRUE,+1 215-238-6000,1248,One Dock Street
+4.6,,,Luma Hotel Times Square,New York,,FALSE,+1 888-559-5862,1512,120 West 41st Street
+4.4,,,Courtyard By Marriott Paris Gare De Lyon,Paris,,FALSE,+33 1 80 20 63 00,496,"209-211 Rue de Bercy, 75012"
+4.1,,,Doubletree By Hilton Hotel London - Victoria,London,,FALSE,+44 20 7834 8123,1872,2 Bridge Place
+3.7,,,La Quinta Inn & Suites By Wyndham Lax,Los Angeles,,TRUE,+1 310-645-2200,1395,5249 West Century Boulevard
+4.1,,,Hotel Vertigo San Francisco,San Francisco,,FALSE,+1 415-885-6800,1404,940 Sutter Street
+4.5,,,The Arctic Club Seattle - A Doubletree By Hilton Hotel,Seattle,,FALSE,+1 206-340-0340,624,700 3rd Avenue
+4.6,,,Inn At The Market,Seattle,,FALSE,+1 206-443-3600,348,86 Pine Street
+4.4,,,Toronto Marriott City Centre Hotel,Toronto,,TRUE,+1 416-341-7100,480,One Blue Jays Way
+4.3,,,Meriton Suites Bondi Junction,Sydney,,FALSE,+61 2 9277 1125,116,"97 Grafton Street, Bondi Junction New South Wales 2022, Australia"
+4.4,,,Park South Hotel,New York,,FALSE,+1 212-448-0888,864,124 East 28th Street
+3.6,,,Holiday Inn Express London - Victoria,London,,FALSE,+44 20 7630 8888,1620,106-110 Belgrave Road
+4.4,,,The District By Hilton Club,Washington D.C.,,FALSE,+1 202-449-3100,888,"1250 22nd Street Northwest, Washington, District of Columbia 20037, United States"
+3.8,,,Best Western Burns Hotel,London,,FALSE,+44 20 7373 3151,1350,18-26 Barkston Gardens
+3.9,,,Crowne Plaza Jfk Airport New York City,New York,,TRUE,+1 718-530-1160,840,"138-10 135th Avenue, Jamaica"
+4.5,,,"Hub By Premier Inn London Westminster, St James'S Park",London,,FALSE,+44 871 527 9706,704,15 Dacre Street
+3.1,,,Smart Hyde Park Inn Hostel,London,,FALSE,+44 20 7229 0000,315,48-50 Inverness Terrace
+3.8,,,The Capsule Hotel,Sydney,,FALSE,+61 2 8957 7763,1386,"3, 640 George Street"
+4.6,,,Inn At The Market,Seattle,,FALSE,+1 206-443-3600,1920,86 Pine Street
+4.1,,,Aparthotel Adagio Paris Montmartre,Paris,,TRUE,+33 1 42 57 14 55,952,"10 Place Charles Dullin, 75018"
+4.1,,,Red Lion Hotel On The River Jantzen Beach,Portland,,TRUE,+1 503-283-4466,312,909 North Hayden Island Drive
+4.6,,,The Inn At Union Square,San Francisco,,FALSE,+1 415-397-3510,384,440 Post Street
+4.6,,,Le Germain Hotel Toronto Mercer,Toronto,,TRUE,+1 866-345-9501,680,30 Mercer Street
+3.9,,,Premier Inn London Edmonton,London,,FALSE,+44 871 527 9404,1458,Advent Way
+4.1,,,Ibis London City - Shoreditch Hotel,London,,FALSE,+44 20 7422 8400,184,5 Commercial Street
+3.9,,,Hotel Mercure London Bloomsbury,London,,FALSE,+44 20 7833 3691,840,130-134 Southampton Row
+4.1,,,Holiday Inn Manhattan-Financial District,New York,,FALSE,+1 212-791-2900,1440,99 Washington Street
+4.1,,,Hilton Checkers Los Angeles,Los Angeles,,FALSE,+1 213-624-0000,468,535 South Grand Avenue
+4.4,,,Residence Inn By Marriott Vancouver Downtown,Vancouver,,TRUE,+1 800-331-3131,756,1234 Hornby Street
+4.2,,,Hilton Sacramento Arden West,Sacramento,,TRUE,+1 916-922-4700,312,2200 Harvard Street
+4.5,,,Hotel Via,San Francisco,,FALSE,+1 415-200-4977,432,138 King Street
+4.5,,,Hotel Indigo San Diego-Gaslamp Quarter,San Diego,,TRUE,+1 619-727-4000,592,509 Ninth Avenue
+4.4,,,Hotel Relais Bosquet,Paris,,TRUE,+33 1 47 05 25 45,200,"19 Rue du Champ de Mars, 75007"
+4.6,,,Jw Marriott Hotel New Delhi Aerocity,Delhi,,FALSE,+91 11 4521 2121,912,"Asset Area 4 - Hospitality District Delhi, Aerocity"
+4.3,,,Motif Seattle,Seattle,,TRUE,+1 206-971-8000,832,1415 5th Avenue
+3.1,,,Kensington Suite Hotel,London,,FALSE,+44 20 7602 3395,315,128 - 130 Holland Road
+4,,,The Marcel At Gramercy,New York,,FALSE,+1 212-696-3800,1872,201 East 24th Street
+4.3,,,Hilton Garden Inn Seattle Downtown,Seattle,,FALSE,+1 206-467-7770,576,1821 Boren Avenue
+4.4,,,Hotel Relais Bosquet,Paris,,TRUE,+33 1 47 05 25 45,648,"19 Rue du Champ de Mars, 75007"
+3.9,,,Grange Fitzrovia Hotel,London,,FALSE,+44 20 7467 7000,936,20-28 Bolsover Street
+4.4,,,Washington Square Hotel,New York,,FALSE,+1 800-222-0418,696,103 Waverly Place
+4.3,,,Inn At Venice Beach,Los Angeles,,FALSE,+1 310-821-2557,528,"327 West Washington Boulevard, Venice, California 90291, United States"
+4.1,,,Fairfield Inn & Suites By Marriott Atlanta Buckhead,Atlanta,,FALSE,+1 404-846-0900,312,3092 Piedmont Road Northeast
+4,,,La Quinta Inn & Suites By Wyndham Seattle Downtown,Seattle,,TRUE,+1 206-624-6820,624,2224 8th Avenue
+4.1,,,Aparthotel Adagio Paris Montmartre,Paris,,TRUE,+33 1 42 57 14 55,2856,"10 Place Charles Dullin, 75018"
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,666,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,704,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,864,"60 Furman Street, Brooklyn"
+4.1,,,Courtyard By Marriott Washington Capitol Hill/Navy Yard,Washington D.C.,,TRUE,+1 202-479-0027,336,"140 L Street Southeast, Washington, DC 20003, USA"
+4.3,,,Courtyard By Marriott Washington Downtown/Convention Center,Washington D.C.,,FALSE,+1 202-589-1800,1044,"901 L Street Northwest, Washington, DC 20001, USA"
+4.5,,,Capitol Hill Hotel,Washington D.C.,,TRUE,+1 202-543-6000,2520,"200 C Street Southeast, Washington, DC 20003, USA"
+4.2,,,"Cambria Hotel Washington, D.C. Convention Center",Washington D.C.,,FALSE,+1 202-299-1188,1188,"899 O Street Northwest, Washington, District of Columbia 20001, United States"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,1920,1414 6th Avenue
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,864,11 Howard Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,348,"60 Furman Street, Brooklyn"
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,1776,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.2,,,Belltown Inn,Seattle,,TRUE,+1 866-525-4704,816,2301 3rd Avenue
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,1392,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,224,998 West Mission Bay Drive
+4,,,Delta Hotels By Marriott Toronto East,Toronto,,TRUE,+1 416-299-1500,1620,"2035 Kennedy Road, Scarborough, Ontario M1T 3G2, Canada"
+4.2,,,Doubletree By Hilton Toronto Airport,Toronto,,TRUE,+1 416-674-2222,1512,"925 Dixon Road, Etobicoke, Ontario M9W 1J8, Canada"
+4.4,,,Embassy Suites By Hilton Toronto Airport,Toronto,,TRUE,+1 416-674-8442,2592,262 Carlingview Drive
+3.9,,,Holiday Inn Express Toronto-North York,Toronto,,TRUE,+1 416-665-3500,1404,"30 Norfinch Drive, North York, Ontario M3N 1X1, Canada"
+4,,,Holiday Inn Toronto-Yorkdale,Toronto,,TRUE,+1 416-789-5161,2184,"3450 Dufferin Street, North York, Ontario M6A 2V1, Canada"
+3,,,Best Western Primrose Hotel Downtown-Toronto,Toronto,,TRUE,+1 800-780-7234,1332,111 Carlton Street
+4.6,,,Amastan Paris,Paris,,FALSE,+33 1 49 52 99 70,400,"34 Rue Jean Mermoz, 75008"
+3.7,,,Austin'S Saint Lazare HoTel,Paris,,FALSE,+33 1 48 74 48 71,666,"26 Rue d'Amsterdam, 75009"
+4.6,,,Amastan Paris,Paris,,FALSE,+33 1 49 52 99 70,1320,"34 Rue Jean Mermoz, 75008"
+4.6,,,Eaton Dc,Washington D.C.,,TRUE,+1 202-289-7600,368,"1201 K Street Northwest, Washington, District of Columbia 20005, United States"
+4.1,,,Hampton Inn & Suites Washington D.C./Navy Yard Area,Washington D.C.,,TRUE,+1 202-800-1000,2088,"1265 First Street Southeast, Washington, District of Columbia 20003, United States"
+4.3,,,Hilton Washington Dc National Mall,Washington D.C.,,TRUE,+1 202-484-1000,384,"480 L'Enfant Plaza Southwest, Washington, DC 20024, USA"
+4.3,,,Homewood Suites By Hilton Washington Dc Capitol-Navy Yard,Washington D.C.,,TRUE,+1 202-899-2800,840,"50 M Street Southeast, Washington, District of Columbia 20003, United States"
+4.3,,,Homewood Suites By Hilton Washington Dc Convention Center,Washington D.C.,,TRUE,+1 202-628-4663,1116,"465 New York Avenue Northwest, Washington, District of Columbia 20001, United States"
+4.5,,,Hotel Hive,Washington D.C.,,TRUE,+1 202-849-8499,1872,"2224 F Street Northwest, Washington, District of Columbia 20037, United States"
+3.9,,,Hotel Rl Washington Dc,Washington D.C.,,TRUE,+1 202-223-4320,1944,"1823 L Street Northwest, Washington, District of Columbia 20036, United States"
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,276,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,1740,6399 Wilshire Boulevard
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,1740,11 Howard Street
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,592,6399 Wilshire Boulevard
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,560,"Cira Centre South, 2929 Walnut Street"
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,2688,11 Howard Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,672,"60 Furman Street, Brooklyn"
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,1632,45 Park Lane
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,2220,100 Shoreditch High Street
+4.2,,,Citadines Barbican London (Apart Hotel London),London,,TRUE,+44 20 7566 8000,1248,7-21 Goswell Road
+4.1,,,Citadines Holborn-Covent Garden London (Apart Hotel London),London,,TRUE,+44 20 7395 8800,1260,94-99 High Holborn
+4.2,,,Citadines Trafalgar Square London (Apart Hotel London),London,,TRUE,+44 20 7766 3700,1488,18-21 Northumberland Avenue
+3.8,,,Days Inn London Hyde Park,London,,TRUE,+44 20 7723 2939,702,148-152 Sussex Gardens
+4.1,,,De Vere Devonport House,London,,TRUE,+44 871 222 4796,720,King William Walk
+4.6,,,Devonshire Club,London,,TRUE,+44 20 3750 4545,1848,5 Devonshire Square
+4.3,,,Dorset Square Hotel,London,,TRUE,+44 20 7723 7874,1008,39-40 Dorset Square
+4.4,,,Aloft New Delhi Aerocity,Delhi,,FALSE,+91 11 4565 0000,1536,"5B Igi T3 Road, Delhi - Ajmer Expressway, Aerocity, New Delhi"
+4.1,,,Bloomrooms @ New Delhi Railway Station,Delhi,,FALSE,+91 11 4122 5666,1740,"8591, Arakashan Road, Opp New Delhi Railway Station, New Delhi"
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,416,998 West Mission Bay Drive
+4.4,,,Catamaran Resort Hotel And Spa,San Diego,,TRUE,+1 858-488-1081,1536,3999 Mission Boulevard
+4.3,,,Doubletree By Hilton Hotel San Pedro - Port Of Los Angeles,Los Angeles,,TRUE,+1 310-514-3344,300,"2800 Via Cabrillo-Marina, San Pedro, California 90731, United States"
+3.7,,,Four Points By Sheraton Los Angeles International Airport,Los Angeles,,TRUE,+1 310-645-4600,1512,9750 Airport Boulevard
+4.3,,,Freehand Los Angeles,Los Angeles,,TRUE,+1 213-612-0021,312,416 West 8th Street
+4.1,,,Hotel Mdr Marina Del Rey - A Doubletree By Hilton,Los Angeles,,TRUE,+1 310-822-8555,2736,"13480 Maxella Avenue, Marina del Rey, California 90292, United States"
+4.3,,,Doubletree By Hilton Hotel San Pedro - Port Of Los Angeles,Los Angeles,,TRUE,+1 310-514-3344,1680,"2800 Via Cabrillo-Marina, San Pedro, California 90731, United States"
+4.2,,,28 Hotel Sydney,Sydney,,FALSE,+61 2 9102 2828,512,"28 Regent Street, Chippendale New South Wales 2008, Australia"
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,256,"6 Rue Gustave Charpentier, 75017"
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,630,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,528,121 Sussex Gardens
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,480,100 Shoreditch High Street
+4.3,,,Ac Hotel By Marriott Paris Porte Maillot,Paris,,TRUE,+33 1 84 82 49 09,1740,"6 Rue Gustave Charpentier, 75017"
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,1560,2222 Market Street
+4.3,,,Ace Hotel London,London,,TRUE,+44 20 7613 9800,2688,100 Shoreditch High Street
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,408,"60 Furman Street, Brooklyn"
+3.9,,,Ancasa Hotel & Spa Kuala Lumpur,Kuala Lumpur,,FALSE,+60 3-2026 6060,924,"Jalan Tun Tan Cheng Lock, City Centre, 50500 Kuala Lumpur, Wilayah Persekutuan"
+4,,,Best Western Premier Toronto Airport Carlingview Hotel,Toronto,,TRUE,+1 416-637-7000,368,"135 Carlingview Drive, Etobicoke, Ontario M9W 5E7, Canada"
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,480,28-30 Bute Gardens
+4,,,Aloft Atlanta Downtown,Atlanta,,TRUE,+1 678-515-0300,672,300 Ted Turner Drive Northwest
+4.5,,,1 Hotel Brooklyn Bridge,New York,,TRUE,+1 833-625-6111,1584,"60 Furman Street, Brooklyn"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,348,1414 6th Avenue
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,348,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.4,,,Bisha Hotel Toronto,Toronto,,TRUE,+1 416-551-2800,224,80 Blue Jays Way
+3.2,,,Abc Hyde Park Hotel,London,,FALSE,+44 20 7706 4660,972,121 Sussex Gardens
+4.1,,,Accommodation London Bridge,London,,FALSE,+44 20 7403 4299,1680,58 Great Dover Street
+4.5,,,Amba Hotel Charing Cross,London,,FALSE,+44 871 376 9012,1260,Strand
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,396,28-30 Bute Gardens
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,864,998 West Mission Bay Drive
+4.5,,,Capitol Hill Hotel,Washington D.C.,,TRUE,+1 202-543-6000,1488,"200 C Street Southeast, Washington, DC 20003, USA"
+4,,,57 Hotel,Sydney,,FALSE,+61 2 9011 5756,1000,"57 Foveaux Street, Surry Hills New South Wales 2010, Australia"
+4.6,,,Andaz Delhi - A Concept By Hyatt,Delhi,,TRUE,+91 11 4903 1234,544,"Asset, Street Number 1, New Delhi"
+4.1,,,Hampton Inn Las Vegas/Summerlin,Las Vegas,,FALSE,+1 702-360-5700,540,7100 Cascade Valley Court
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,720,495 Jefferson Street
+4.1,,,Courtyard By Marriott Sacramento Midtown,Sacramento,,FALSE,+1 916-455-6800,144,4422 Y Street
+4.7,,,Canopy By Hilton Portland Pearl District,Portland,,TRUE,+1 971-351-0230,288,425 Northwest 9th Avenue
+4,,,Anaheim Majestic Garden Hotel,Anaheim,,TRUE,+1 714-778-1700,2016,900 South Disneyland Drive
+4,,,Anaheim Majestic Garden Hotel,Anaheim,,TRUE,+1 714-778-1700,1024,900 South Disneyland Drive
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,1188,8669 West Sahara Avenue
+3.9,,,Anaheim Portofino Inn & Suites,Anaheim,,FALSE,+1 800-341-6301,198,1831 South Harbor Boulevard
+3.9,,,Piccadilly Inn Airport,Fresno,,FALSE,+1 559-375-7760,684,5115 East McKinley Avenue
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,1296,1100 H Street
+4.3,,,Doubletree By Hilton Hotel Fresno Convention Center,Fresno,,FALSE,+1 559-268-1000,184,2233 Ventura Street
+3.9,,,Best Western Of Long Beach,Long Beach,,FALSE,+1 562-599-5555,702,1725 Long Beach Boulevard
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,88,6399 Wilshire Boulevard
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,324,1600 South Harbor Boulevard
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,1560,6399 Wilshire Boulevard
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,280,998 West Mission Bay Drive
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,840,6399 Wilshire Boulevard
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,528,1100 H Street
+2.6,,,Bei Hotel San Francisco,San Francisco,,TRUE,+1 415-626-6103,192,50 8th Street
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,240,1100 H Street
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,312,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4,,,Anaheim Majestic Garden Hotel,Anaheim,,TRUE,+1 714-778-1700,1488,900 South Disneyland Drive
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,2736,8669 West Sahara Avenue
+4.3,,,Doubletree By Hilton Hotel Fresno Convention Center,Fresno,,FALSE,+1 559-268-1000,696,2233 Ventura Street
+3.7,,,La Quinta Inn By Wyndham Fresno Yosemite,Fresno,,TRUE,+1 559-442-1110,450,2926 Tulare Street
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,1160,998 West Mission Bay Drive
+3.9,,,Best Western Of Long Beach,Long Beach,,FALSE,+1 562-599-5555,864,1725 Long Beach Boulevard
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,672,998 West Mission Bay Drive
+4.1,,,Doubletree By Hilton Hotel Sacramento,Sacramento,,TRUE,+1 916-929-8855,828,2001 Point West Way
+4.5,,,Kimpton Sawyer Hotel,Sacramento,,TRUE,+1 916-545-7100,2268,500 J Street
+3.5,,,La Quinta Inn By Wyndham Sacramento Downtown,Sacramento,,TRUE,+1 916-448-8100,594,200 Jibboom Street
+4.4,,,Residence Inn By Marriott Sacramento Downtown At Capitol Park,Sacramento,,TRUE,+1 916-443-0500,1920,1121 15th Street
+4.3,,,Sheraton Grand Sacramento Hotel,Sacramento,,TRUE,+1 916-447-1700,276,"13th And, J Street"
+4.5,,,The Westin Sacramento,Sacramento,,TRUE,+1 916-443-8400,1740,4800 Riverside Boulevard
+3.8,,,Holiday Inn Express Sacramento Convention Center,Sacramento,,TRUE,+1 916-444-4436,651,728 16th Street
+4.5,,,Hyatt Centric The Pike Long Beach,Long Beach,,FALSE,+1 562-432-1234,176,285 Bay Street
+4.3,,,Long Beach Marriott,Long Beach,,FALSE,+1 800-228-9290,272,4700 Airport Plaza Drive
+4.5,,,Kimpton Sawyer Hotel,Sacramento,,TRUE,+1 916-545-7100,336,500 J Street
+3.5,,,La Quinta Inn By Wyndham Sacramento Downtown,Sacramento,,TRUE,+1 916-448-8100,696,200 Jibboom Street
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,116,1600 South Harbor Boulevard
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,1560,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,720,6399 Wilshire Boulevard
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,576,998 West Mission Bay Drive
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,1260,749 Taylor Street
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,1680,1100 Granville Street
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,2160,998 West Mission Bay Drive
+4.3,,,Doubletree By Hilton Hotel Fresno Convention Center,Fresno,,FALSE,+1 559-268-1000,768,2233 Ventura Street
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,672,1100 H Street
+4.1,,,Courtyard By Marriott Sacramento Midtown,Sacramento,,FALSE,+1 916-455-6800,912,4422 Y Street
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,2376,9920 Northeast Cascades Parkway
+4.7,,,Canopy By Hilton Portland Pearl District,Portland,,TRUE,+1 971-351-0230,444,425 Northwest 9th Avenue
+4.3,,,Courtyard By Marriott Portland City Center,Portland,,TRUE,+1 503-505-5000,2088,550 Southwest Oak Street
+4.4,,,Hyatt Place Portland Airport /Cascade Station,Portland,,TRUE,+1 503-288-2808,1500,9750 Northeast Cascades Parkway
+4.6,,,Kimpton Hotel Monaco Portland,Portland,,TRUE,+1 503-222-0001,2304,506 Southwest Washington Street
+4.5,,,Kimpton Riverplace Hotel,Portland,,TRUE,+1 888-869-3108,504,1510 Southwest Harbor Way
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,208,"Cira Centre South, 2929 Walnut Street"
+4.3,,,Bahia Resort Hotel,San Diego,,TRUE,+1 858-539-8666,160,998 West Mission Bay Drive
+4.3,,,Doubletree By Hilton Hotel Fresno Convention Center,Fresno,,FALSE,+1 559-268-1000,416,2233 Ventura Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,512,2423 1st Avenue
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,840,2575 Clairemont Drive
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,768,2575 Clairemont Drive
+3.7,,,La Quinta Inn By Wyndham Fresno Yosemite,Fresno,,TRUE,+1 559-442-1110,468,2926 Tulare Street
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,480,9920 Northeast Cascades Parkway
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,1056,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,264,1100 H Street
+3.9,,,Piccadilly Inn Airport,Fresno,,FALSE,+1 559-375-7760,1395,5115 East McKinley Avenue
+4.4,,,Aloft Philadelphia Downtown,Philadelphia,,TRUE,+1 215-607-2020,276,101 North Broad Street
+4.3,,,Best Western Plus Sutter House,Sacramento,,FALSE,+1 916-441-1314,1960,1100 H Street
+4.1,,,Banana Bungalow - Hollywood Hostel,Los Angeles,,FALSE,+1 323-469-2500,2688,"5920 Hollywood Boulevard, Hollywood, CA 90028, USA"
+4.3,,,Hyatt House Atlanta/Downtown,Atlanta,,TRUE,+1 404-332-5522,2184,431 Marietta Street NorthWest
+4.4,,,Hotel Blu Vancouver,Vancouver,,TRUE,+1 604-620-6200,1232,177 Robson Street
+3,,,Best Western Primrose Hotel Downtown-Toronto,Toronto,,TRUE,+1 800-780-7234,624,111 Carlton Street
+4.5,,,Ac Hotel By Marriott Atlanta Buckhead At Phipps Plaza,Atlanta,,FALSE,+1 470-231-3030,576,3600 Wieuca Road Northeast
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,1296,2222 Market Street
+4.3,,,Best Western Plus Las Vegas West,Las Vegas,,TRUE,+1 702-256-3766,540,8669 West Sahara Avenue
+4.4,,,Aloft Philadelphia Downtown,Philadelphia,,TRUE,+1 215-607-2020,3108,101 North Broad Street
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,384,11 Howard Street
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,1824,1414 6th Avenue
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,408,2575 Clairemont Drive
+3.9,,,Airtel Plaza Hotel,Los Angeles,,TRUE,+1 800-224-7835,630,"7277 Valjean Avenue, Van Nuys, California 91406, United States"
+4.1,,,Auberge Vancouver Hotel,Vancouver,,FALSE,+1 604-678-8899,1400,837 West Hastings Street
+4.5,,,Ace Hotel Seattle,Seattle,,TRUE,+1 206-448-4721,456,2423 1st Avenue
+4,,,6 Columbus Hotel,New York,,TRUE,+1 212-204-3000,1380,308 West 58th Street
+4.4,,,Beck'S Motor Lodge,San Francisco,,FALSE,+1 415-621-8212,1680,2222 Market Street
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,420,4301 Island Avenue
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,992,"Cira Centre South, 2929 Walnut Street"
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,1736,1414 6th Avenue
+3.8,,,Comfort Suites Phoenix North,Phoenix,,TRUE,+1 602-861-3900,936,10210 North 26th Drive
+4.2,,,Best Western Plus Pioneer Square Hotel Downtown,Seattle,,FALSE,+1 206-340-1234,1632,77 Yesler Way
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,756,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+3.7,,,Atrium Inn Vancouver,Vancouver,,TRUE,+1 604-254-1000,540,2889 East Hastings Street
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,1332,1100 Granville Street
+4.2,,,"Cambria Hotel Washington, D.C. Convention Center",Washington D.C.,,FALSE,+1 202-299-1188,1392,"899 O Street Northwest, Washington, District of Columbia 20001, United States"
+4,,,6 Columbus Hotel,New York,,TRUE,+1 212-204-3000,2592,308 West 58th Street
+4.4,,,Best Western Plus Portland Airport Hotel & Suites,Portland,,FALSE,+1 503-251-9991,208,11938 Northeast Airport Way
+4.3,,,Ac Hotel By Marriott Atlanta Downtown,Atlanta,,FALSE,+1 404-524-5555,1368,101 Andrew Young International Boulevard Northwest
+4.2,,,Best Western Plus Pioneer Square Hotel Downtown,Seattle,,FALSE,+1 206-340-1234,768,77 Yesler Way
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,2205,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+4.2,,,Haveli Dharampura,Delhi,,FALSE,+91 11 2326 1000,1500,"Haveli Dharampura, 2293, Gali Gulian, Chandni Chowk, New Delhi"
+3.7,,,Citadines Didot Montparnasse Paris (Apart Hotel Paris),Paris,,TRUE,+33 1 41 05 79 05,276,"94 Rue Didot, 75014"
+4.4,,,Best Western Plus Portland Airport Hotel & Suites,Portland,,FALSE,+1 503-251-9991,2448,11938 Northeast Airport Way
+4,,,Comfort Inn & Suites Portland Airport,Portland,,FALSE,+1 503-252-6397,2220,5019 Northeast 102nd Avenue
+4.1,,,"Country Inn & Suites By Radisson, Portland International Airport, Or",Portland,,FALSE,+1 503-255-2700,1440,7025 Northeast Alderwood Road
+4.3,,,Residence Inn By Marriott Long Beach,Long Beach,,TRUE,+1 562-595-0909,624,4111 East Willow Street
+4.3,,,The Westin Long Beach,Long Beach,,TRUE,+1 562-436-3000,280,333 East Ocean Boulevard
+4,,,Delta Hotels By Marriott Toronto East,Toronto,,TRUE,+1 416-299-1500,448,"2035 Kennedy Road, Scarborough, Ontario M1T 3G2, Canada"
+4.2,,,Doubletree By Hilton Toronto Airport,Toronto,,TRUE,+1 416-674-2222,432,"925 Dixon Road, Etobicoke, Ontario M9W 1J8, Canada"
+4.4,,,Embassy Suites By Hilton Toronto Airport,Toronto,,TRUE,+1 416-674-8442,320,262 Carlingview Drive
+4.6,,,Chicago Athletic Association,Chicago,,TRUE,+1 312-940-3552,1296,12 South Michigan Avenue
+3.7,,,Chicago Lake Shore Hotel,Chicago,,TRUE,+1 773-288-5800,675,"3250, 4900B South Lake Shore Drive"
+4.2,,,Comfort Suites Michigan Avenue - Loop,Chicago,,TRUE,+1 623-432-0770,384,320 North Michigan Avenue
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,207,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+3.9,,,Best Western Plus Toronto North York Hotel & Suites,Toronto,,FALSE,+1 416-663-9500,288,50 Norfinch Drive
+4.4,,,Aloft Philadelphia Downtown,Philadelphia,,TRUE,+1 215-607-2020,1656,101 North Broad Street
+4.4,,,Ac Hotel By Marriott Beverly Hills,Los Angeles,,FALSE,+1 323-852-7000,512,6399 Wilshire Boulevard
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,1920,1600 South Harbor Boulevard
+4.5,,,1 Hotel Central Park,New York,,TRUE,+1 212-703-2001,384,1414 6th Avenue
+4.7,,,45 Park Lane,London,,TRUE,+44 20 7493 4545,420,45 Park Lane
+4,,,Aloft Philadelphia Airport,Philadelphia,,TRUE,+1 267-298-1700,728,4301 Island Avenue
+3.8,,,Best Western Mission Bay,San Diego,,TRUE,+1 619-275-5700,1674,2575 Clairemont Drive
+4.1,,,Crowne Plaza Phoenix Airport,Phoenix,,TRUE,+1 602-273-7778,1872,4300 East Washington Street
+4.5,,,Aloft Chicago Downtown River North,Chicago,,TRUE,+1 312-661-1000,1764,515 North Clark Street
+3.5,,,Amsterdam Hostel San Francisco,San Francisco,,FALSE,+1 415-673-3277,432,749 Taylor Street
+3.8,,,Arc The.Hotel,Washington D.C.,,TRUE,+1 202-337-6620,1998,"824 New Hampshire Avenue Northwest, Washington, District of Columbia 20037, United States"
+4.1,,,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,Vancouver,,TRUE,+1 604-669-7070,2100,1100 Granville Street
+4.2,,,Belltown Inn,Seattle,,TRUE,+1 866-525-4704,960,2301 3rd Avenue
+4.3,,,Best Western Plus Bayside Inn,San Diego,,FALSE,+1 619-233-7500,1056,555 West Ash Street
+4.6,,,Aka University City,Philadelphia,,FALSE,+1 215-372-9000,960,"Cira Centre South, 2929 Walnut Street"
+4.4,,,Argonaut Hotel,San Francisco,,TRUE,+1 415-563-0800,184,495 Jefferson Street
+4.3,,,Aloft Portland Airport At Cascade Station,Portland,,TRUE,+1 503-200-5678,168,9920 Northeast Cascades Parkway
+4.6,,,Hyatt House Portland/Downtown,Portland,,TRUE,+1 503-241-2775,384,2080 Southwest River Drive
+4.3,,,Courtyard By Marriott Portland City Center,Portland,,TRUE,+1 503-505-5000,756,550 Southwest Oak Street
+4.4,,,Cambria Hotel North Scottsdale Desert Ridge,Phoenix,,FALSE,+1 480-585-6644,320,4425 E Irma Ln&nbsp
+4.1,,,Anaheim Desert Inn And Suites,Anaheim,,FALSE,+1 714-772-5050,1056,1600 South Harbor Boulevard
+3.5,,,Abercorn House,London,,FALSE,+44 20 8563 8692,1218,28-30 Bute Gardens
+4.2,,,Hampton Inn Chicago Downtown/Magnificent Mile,Chicago,,TRUE,+1 312-706-0888,1872,160 East Huron Street
+4.3,,,Ac Hotel By Marriott Chicago Downtown,Chicago,,TRUE,+1 312-981-6600,1008,630 North Rush Street
+4.3,,,11 Howard,New York,,FALSE,+1 212-235-1111,312,11 Howard Street
+4.2,,,Aloft Phoenix-Airport,Phoenix,,TRUE,+1 602-275-6300,864,4450 East Washington Street
+3.3,,,"Country Inn & Suites By Radisson, Atlanta Downtown South At Turner Field, Ga",Atlanta,,TRUE,+1 404-658-1961,1116,759 Pollard Boulevard Southwest

@@ -1,0 +1,1261 @@
+airlines,arrives_next_day,departure_date,destination_airport_name,destination_city,flight_class,number_checked_bags,number_stops,origin_airport_name,origin_city,outbound_arrival_time,outbound_departure_time,passengers,price,inbound_arrival_time,inbound_departure_time,return_date
+Air Canada,False,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,11:02,04:20,1,322,,,
+American Airlines,False,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,12:02,01:30,1,303,,,
+Delta Airlines,False,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:16,06:40,1,261,,,
+United Airlines,True,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,01:17,18:55,1,261,,,
+American Airlines,False,2019-03-07,SAN International Airport,San Diego,Economy,0,1,Benito Juarez International Airport,Mexico City,19:20,11:40,1,273,,,
+Delta Airlines,False,2019-03-07,SAN International Airport,San Diego,Economy,0,1,Benito Juarez International Airport,Mexico City,22:34,18:35,1,203,,,
+United Airlines,False,2019-03-07,SAN International Airport,San Diego,Economy,0,1,Benito Juarez International Airport,Mexico City,12:00,03:15,1,256,,,
+Alaska Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Seattle-Tacoma International Airport,Seattle,15:07,06:35,1,181,,,
+American Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Seattle-Tacoma International Airport,Seattle,19:07,10:35,1,184,,,
+Delta Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Seattle-Tacoma International Airport,Seattle,15:02,06:30,1,167,,,
+Southwest Airlines,True,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Seattle-Tacoma International Airport,Seattle,03:27,18:55,1,204,,,
+United Airlines,True,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Seattle-Tacoma International Airport,Seattle,02:29,15:05,1,302,,,
+Alaska Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,23:50,11:10,1,371,,,
+American Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,22:17,10:35,1,316,,,
+Delta Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,19:24,08:05,1,298,,,
+American Airlines,False,2019-03-12,McCarran International Airport,Las Vegas,Economy,0,0,Sky Harbor International Airport,Phoenix,11:24,10:10,1,80,,,
+Delta Airlines,False,2019-03-12,McCarran International Airport,Las Vegas,Economy,0,0,Sky Harbor International Airport,Phoenix,15:39,14:25,1,85,,,
+Southwest Airlines,False,2019-03-12,McCarran International Airport,Las Vegas,Economy,0,0,Sky Harbor International Airport,Phoenix,18:04,16:50,1,90,,,
+United Airlines,False,2019-03-12,McCarran International Airport,Las Vegas,Economy,0,0,Sky Harbor International Airport,Phoenix,22:49,21:35,1,84,,,
+Delta Airlines,False,2019-03-05,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Dulles International Airport,Washington,20:16,18:25,1,109,,,
+Alaska Airlines,True,2019-03-11,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,07:46,22:20,1,216,,,
+American Airlines,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,20:42,06:55,1,402,,,
+Delta Airlines,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,20:42,11:50,1,424,,,
+United Airlines,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,16:30,09:30,1,411,,,
+American Airlines,False,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,15:32,06:55,1,403,,,
+Delta Airlines,False,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,20:32,11:50,1,413,,,
+American Airlines,False,2019-03-08,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,11:31,09:40,1,119,,,
+Delta Airlines,False,2019-03-08,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,19:46,17:55,1,106,,,
+Southwest Airlines,False,2019-03-08,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,06:26,04:35,1,101,,,
+United Airlines,False,2019-03-08,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,08:41,06:50,1,106,,,
+American Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,Sky Harbor International Airport,Phoenix,15:28,09:30,1,260,,,
+Delta Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,Sky Harbor International Airport,Phoenix,12:03,07:45,1,242,,,
+Southwest Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,0,Sky Harbor International Airport,Phoenix,18:25,15:30,1,128,,,
+United Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,0,Sky Harbor International Airport,Phoenix,16:55,14:00,1,163,,,
+Delta Airlines,False,2019-03-07,Dulles International Airport,Washington,Economy,0,0,O'Hare International Airport,Chicago,17:28,14:30,1,109,,,
+American Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,Heathrow International Airport,London,06:54,02:25,1,235,,,
+British Airways,True,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,Heathrow International Airport,London,03:29,23:00,1,243,,,
+Delta Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,Heathrow International Airport,London,13:49,09:20,1,223,,,
+United Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,Heathrow International Airport,London,13:59,09:30,1,234,,,
+American Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,08:02,13:00,1,303,,,
+Delta Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,08:02,17:55,1,292,,,
+Southwest Airlines,False,2019-03-01,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,21:07,05:15,1,316,,,
+United Airlines,False,2019-03-01,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,21:07,05:05,1,323,,,
+Alaska Airlines,True,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,1,Seattle-Tacoma International Airport,Seattle,05:00,18:25,1,306,,,
+American Airlines,True,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,1,Seattle-Tacoma International Airport,Seattle,01:35,13:40,1,287,,,
+United Airlines,True,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,1,Seattle-Tacoma International Airport,Seattle,01:35,15:05,1,284,,,
+American Airlines,False,2019-03-13,O'Hare International Airport,Chicago,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,07:06,06:05,1,116,,,
+Delta Airlines,False,2019-03-13,O'Hare International Airport,Chicago,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,12:21,11:20,1,106,,,
+United Airlines,False,2019-03-13,O'Hare International Airport,Chicago,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,20:51,19:50,1,120,,,
+Alaska Airlines,True,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,0,SAN International Airport,San Diego,00:15,22:55,1,97,,,
+American Airlines,True,2019-03-04,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,14:22,14:40,1,402,,,
+Delta Airlines,True,2019-03-04,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,11:38,05:45,1,431,,,
+Southwest Airlines,True,2019-03-04,Charles de Gaulle International Airport,Paris,Economy,0,0,O'Hare International Airport,Chicago,07:31,14:35,1,219,,,
+United Airlines,True,2019-03-04,Charles de Gaulle International Airport,Paris,Economy,0,0,O'Hare International Airport,Chicago,09:46,16:50,1,235,,,
+American Airlines,False,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Sky Harbor International Airport,Phoenix,15:47,09:30,1,246,,,
+Southwest Airlines,False,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Sky Harbor International Airport,Phoenix,17:59,09:55,1,251,,,
+United Airlines,False,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Sky Harbor International Airport,Phoenix,15:47,09:40,1,235,,,
+Alaska Airlines,False,2019-03-13,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,18:17,16:10,1,131,,,
+American Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,09:51,04:10,1,300,,,
+Delta Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,18:26,12:35,1,301,,,
+Southwest Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,13:46,07:55,1,345,,,
+United Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,09:51,05:05,1,324,,,
+Air Canada,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,11:02,04:20,1,277,,,
+American Airlines,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,12:02,01:30,1,287,,,
+Delta Airlines,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:16,06:40,1,254,,,
+United Airlines,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,20:07,10:55,1,303,,,
+American Airlines,True,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,01:17,18:50,1,296,,,
+Delta Airlines,True,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,01:17,19:10,1,327,,,
+Southwest Airlines,False,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,12:06,06:25,1,312,,,
+United Airlines,True,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,00:33,19:40,1,295,,,
+American Airlines,False,2019-03-13,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,11:31,09:40,1,110,,,
+Delta Airlines,False,2019-03-13,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,19:46,17:55,1,111,,,
+Southwest Airlines,False,2019-03-13,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,06:26,04:35,1,103,,,
+United Airlines,False,2019-03-13,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,08:41,06:50,1,120,,,
+Air Canada,True,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Toronto Pearson International Airport,Toronto,01:17,17:35,1,283,,,
+American Airlines,False,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Toronto Pearson International Airport,Toronto,16:30,10:45,1,239,,,
+Delta Airlines,True,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Toronto Pearson International Airport,Toronto,01:17,18:45,1,337,,,
+United Airlines,True,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Toronto Pearson International Airport,Toronto,00:33,16:10,1,305,,,
+Alaska Airlines,True,2019-03-03,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,07:46,22:20,4,189,,,
+American Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,14:26,05:00,4,211,,,
+Delta Airlines,True,2019-03-03,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,04:01,18:35,4,205,,,
+Southwest Airlines,True,2019-03-03,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,09:11,23:45,4,197,,,
+United Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,15:56,06:30,4,192,,,
+Alaska Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,16:07,09:20,4,179,,,
+American Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,1,SFO International Airport,San Francisco,19:30,09:30,4,317,,,
+Delta Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,17:17,10:30,4,182,,,
+Southwest Airlines,True,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,03:57,21:10,4,172,,,
+United Airlines,True,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,05:47,23:00,4,151,,,
+American Airlines,True,2019-03-04,Charles de Gaulle International Airport,Paris,Economy,0,1,McCarran International Airport,Las Vegas,14:53,13:55,1,407,,,
+Delta Airlines,True,2019-03-04,Charles de Gaulle International Airport,Paris,Economy,0,1,McCarran International Airport,Las Vegas,14:53,14:25,1,404,,,
+United Airlines,True,2019-03-04,Charles de Gaulle International Airport,Paris,Economy,0,1,McCarran International Airport,Las Vegas,11:38,11:00,1,346,,,
+Alaska Airlines,True,2019-03-08,Charles de Gaulle International Airport,Paris,Economy,0,0,SFO International Airport,San Francisco,14:53,16:45,1,240,,,
+American Airlines,True,2019-03-08,Charles de Gaulle International Airport,Paris,Economy,0,1,SFO International Airport,San Francisco,11:23,11:30,1,365,,,
+Delta Airlines,True,2019-03-08,Charles de Gaulle International Airport,Paris,Economy,0,0,SFO International Airport,San Francisco,11:38,13:30,1,257,,,
+Southwest Airlines,True,2019-03-08,Charles de Gaulle International Airport,Paris,Economy,0,0,SFO International Airport,San Francisco,08:58,10:50,1,261,,,
+United Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,17:55,16:20,1,86,,,
+Delta Airlines,False,2019-03-06,McCarran International Airport,Las Vegas,Economy,0,1,Toronto Pearson International Airport,Toronto,23:20,18:45,1,254,,,
+United Airlines,True,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Toronto Pearson International Airport,Toronto,00:33,16:10,1,315,,,
+Southwest Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,21:49,18:35,1,242,,,
+American Airlines,True,2019-03-11,Jomo Kenyatta International Airport,Nairobi,Economy,0,1,PHL International Airport,Philadelphia,10:22,08:45,1,370,,,
+Southwest Airlines,True,2019-03-11,Jomo Kenyatta International Airport,Nairobi,Economy,0,1,PHL International Airport,Philadelphia,10:22,07:40,1,384,,,
+American Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,JFK International Airport,New York,23:20,18:50,1,251,,,
+Southwest Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,JFK International Airport,New York,12:00,06:25,1,292,,,
+United Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,JFK International Airport,New York,23:20,17:10,1,275,,,
+Alaska Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,1,Seattle-Tacoma International Airport,Seattle,15:29,11:10,2,207,,,
+American Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:29,14:35,2,202,,,
+Delta Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,1,Seattle-Tacoma International Airport,Seattle,17:25,13:25,2,236,,,
+United Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,1,Seattle-Tacoma International Airport,Seattle,15:29,10:45,2,192,,,
+American Airlines,False,2019-03-09,PDX International Airport,Portland,Economy,0,1,JFK International Airport,New York,15:28,09:15,1,308,,,
+Delta Airlines,True,2019-03-09,PDX International Airport,Portland,Economy,0,1,JFK International Airport,New York,00:58,18:40,1,316,,,
+United Airlines,False,2019-03-09,PDX International Airport,Portland,Economy,0,1,JFK International Airport,New York,17:58,11:15,1,327,,,
+American Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,1,PHL International Airport,Philadelphia,20:27,14:35,1,308,,,
+Southwest Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,1,PHL International Airport,Philadelphia,20:36,15:30,1,283,,,
+United Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,1,PHL International Airport,Philadelphia,11:37,06:40,1,312,,,
+Delta Airlines,True,2019-03-14,Kingsford Smith International Airport,Sydney,Economy,0,1,SAN International Airport,San Diego,23:31,22:00,1,307,,,
+American Airlines,False,2019-03-14,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Charles de Gaulle International Airport,Paris,15:32,05:05,1,444,,,
+Delta Airlines,False,2019-03-14,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Charles de Gaulle International Airport,Paris,22:16,11:20,1,398,,,
+United Airlines,False,2019-03-14,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Charles de Gaulle International Airport,Paris,11:41,01:30,1,446,,,
+American Airlines,False,2019-03-10,JFK International Airport,New York,Economy,0,1,Sky Harbor International Airport,Phoenix,16:02,05:00,1,301,,,
+United Airlines,True,2019-03-10,JFK International Airport,New York,Economy,0,1,Sky Harbor International Airport,Phoenix,06:20,18:10,1,305,,,
+American Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,Benito Juarez International Airport,Mexico City,16:16,11:40,1,431,,,
+Delta Airlines,True,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,01:17,18:35,1,308,,,
+United Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,15:32,10:20,1,315,,,
+Delta Airlines,True,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,1,Sky Harbor International Airport,Phoenix,01:35,18:25,1,258,,,
+Southwest Airlines,False,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,1,Sky Harbor International Airport,Phoenix,23:19,09:15,1,290,,,
+United Airlines,True,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,1,Sky Harbor International Airport,Phoenix,01:35,18:10,1,249,,,
+American Airlines,False,2019-03-12,YVR International Airport,Vancouver,Economy,0,1,Sky Harbor International Airport,Phoenix,15:47,11:00,1,237,,,
+Delta Airlines,True,2019-03-12,YVR International Airport,Vancouver,Economy,0,1,Sky Harbor International Airport,Phoenix,00:57,19:55,1,228,,,
+Southwest Airlines,False,2019-03-12,YVR International Airport,Vancouver,Economy,0,1,Sky Harbor International Airport,Phoenix,12:29,04:10,1,231,,,
+United Airlines,False,2019-03-12,YVR International Airport,Vancouver,Economy,0,1,Sky Harbor International Airport,Phoenix,15:47,08:55,1,258,,,
+Delta Airlines,True,2019-03-11,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Jomo Kenyatta International Airport,Nairobi,00:52,09:50,1,431,,,
+American Airlines,False,2019-03-08,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,115,,,
+Delta Airlines,False,2019-03-08,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,13:45,12:35,1,121,,,
+Southwest Airlines,False,2019-03-08,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,133,,,
+United Airlines,False,2019-03-08,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,16:15,15:05,1,127,,,
+American Airlines,False,2019-03-08,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,21:07,04:10,1,300,,,
+Delta Airlines,True,2019-03-08,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,08:02,17:55,1,279,,,
+Southwest Airlines,False,2019-03-08,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,21:07,05:15,1,297,,,
+United Airlines,False,2019-03-08,Heathrow International Airport,London,Economy,0,1,Dulles International Airport,Washington,21:07,05:05,1,295,,,
+Delta Airlines,False,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Kingsford Smith International Airport,Sydney,12:02,15:55,1,323,,,
+Alaska Airlines,True,2019-03-04,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,LAX International Airport,Los Angeles,02:54,18:55,1,169,,,
+American Airlines,False,2019-03-04,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,LAX International Airport,Los Angeles,14:09,06:10,1,156,,,
+Delta Airlines,True,2019-03-04,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,LAX International Airport,Los Angeles,02:51,14:55,1,335,,,
+Southwest Airlines,False,2019-03-04,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,LAX International Airport,Los Angeles,18:19,10:20,1,184,,,
+United Airlines,True,2019-03-04,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,LAX International Airport,Los Angeles,02:29,18:30,1,175,,,
+Alaska Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,1,LAX International Airport,Los Angeles,15:56,04:55,1,297,,,
+American Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,1,LAX International Airport,Los Angeles,03:11,14:55,1,307,,,
+Delta Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,0,LAX International Airport,Los Angeles,03:10,18:00,1,163,,,
+Southwest Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,LAX International Airport,Los Angeles,15:00,05:50,1,218,,,
+United Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,1,LAX International Airport,Los Angeles,19:05,08:25,1,289,,,
+Air Canada,False,2019-03-14,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,20:42,12:15,1,455,,,
+American Airlines,False,2019-03-14,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,12:02,01:30,1,405,,,
+Delta Airlines,False,2019-03-14,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,16:41,10:15,1,432,,,
+United Airlines,False,2019-03-14,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,20:07,10:55,1,481,,,
+American Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,18:52,16:20,1,187,,,
+Delta Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,17:02,14:30,1,194,,,
+Southwest Airlines,True,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,01:17,19:15,1,334,,,
+United Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,14:22,11:50,1,181,,,
+American Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,18:52,16:20,4,187,,,
+Delta Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,17:02,14:30,4,194,,,
+Southwest Airlines,True,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,01:17,19:15,4,334,,,
+United Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,14:22,11:50,4,181,,,
+Southwest Airlines,True,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,01:17,19:15,4,485,03:27,18:55,2019-03-08
+American Airlines,True,2019-03-03,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,PHL International Airport,Philadelphia,00:52,20:45,1,196,,,
+Delta Airlines,False,2019-03-03,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,PHL International Airport,Philadelphia,07:37,04:20,1,211,,,
+Southwest Airlines,False,2019-03-03,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,PHL International Airport,Philadelphia,19:07,15:30,1,208,,,
+United Airlines,False,2019-03-03,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,PHL International Airport,Philadelphia,22:56,16:45,1,264,,,
+Southwest Airlines,False,2019-03-03,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,PHL International Airport,Philadelphia,19:07,15:30,4,208,,,
+Southwest Airlines,False,2019-03-03,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,PHL International Airport,Philadelphia,19:07,15:30,4,385,11:16,06:40,2019-03-05
+American Airlines,True,2019-03-11,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,20:42,06:55,1,775,16:14,13:40,2019-03-13
+Alaska Airlines,False,2019-03-06,PDX International Airport,Portland,Economy,0,0,SAN International Airport,San Diego,15:59,13:15,1,135,,,
+American Airlines,False,2019-03-06,PDX International Airport,Portland,Economy,0,0,SAN International Airport,San Diego,19:34,16:50,1,122,,,
+Delta Airlines,False,2019-03-06,PDX International Airport,Portland,Economy,0,0,SAN International Airport,San Diego,11:54,09:10,1,125,,,
+Southwest Airlines,False,2019-03-06,PDX International Airport,Portland,Economy,0,1,SAN International Airport,San Diego,15:28,11:35,1,210,,,
+United Airlines,False,2019-03-06,PDX International Airport,Portland,Economy,0,0,SAN International Airport,San Diego,07:44,05:00,1,124,,,
+American Airlines,False,2019-03-06,PDX International Airport,Portland,Economy,0,1,SAN International Airport,San Diego,19:34,16:50,1,338,21:20,16:45,2019-03-09
+American Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Heathrow International Airport,London,06:22,02:00,1,247,,,
+British Airways,False,2019-03-02,JFK International Airport,New York,Economy,0,1,Heathrow International Airport,London,22:17,11:05,1,388,,,
+Delta Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,1,Heathrow International Airport,London,03:10,11:50,1,443,,,
+United Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,0,Heathrow International Airport,London,02:57,22:35,1,218,,,
+Delta Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,1,Heathrow International Airport,London,03:10,11:50,1,628,05:52,17:30,2019-03-04
+United Airlines,False,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,14:22,11:50,1,190,,,
+United Airlines,False,2019-03-07,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,14:22,11:50,1,462,22:41,10:35,2019-03-09
+American Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,LAX International Airport,Los Angeles,06:15,05:05,1,80,,,
+Delta Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,LAX International Airport,Los Angeles,23:20,22:10,1,82,,,
+Southwest Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,LAX International Airport,Los Angeles,07:15,06:05,1,78,,,
+United Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,LAX International Airport,Los Angeles,18:15,17:05,1,83,,,
+American Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,LAX International Airport,Los Angeles,06:15,05:05,1,154,06:00,04:50,2019-03-11
+American Airlines,False,2019-03-04,O'Hare International Airport,Chicago,Economy,0,0,Heathrow International Airport,London,06:54,02:25,1,261,,,
+American Airlines,True,2019-03-04,O'Hare International Airport,Chicago,Economy,0,1,Heathrow International Airport,London,06:54,02:25,1,617,08:02,14:40,2019-03-06
+American Airlines,True,2019-03-05,O'Hare International Airport,Chicago,Economy,0,1,Jomo Kenyatta International Airport,Nairobi,00:29,07:40,1,431,,,
+Delta Airlines,True,2019-03-05,O'Hare International Airport,Chicago,Economy,0,1,Jomo Kenyatta International Airport,Nairobi,00:29,09:50,1,413,,,
+American Airlines,True,2019-03-05,O'Hare International Airport,Chicago,Economy,0,1,Jomo Kenyatta International Airport,Nairobi,00:29,07:40,1,786,13:12,09:40,2019-03-07
+American Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,13:30,02:25,1,410,,,
+Delta Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,20:42,11:50,1,411,,,
+United Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Heathrow International Airport,London,16:30,09:30,1,383,,,
+Alaska Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,11:02,08:15,1,153,,,
+American Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,20:42,17:55,1,149,,,
+Delta Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,20:32,17:45,1,128,,,
+Alaska Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,16:32,13:45,2,249,13:57,11:10,2019-03-12
+American Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,0,JFK International Airport,New York,12:41,09:15,1,217,,,
+Delta Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,0,JFK International Airport,New York,22:06,18:40,1,174,,,
+Southwest Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,1,JFK International Airport,New York,21:31,15:45,1,342,,,
+United Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,1,JFK International Airport,New York,22:35,17:10,1,254,,,
+United Airlines,False,2019-03-01,SFO International Airport,San Francisco,Premium Economy,0,0,JFK International Airport,New York,14:41,11:15,1,293,,,
+United Airlines,True,2019-03-01,SFO International Airport,San Francisco,Premium Economy,0,0,JFK International Airport,New York,14:41,11:15,1,595,05:31,20:05,2019-03-03
+Air Canada,False,2019-03-09,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,14:26,01:40,1,338,,,
+American Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,22:17,05:15,1,295,,,
+Delta Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,21:51,06:40,1,335,,,
+United Airlines,True,2019-03-09,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,08:20,18:55,1,373,,,
+Delta Airlines,True,2019-03-09,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,04:01,10:15,1,624,00:57,18:40,2019-03-11
+Alaska Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,13:07,11:00,1,132,,,
+American Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,22:27,20:20,1,121,,,
+Delta Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,1,SFO International Airport,San Francisco,15:58,11:45,1,195,,,
+Southwest Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,16:07,14:00,1,126,,,
+United Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,18:17,16:10,1,128,,,
+Delta Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,1,SFO International Airport,San Francisco,15:58,11:45,1,300,22:02,19:55,2019-03-13
+American Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,Indira Gandhi International Airport,Delhi,08:04,07:00,1,228,,,
+United Airlines,True,2019-03-08,LAX International Airport,Los Angeles,Economy,0,1,Indira Gandhi International Airport,Delhi,01:50,21:15,1,482,,,
+United Airlines,True,2019-03-08,LAX International Airport,Los Angeles,Economy,0,1,Indira Gandhi International Airport,Delhi,01:50,21:15,2,835,09:22,05:00,2019-03-12
+American Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,19:38,18:40,1,120,,,
+Delta Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,05:18,04:20,1,112,,,
+Southwest Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,19:08,18:10,1,102,,,
+United Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,21:08,20:10,1,100,,,
+Delta Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,1,Dulles International Airport,Washington,05:18,04:20,1,299,14:40,09:35,2019-03-04
+American Airlines,False,2019-03-11,JFK International Airport,New York,Premium Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,08:37,06:15,1,222,,,
+Delta Airlines,False,2019-03-11,JFK International Airport,New York,Premium Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,22:17,19:55,1,197,,,
+Southwest Airlines,False,2019-03-11,JFK International Airport,New York,Premium Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,16:02,13:40,1,215,,,
+United Airlines,False,2019-03-11,JFK International Airport,New York,Premium Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,06:42,04:20,1,205,,,
+Delta Airlines,False,2019-03-11,JFK International Airport,New York,Premium Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,22:17,19:55,1,372,15:47,13:25,2019-03-13
+Southwest Airlines,False,2019-03-10,SAN International Airport,San Diego,Premium Economy,0,1,JFK International Airport,New York,12:00,06:25,1,502,,,
+Southwest Airlines,True,2019-03-10,SAN International Airport,San Diego,Premium Economy,0,1,JFK International Airport,New York,12:00,06:25,2,836,06:20,19:10,2019-03-13
+American Airlines,True,2019-03-01,Kingsford Smith International Airport,Sydney,Economy,0,1,Sky Harbor International Airport,Phoenix,12:11,09:30,1,345,,,
+Delta Airlines,True,2019-03-01,Kingsford Smith International Airport,Sydney,Economy,0,1,Sky Harbor International Airport,Phoenix,23:31,19:55,1,337,,,
+Southwest Airlines,True,2019-03-01,Kingsford Smith International Airport,Sydney,Economy,0,1,Sky Harbor International Airport,Phoenix,08:17,04:10,1,305,,,
+United Airlines,True,2019-03-01,Kingsford Smith International Airport,Sydney,Economy,0,1,Sky Harbor International Airport,Phoenix,12:11,09:40,1,347,,,
+Delta Airlines,True,2019-03-01,Kingsford Smith International Airport,Sydney,Economy,0,1,Sky Harbor International Airport,Phoenix,23:31,19:55,1,615,08:58,15:55,2019-03-03
+American Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,10:42,09:30,1,146,,,
+Delta Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,10:47,09:35,1,179,,,
+Southwest Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,23:48,18:35,1,265,,,
+United Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,11:27,10:15,1,129,,,
+Southwest Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,23:48,18:35,1,396,16:27,09:15,2019-03-09
+Delta Airlines,False,2019-03-12,O'Hare International Airport,Chicago,Economy,0,1,Kingsford Smith International Airport,Sydney,16:37,15:55,1,405,,,
+Delta Airlines,True,2019-03-12,O'Hare International Airport,Chicago,Economy,0,1,Kingsford Smith International Airport,Sydney,16:37,15:55,3,740,11:37,07:05,2019-03-14
+Delta Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,19:46,17:55,3,107,,,
+Delta Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,19:46,17:55,3,228,20:16,18:25,2019-03-04
+American Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Sky Harbor International Airport,Phoenix,15:53,10:45,4,224,,,
+Southwest Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Sky Harbor International Airport,Phoenix,18:16,13:35,4,257,,,
+United Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Sky Harbor International Airport,Phoenix,22:11,17:05,4,241,,,
+United Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Sky Harbor International Airport,Phoenix,22:11,17:05,4,457,15:58,10:45,2019-03-04
+Southwest Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,1,Sky Harbor International Airport,Phoenix,15:00,04:10,1,311,,,
+United Airlines,True,2019-03-06,JFK International Airport,New York,Economy,0,1,Sky Harbor International Airport,Phoenix,06:20,18:10,1,305,,,
+Southwest Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,1,Sky Harbor International Airport,Phoenix,15:00,04:10,1,609,13:07,06:25,2019-03-08
+Alaska Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,10:57,11:30,1,198,,,
+American Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,11:37,12:10,1,233,,,
+Delta Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,1,LAX International Airport,Los Angeles,11:16,04:35,1,312,,,
+Southwest Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,1,LAX International Airport,Los Angeles,11:16,07:10,1,310,,,
+United Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,08:17,08:50,1,185,,,
+Alaska Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,10:57,11:30,4,198,,,
+American Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,11:37,12:10,4,233,,,
+Delta Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,1,LAX International Airport,Los Angeles,11:16,04:35,4,312,,,
+Southwest Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,1,LAX International Airport,Los Angeles,11:16,07:10,4,310,,,
+United Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,08:17,08:50,4,185,,,
+Delta Airlines,True,2019-03-11,Kingsford Smith International Airport,Sydney,Economy,0,1,LAX International Airport,Los Angeles,11:16,04:35,4,477,-8:17,02:50,2019-03-13
+United Airlines,True,2019-03-04,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,05:47,23:00,1,157,,,
+United Airlines,True,2019-03-04,O'Hare International Airport,Chicago,Economy,0,1,SFO International Airport,San Francisco,05:47,23:00,1,426,13:46,07:45,2019-03-06
+American Airlines,True,2019-03-06,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,16:14,18:00,1,373,,,
+American Airlines,True,2019-03-06,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,16:14,18:00,1,742,12:41,02:00,2019-03-08
+American Airlines,False,2019-03-12,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,1,64,,,
+Delta Airlines,False,2019-03-12,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,64,,,
+Southwest Airlines,False,2019-03-12,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:11,20:20,1,59,,,
+United Airlines,False,2019-03-12,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:26,20:35,1,61,,,
+American Airlines,False,2019-03-12,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,1,123,21:36,20:45,2019-03-14
+American Airlines,False,2019-03-11,Toronto Pearson International Airport,Toronto,Economy,0,0,O'Hare International Airport,Chicago,18:28,15:50,1,93,,,
+Delta Airlines,True,2019-03-11,Toronto Pearson International Airport,Toronto,Economy,0,0,O'Hare International Airport,Chicago,00:48,22:10,1,103,,,
+Southwest Airlines,False,2019-03-11,Toronto Pearson International Airport,Toronto,Economy,0,0,O'Hare International Airport,Chicago,10:33,07:55,1,103,,,
+American Airlines,False,2019-03-11,Toronto Pearson International Airport,Toronto,Economy,0,0,O'Hare International Airport,Chicago,18:28,15:50,1,185,11:23,10:45,2019-03-13
+Delta Airlines,True,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,01:17,19:10,4,301,,,
+Delta Airlines,True,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,01:17,19:10,4,564,17:59,08:05,2019-03-05
+Alaska Airlines,True,2019-03-08,SFO International Airport,San Francisco,Economy,0,0,Seattle-Tacoma International Airport,Seattle,01:46,23:35,1,135,,,
+American Airlines,False,2019-03-08,SFO International Airport,San Francisco,Economy,0,0,Seattle-Tacoma International Airport,Seattle,22:01,19:50,1,121,,,
+Delta Airlines,False,2019-03-08,SFO International Airport,San Francisco,Economy,0,0,Seattle-Tacoma International Airport,Seattle,22:36,20:25,1,121,,,
+Southwest Airlines,False,2019-03-08,SFO International Airport,San Francisco,Economy,0,0,Seattle-Tacoma International Airport,Seattle,22:51,20:40,1,121,,,
+United Airlines,False,2019-03-08,SFO International Airport,San Francisco,Economy,0,0,Seattle-Tacoma International Airport,Seattle,09:06,06:55,1,128,,,
+Delta Airlines,False,2019-03-08,SFO International Airport,San Francisco,Economy,0,0,Seattle-Tacoma International Airport,Seattle,22:36,20:25,1,241,16:41,14:30,2019-03-10
+United Airlines,True,2019-03-05,JFK International Airport,New York,Economy,0,1,Sky Harbor International Airport,Phoenix,06:20,18:10,1,331,,,
+United Airlines,True,2019-03-05,JFK International Airport,New York,Economy,0,1,Sky Harbor International Airport,Phoenix,06:20,18:10,1,560,10:42,05:15,2019-03-07
+American Airlines,False,2019-03-10,LAX International Airport,Los Angeles,Economy,0,1,Indira Gandhi International Airport,Delhi,10:30,07:40,1,393,,,
+American Airlines,True,2019-03-10,LAX International Airport,Los Angeles,Economy,0,1,Indira Gandhi International Airport,Delhi,10:30,07:40,1,797,20:54,11:35,2019-03-14
+American Airlines,False,2019-03-06,O'Hare International Airport,Chicago,Economy,0,0,JFK International Airport,New York,10:09,08:50,1,129,,,
+American Airlines,False,2019-03-06,O'Hare International Airport,Chicago,Economy,0,0,JFK International Airport,New York,10:09,08:50,1,232,12:59,09:40,2019-03-08
+Alaska Airlines,False,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,0,SFO International Airport,San Francisco,16:48,11:05,1,154,,,
+American Airlines,True,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,0,SFO International Airport,San Francisco,03:53,22:10,1,175,,,
+Delta Airlines,False,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,0,SFO International Airport,San Francisco,22:38,16:55,1,167,,,
+Southwest Airlines,False,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,1,SFO International Airport,San Francisco,11:15,04:00,1,259,,,
+American Airlines,True,2019-03-11,Benito Juarez International Airport,Mexico City,Economy,0,0,SFO International Airport,San Francisco,03:53,22:10,3,317,13:23,11:40,2019-03-13
+Alaska Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,12:06,09:55,1,138,,,
+American Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,11:41,09:30,1,125,,,
+Delta Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,16:41,14:30,1,133,,,
+Southwest Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,18:16,16:05,1,111,,,
+United Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,07:31,05:20,1,118,,,
+Alaska Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,12:06,09:55,2,138,,,
+American Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,11:41,09:30,2,125,,,
+Delta Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,16:41,14:30,2,133,,,
+Southwest Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,18:16,16:05,2,111,,,
+Delta Airlines,False,2019-03-06,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,16:41,14:30,2,239,22:36,20:25,2019-03-08
+Delta Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,0,O'Hare International Airport,Chicago,17:28,14:30,1,109,,,
+Delta Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,1,O'Hare International Airport,Chicago,20:50,16:05,3,309,05:18,04:20,2019-03-03
+American Airlines,False,2019-03-08,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,O'Hare International Airport,Chicago,14:32,08:25,1,442,,,
+Delta Airlines,False,2019-03-08,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,O'Hare International Airport,Chicago,18:17,12:00,1,478,,,
+United Airlines,False,2019-03-08,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,O'Hare International Airport,Chicago,13:13,07:45,1,446,,,
+American Airlines,False,2019-03-08,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,O'Hare International Airport,Chicago,14:32,08:25,1,899,19:22,09:30,2019-03-10
+American Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,1,O'Hare International Airport,Chicago,14:40,09:40,1,194,,,
+Delta Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,O'Hare International Airport,Chicago,17:28,14:30,1,106,,,
+Southwest Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,O'Hare International Airport,Chicago,15:58,13:00,1,129,,,
+United Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,O'Hare International Airport,Chicago,15:38,12:40,1,127,,,
+American Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,1,O'Hare International Airport,Chicago,14:40,09:40,1,293,19:38,18:40,2019-03-04
+Alaska Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,1,Seattle-Tacoma International Airport,Seattle,20:57,11:10,4,322,,,
+American Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,17:05,10:35,4,183,,,
+Delta Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,14:35,08:05,4,156,,,
+Southwest Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,19:30,13:00,4,169,,,
+United Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,23:05,16:35,4,172,,,
+Alaska Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,1,Seattle-Tacoma International Airport,Seattle,20:57,11:10,2,322,,,
+American Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,17:05,10:35,2,183,,,
+Delta Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,14:35,08:05,2,156,,,
+Southwest Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,19:30,13:00,2,169,,,
+United Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,0,Seattle-Tacoma International Airport,Seattle,23:05,16:35,2,172,,,
+Delta Airlines,False,2019-03-10,O'Hare International Airport,Chicago,Economy,0,1,Seattle-Tacoma International Airport,Seattle,14:35,08:05,2,436,12:16,05:45,2019-03-12
+American Airlines,True,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,00:21,17:10,1,325,,,
+Delta Airlines,True,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,01:17,19:10,1,301,,,
+Southwest Airlines,False,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,12:06,06:25,1,298,,,
+United Airlines,True,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,00:33,19:40,1,301,,,
+Southwest Airlines,True,2019-03-03,Seattle-Tacoma International Airport,Seattle,Economy,0,1,JFK International Airport,New York,12:06,06:25,1,592,03:11,15:05,2019-03-05
+American Airlines,False,2019-03-08,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,15:41,07:15,1,174,,,
+American Airlines,False,2019-03-08,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,SFO International Airport,San Francisco,15:41,07:15,1,459,18:26,11:00,2019-03-10
+Alaska Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,23:26,15:00,1,174,,,
+American Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,15:41,07:15,1,208,,,
+Delta Airlines,True,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,SFO International Airport,San Francisco,02:54,16:05,1,273,,,
+Southwest Airlines,True,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,SFO International Airport,San Francisco,03:27,16:05,1,292,,,
+United Airlines,True,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,06:11,21:45,1,180,,,
+Alaska Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,23:26,15:00,3,174,,,
+American Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,15:41,07:15,3,208,,,
+Delta Airlines,True,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,SFO International Airport,San Francisco,02:54,16:05,3,273,,,
+Southwest Airlines,True,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,SFO International Airport,San Francisco,03:27,16:05,3,292,,,
+Delta Airlines,True,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,SFO International Airport,San Francisco,02:54,16:05,2,273,,,
+Delta Airlines,True,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,SFO International Airport,San Francisco,02:54,16:05,2,561,02:56,19:55,2019-03-14
+Delta Airlines,False,2019-03-07,PHL International Airport,Philadelphia,Economy,0,1,YVR International Airport,Vancouver,17:06,02:30,2,314,,,
+United Airlines,False,2019-03-07,PHL International Airport,Philadelphia,Premium Economy,0,1,YVR International Airport,Vancouver,18:16,08:00,2,482,,,
+Delta Airlines,False,2019-03-07,PHL International Airport,Philadelphia,Premium Economy,0,1,YVR International Airport,Vancouver,17:06,02:30,2,876,23:06,16:05,2019-03-09
+Air Canada,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,12:37,04:30,1,217,,,
+American Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,06:42,02:20,1,223,,,
+Delta Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,19:41,13:20,1,224,,,
+United Airlines,True,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,02:06,21:40,1,203,,,
+American Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,06:42,02:20,1,421,14:55,09:40,2019-03-08
+American Airlines,False,2019-03-01,SFO International Airport,San Francisco,Economy,0,1,PHL International Airport,Philadelphia,22:07,17:50,1,573,17:06,05:00,2019-03-03
+Alaska Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,Seattle-Tacoma International Airport,Seattle,12:00,07:30,1,215,,,
+American Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:15,13:40,1,253,,,
+Southwest Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,Seattle-Tacoma International Airport,Seattle,19:45,15:05,1,199,,,
+United Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,Seattle-Tacoma International Airport,Seattle,12:00,06:55,1,233,,,
+American Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:15,13:40,1,454,18:16,13:55,2019-03-09
+Alaska Airlines,False,2019-03-07,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,14:15,11:45,1,145,,,
+American Airlines,False,2019-03-07,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,09:00,06:30,1,148,,,
+Delta Airlines,False,2019-03-07,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,08:30,06:00,1,117,,,
+Southwest Airlines,False,2019-03-07,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,16:48,12:45,1,194,,,
+United Airlines,False,2019-03-07,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,15:28,11:40,1,222,,,
+Alaska Airlines,False,2019-03-11,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,12:00,10:25,1,93,,,
+American Airlines,False,2019-03-11,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,07:00,05:25,1,106,,,
+Delta Airlines,False,2019-03-11,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,22:50,21:15,1,105,,,
+Southwest Airlines,False,2019-03-11,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,13:55,12:20,1,104,,,
+Alaska Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,14:15,11:45,1,125,,,
+American Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,09:00,06:30,1,149,,,
+Delta Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,23:03,17:45,1,209,,,
+Southwest Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,16:48,12:45,1,220,,,
+United Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,17:50,15:20,1,137,,,
+Alaska Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,23:48,22:20,1,90,,,
+American Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,1,LAX International Airport,Los Angeles,07:49,05:05,1,184,,,
+Delta Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,13:13,11:45,1,106,,,
+Southwest Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,1,LAX International Airport,Los Angeles,17:05,14:35,1,168,,,
+United Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,22:58,21:30,1,104,,,
+Alaska Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,18:17,16:10,1,122,,,
+American Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,14:32,12:25,1,101,,,
+Delta Airlines,True,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,1,SFO International Airport,San Francisco,00:00,19:10,1,235,,,
+Southwest Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,16:07,14:00,1,125,,,
+United Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,06:22,04:15,1,132,,,
+American Airlines,False,2019-03-12,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,22:01,20:50,2,114,,,
+Delta Airlines,False,2019-03-12,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,17:16,16:05,2,112,,,
+Southwest Airlines,False,2019-03-12,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,12:31,11:20,2,130,,,
+United Airlines,False,2019-03-12,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,15:16,14:05,2,125,,,
+American Airlines,False,2019-03-04,McCarran International Airport,Las Vegas,Economy,0,1,JFK International Airport,New York,23:20,18:50,1,287,,,
+Delta Airlines,False,2019-03-04,McCarran International Airport,Las Vegas,Economy,0,1,JFK International Airport,New York,21:00,15:00,1,328,,,
+Southwest Airlines,False,2019-03-04,McCarran International Airport,Las Vegas,Economy,0,1,JFK International Airport,New York,12:00,06:25,1,314,,,
+United Airlines,False,2019-03-04,McCarran International Airport,Las Vegas,Economy,0,1,JFK International Airport,New York,23:20,17:10,1,289,,,
+Alaska Airlines,True,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,03:29,11:10,3,333,,,
+American Airlines,True,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,03:29,13:40,3,328,,,
+Delta Airlines,False,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:33,08:05,3,267,,,
+Southwest Airlines,False,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:33,04:55,3,269,,,
+United Airlines,True,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,03:29,10:45,3,336,,,
+Alaska Airlines,False,2019-03-08,O'Hare International Airport,Chicago,Economy,0,1,SAN International Airport,San Diego,18:07,09:55,1,237,,,
+Southwest Airlines,False,2019-03-08,O'Hare International Airport,Chicago,Economy,0,1,SAN International Airport,San Diego,20:52,11:35,1,303,,,
+United Airlines,True,2019-03-08,O'Hare International Airport,Chicago,Economy,0,1,SAN International Airport,San Diego,00:12,14:55,1,239,,,
+Alaska Airlines,False,2019-03-08,O'Hare International Airport,Chicago,Economy,0,1,SAN International Airport,San Diego,18:07,09:55,2,237,,,
+Southwest Airlines,False,2019-03-08,O'Hare International Airport,Chicago,Economy,0,1,SAN International Airport,San Diego,20:52,11:35,2,303,,,
+United Airlines,True,2019-03-08,O'Hare International Airport,Chicago,Economy,0,1,SAN International Airport,San Diego,00:12,14:55,2,239,,,
+American Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Premium Economy,0,0,JFK International Airport,New York,15:42,13:20,1,191,,,
+Delta Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Premium Economy,0,0,JFK International Airport,New York,15:47,13:25,1,199,,,
+Southwest Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Premium Economy,0,0,JFK International Airport,New York,18:07,15:45,1,225,,,
+United Airlines,False,2019-03-12,Hartsfield-Jackson International Airport,Atlanta,Premium Economy,0,0,JFK International Airport,New York,19:07,16:45,1,218,,,
+Alaska Airlines,False,2019-03-10,LAX International Airport,Los Angeles,Premium Economy,0,0,SAN International Airport,San Diego,10:49,09:55,1,106,,,
+Alaska Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,Seattle-Tacoma International Airport,Seattle,14:53,11:35,1,418,,,
+Delta Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,Seattle-Tacoma International Airport,Seattle,14:53,13:25,1,423,,,
+Southwest Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,Seattle-Tacoma International Airport,Seattle,07:31,04:55,1,425,,,
+United Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,Seattle-Tacoma International Airport,Seattle,11:23,05:35,1,448,,,
+American Airlines,True,2019-03-08,Indira Gandhi International Airport,Delhi,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,14:19,06:30,2,463,,,
+Delta Airlines,True,2019-03-08,Indira Gandhi International Airport,Delhi,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,08:10,07:50,2,380,,,
+Southwest Airlines,True,2019-03-08,Indira Gandhi International Airport,Delhi,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,08:10,06:40,2,376,,,
+United Airlines,True,2019-03-08,Indira Gandhi International Airport,Delhi,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,08:10,04:20,2,371,,,
+American Airlines,True,2019-03-10,Heathrow International Airport,London,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,08:34,18:30,4,264,,,
+Delta Airlines,False,2019-03-10,Heathrow International Airport,London,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,21:14,07:10,4,242,,,
+Southwest Airlines,True,2019-03-10,Heathrow International Airport,London,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,08:02,13:40,4,390,,,
+United Airlines,False,2019-03-10,Heathrow International Airport,London,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,21:07,06:05,4,365,,,
+American Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,16:16,11:40,1,298,,,
+Delta Airlines,True,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,01:17,18:35,1,315,,,
+United Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,15:32,10:20,1,294,,,
+Alaska Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,10:57,11:30,1,159,,,
+American Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,11:37,12:10,1,186,,,
+Delta Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,LAX International Airport,Los Angeles,11:16,04:35,1,290,,,
+Southwest Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,LAX International Airport,Los Angeles,11:16,07:10,1,296,,,
+United Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,0,LAX International Airport,Los Angeles,08:17,08:50,1,203,,,
+Delta Airlines,True,2019-03-14,JFK International Airport,New York,Economy,0,1,PDX International Airport,Portland,08:20,19:30,2,339,,,
+American Airlines,False,2019-03-07,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,08:25,06:50,1,104,,,
+Delta Airlines,False,2019-03-07,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,16:00,14:25,1,98,,,
+Southwest Airlines,False,2019-03-07,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,14:55,13:20,1,102,,,
+United Airlines,False,2019-03-07,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,17:55,16:20,1,125,,,
+Air Canada,False,2019-03-07,LAX International Airport,Los Angeles,Economy,0,0,YVR International Airport,Vancouver,07:24,04:20,1,151,,,
+Air Canada,False,2019-03-04,PHL International Airport,Philadelphia,Economy,0,1,Toronto Pearson International Airport,Toronto,08:46,04:30,1,139,,,
+American Airlines,False,2019-03-04,PHL International Airport,Philadelphia,Economy,0,1,Toronto Pearson International Airport,Toronto,08:46,02:20,1,179,,,
+American Airlines,True,2019-03-08,Kingsford Smith International Airport,Sydney,Economy,0,1,O'Hare International Airport,Chicago,23:31,19:20,1,368,,,
+Delta Airlines,True,2019-03-08,Kingsford Smith International Airport,Sydney,Premium Economy,0,1,O'Hare International Airport,Chicago,11:37,07:05,1,613,,,
+Southwest Airlines,True,2019-03-08,Kingsford Smith International Airport,Sydney,Economy,0,1,O'Hare International Airport,Chicago,16:02,10:05,1,415,,,
+Air Canada,False,2019-03-13,McCarran International Airport,Las Vegas,Economy,0,1,Toronto Pearson International Airport,Toronto,21:15,17:35,1,260,,,
+Delta Airlines,False,2019-03-13,McCarran International Airport,Las Vegas,Economy,0,1,Toronto Pearson International Airport,Toronto,23:20,18:45,1,283,,,
+Alaska Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,12:06,09:55,1,130,,,
+American Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,11:41,09:30,1,126,,,
+Delta Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,16:41,14:30,1,122,,,
+Southwest Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,18:16,16:05,1,122,,,
+United Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,0,SFO International Airport,San Francisco,07:31,05:20,1,125,,,
+American Airlines,False,2019-03-12,LAX International Airport,Los Angeles,Economy,0,0,Indira Gandhi International Airport,Delhi,08:04,07:00,1,266,,,
+United Airlines,False,2019-03-12,LAX International Airport,Los Angeles,Economy,0,0,Indira Gandhi International Airport,Delhi,16:59,15:55,1,285,,,
+American Airlines,False,2019-03-14,PHL International Airport,Philadelphia,Economy,0,1,O'Hare International Airport,Chicago,19:26,14:40,1,204,,,
+Delta Airlines,False,2019-03-14,PHL International Airport,Philadelphia,Economy,0,0,O'Hare International Airport,Chicago,08:31,05:20,1,123,,,
+Southwest Airlines,False,2019-03-14,PHL International Airport,Philadelphia,Economy,0,0,O'Hare International Airport,Chicago,07:11,04:00,1,108,,,
+United Airlines,False,2019-03-14,PHL International Airport,Philadelphia,Economy,0,0,O'Hare International Airport,Chicago,09:31,06:20,1,132,,,
+Alaska Airlines,False,2019-03-02,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,23:48,22:20,1,88,,,
+American Airlines,False,2019-03-02,Sky Harbor International Airport,Phoenix,Economy,0,1,LAX International Airport,Los Angeles,07:49,05:05,1,153,,,
+Delta Airlines,False,2019-03-02,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,08:58,07:30,1,94,,,
+Southwest Airlines,False,2019-03-02,Sky Harbor International Airport,Phoenix,Economy,0,1,LAX International Airport,Los Angeles,22:59,20:05,1,177,,,
+United Airlines,False,2019-03-02,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,22:58,21:30,1,105,,,
+American Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,09:51,04:10,1,330,,,
+Delta Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,18:26,12:35,1,273,,,
+Southwest Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,13:46,07:55,1,307,,,
+United Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,1,Dulles International Airport,Washington,09:51,05:05,1,341,,,
+Delta Airlines,False,2019-03-07,McCarran International Airport,Las Vegas,Economy,0,1,O'Hare International Airport,Chicago,12:00,05:45,1,266,,,
+Alaska Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,11:16,07:30,1,315,,,
+American Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,23:31,19:50,1,339,,,
+Southwest Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,23:31,20:40,1,358,,,
+United Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,11:16,06:55,1,319,,,
+American Airlines,False,2019-03-11,Toronto Pearson International Airport,Toronto,Economy,0,1,PHL International Airport,Philadelphia,13:43,08:45,1,145,,,
+Southwest Airlines,False,2019-03-11,Toronto Pearson International Airport,Toronto,Economy,0,1,PHL International Airport,Philadelphia,13:43,07:40,1,159,,,
+United Airlines,False,2019-03-11,Toronto Pearson International Airport,Toronto,Economy,0,1,PHL International Airport,Philadelphia,18:28,14:05,1,216,,,
+American Airlines,False,2019-03-08,YVR International Airport,Vancouver,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,22:46,20:05,1,186,,,
+Southwest Airlines,False,2019-03-08,YVR International Airport,Vancouver,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,18:51,16:10,1,159,,,
+American Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Heathrow International Airport,London,12:44,06:55,1,260,,,
+British Airways,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,1,Heathrow International Airport,London,21:14,11:05,1,414,,,
+Delta Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Heathrow International Airport,London,17:39,11:50,1,277,,,
+Air France,True,2019-03-04,SFO International Airport,San Francisco,Economy,0,1,Charles de Gaulle International Airport,Paris,02:56,17:15,2,417,,,
+American Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,1,Charles de Gaulle International Airport,Paris,13:05,05:05,2,407,,,
+Delta Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,0,Charles de Gaulle International Airport,Paris,15:28,11:20,2,267,,,
+United Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,0,Charles de Gaulle International Airport,Paris,05:38,01:30,2,278,,,
+American Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Jomo Kenyatta International Airport,Nairobi,21:26,07:40,1,406,,,
+Delta Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Jomo Kenyatta International Airport,Nairobi,21:26,09:50,1,358,,,
+Delta Airlines,False,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,PDX International Airport,Portland,19:08,17:15,1,110,,,
+Air Canada,False,2019-03-01,SFO International Airport,San Francisco,Premium Economy,0,1,Toronto Pearson International Airport,Toronto,22:35,17:35,1,472,,,
+United Airlines,False,2019-03-01,SFO International Airport,San Francisco,Premium Economy,0,1,Toronto Pearson International Airport,Toronto,18:55,09:20,1,476,,,
+Delta Airlines,False,2019-03-10,JFK International Airport,New York,Economy,0,0,Charles de Gaulle International Airport,Paris,12:02,09:15,1,207,,,
+American Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,1,JFK International Airport,New York,16:07,09:15,1,344,,,
+Delta Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,1,JFK International Airport,New York,16:07,09:50,1,331,,,
+Southwest Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,1,JFK International Airport,New York,13:07,06:25,1,347,,,
+United Airlines,False,2019-03-05,Sky Harbor International Airport,Phoenix,Economy,0,1,JFK International Airport,New York,22:58,17:10,1,303,,,
+Alaska Airlines,False,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,06:20,04:55,1,92,,,
+American Airlines,False,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,06:55,05:30,1,108,,,
+Delta Airlines,True,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,00:40,23:15,1,104,,,
+Southwest Airlines,False,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,08:35,07:10,1,87,,,
+United Airlines,False,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,13:05,11:40,1,94,,,
+American Airlines,False,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,21:56,19:30,4,185,,,
+Delta Airlines,True,2019-03-12,SFO International Airport,San Francisco,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,02:56,19:55,4,332,,,
+Southwest Airlines,False,2019-03-12,SFO International Airport,San Francisco,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,20:26,18:00,4,220,,,
+United Airlines,True,2019-03-12,SFO International Airport,San Francisco,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,01:46,19:55,4,311,,,
+Alaska Airlines,True,2019-03-06,Heathrow International Airport,London,Economy,0,1,SAN International Airport,San Diego,03:09,06:10,1,333,,,
+American Airlines,True,2019-03-06,Heathrow International Airport,London,Economy,0,1,SAN International Airport,San Diego,16:14,19:10,1,357,,,
+Southwest Airlines,True,2019-03-06,Heathrow International Airport,London,Economy,0,1,SAN International Airport,San Diego,16:14,19:10,1,350,,,
+Alaska Airlines,False,2019-03-11,Dulles International Airport,Washington,Economy,0,1,SAN International Airport,San Diego,22:00,11:10,1,253,,,
+Southwest Airlines,False,2019-03-11,Dulles International Airport,Washington,Economy,0,1,SAN International Airport,San Diego,22:00,11:45,1,249,,,
+Air Canada,False,2019-03-14,LAX International Airport,Los Angeles,Economy,0,0,YVR International Airport,Vancouver,07:24,04:20,1,125,,,
+American Airlines,False,2019-03-14,LAX International Airport,Los Angeles,Economy,0,0,YVR International Airport,Vancouver,04:34,01:30,1,139,,,
+Delta Airlines,False,2019-03-14,LAX International Airport,Los Angeles,Economy,0,1,YVR International Airport,Vancouver,16:30,10:15,1,221,,,
+United Airlines,False,2019-03-14,LAX International Airport,Los Angeles,Economy,0,0,YVR International Airport,Vancouver,13:59,10:55,1,128,,,
+Alaska Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,12:00,10:25,1,92,,,
+American Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,07:00,05:25,1,93,,,
+Delta Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,22:50,21:15,1,103,,,
+Southwest Airlines,False,2019-03-09,McCarran International Airport,Las Vegas,Economy,0,0,SFO International Airport,San Francisco,13:55,12:20,1,116,,,
+Alaska Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,14:15,11:45,1,128,,,
+American Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,19:13,13:45,1,206,,,
+Delta Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,08:30,06:00,1,123,,,
+Southwest Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,17:58,13:55,1,211,,,
+United Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,17:50,15:20,1,134,,,
+American Airlines,False,2019-03-10,SFO International Airport,San Francisco,Economy,0,1,Heathrow International Airport,London,12:41,02:00,1,434,,,
+Delta Airlines,True,2019-03-10,SFO International Airport,San Francisco,Economy,0,1,Heathrow International Airport,London,02:56,16:00,1,413,,,
+United Airlines,False,2019-03-10,SFO International Airport,San Francisco,Economy,0,1,Heathrow International Airport,London,22:07,09:30,1,370,,,
+American Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,1,Heathrow International Airport,London,15:58,06:55,1,357,,,
+British Airways,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,1,Heathrow International Airport,London,19:22,11:05,1,421,,,
+Delta Airlines,False,2019-03-11,Sky Harbor International Airport,Phoenix,Economy,0,1,Heathrow International Airport,London,23:48,11:50,1,389,,,
+American Airlines,False,2019-03-04,LAX International Airport,Los Angeles,Economy,0,0,JFK International Airport,New York,22:00,18:50,1,193,,,
+Delta Airlines,False,2019-03-04,LAX International Airport,Los Angeles,Economy,0,0,JFK International Airport,New York,22:20,19:10,1,212,,,
+Southwest Airlines,True,2019-03-04,LAX International Airport,Los Angeles,Economy,0,0,JFK International Airport,New York,01:50,22:40,1,200,,,
+United Airlines,False,2019-03-04,LAX International Airport,Los Angeles,Economy,0,0,JFK International Airport,New York,20:20,17:10,1,195,,,
+American Airlines,True,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Sky Harbor International Airport,Phoenix,04:32,21:20,1,141,,,
+Delta Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Sky Harbor International Airport,Phoenix,19:12,12:00,1,160,,,
+Southwest Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Sky Harbor International Airport,Phoenix,16:27,09:15,1,172,,,
+United Airlines,False,2019-03-06,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Sky Harbor International Airport,Phoenix,21:12,14:00,1,168,,,
+United Airlines,False,2019-03-05,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Sky Harbor International Airport,Phoenix,21:12,14:00,1,158,,,
+Delta Airlines,False,2019-03-09,Sky Harbor International Airport,Phoenix,Economy,0,1,Benito Juarez International Airport,Mexico City,23:48,18:35,1,256,,,
+Alaska Airlines,True,2019-03-07,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,03:29,11:10,1,333,,,
+American Airlines,True,2019-03-07,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,03:29,13:40,1,330,,,
+Delta Airlines,False,2019-03-07,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:28,08:05,1,300,,,
+Southwest Airlines,False,2019-03-07,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:28,04:55,1,282,,,
+United Airlines,True,2019-03-07,Toronto Pearson International Airport,Toronto,Economy,0,1,Seattle-Tacoma International Airport,Seattle,03:29,10:45,1,330,,,
+American Airlines,False,2019-03-10,McCarran International Airport,Las Vegas,Economy,0,1,O'Hare International Airport,Chicago,13:55,08:25,1,287,,,
+Delta Airlines,False,2019-03-10,McCarran International Airport,Las Vegas,Economy,0,1,O'Hare International Airport,Chicago,12:00,05:45,1,288,,,
+Southwest Airlines,False,2019-03-10,McCarran International Airport,Las Vegas,Economy,0,1,O'Hare International Airport,Chicago,18:15,13:15,1,256,,,
+American Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,SFO International Airport,San Francisco,17:59,12:45,1,222,,,
+Delta Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,0,SFO International Airport,San Francisco,15:47,13:20,1,121,,,
+Southwest Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,SFO International Airport,San Francisco,08:54,04:00,1,243,,,
+United Airlines,True,2019-03-05,YVR International Airport,Vancouver,Economy,0,0,SFO International Airport,San Francisco,00:57,22:30,1,125,,,
+Alaska Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,10:49,09:55,1,51,,,
+American Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,20:04,19:10,1,73,,,
+Southwest Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,20:04,19:10,1,69,,,
+United Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,15:49,14:55,1,62,,,
+American Airlines,False,2019-03-05,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,1,62,,,
+Delta Airlines,False,2019-03-05,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,57,,,
+Southwest Airlines,False,2019-03-05,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,19:26,18:35,1,65,,,
+United Airlines,False,2019-03-05,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:26,20:35,1,58,,,
+Air France,True,2019-03-05,LAX International Airport,Los Angeles,Economy,0,1,Charles de Gaulle International Airport,Paris,01:50,17:15,1,403,,,
+American Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Charles de Gaulle International Airport,Paris,09:23,05:05,1,268,,,
+Delta Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Charles de Gaulle International Airport,Paris,18:03,13:45,1,269,,,
+United Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Charles de Gaulle International Airport,Paris,22:33,18:15,1,240,,,
+American Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,11:30,10:10,1,81,,,
+Delta Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,22:55,21:35,1,97,,,
+United Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,16:10,14:50,1,100,,,
+American Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,11:30,10:10,3,81,,,
+Delta Airlines,False,2019-03-12,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,22:55,21:35,3,97,,,
+American Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,O'Hare International Airport,Chicago,12:59,09:40,1,136,,,
+Delta Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,O'Hare International Airport,Chicago,19:24,16:05,1,135,,,
+Southwest Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,O'Hare International Airport,Chicago,10:39,07:20,1,105,,,
+United Airlines,True,2019-03-09,JFK International Airport,New York,Economy,0,0,O'Hare International Airport,Chicago,02:59,23:40,1,142,,,
+American Airlines,False,2019-03-12,LAX International Airport,Los Angeles,Economy,0,1,Heathrow International Airport,London,12:22,02:25,1,418,,,
+British Airways,False,2019-03-12,LAX International Airport,Los Angeles,Economy,0,1,Heathrow International Airport,London,20:34,11:05,1,469,,,
+Delta Airlines,True,2019-03-12,LAX International Airport,Los Angeles,Economy,0,0,Heathrow International Airport,London,01:19,19:30,1,251,,,
+American Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,1,JFK International Airport,New York,23:48,18:50,1,297,,,
+Delta Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,1,JFK International Airport,New York,22:27,15:00,1,318,,,
+United Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,1,JFK International Airport,New York,22:58,17:10,1,291,,,
+Alaska Airlines,True,2019-03-12,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,16:02,11:10,1,341,,,
+American Airlines,True,2019-03-12,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,16:02,13:40,1,350,,,
+United Airlines,True,2019-03-12,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,16:02,10:45,1,327,,,
+Alaska Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,16:07,09:20,1,173,,,
+American Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,1,SFO International Airport,San Francisco,19:30,09:30,1,315,,,
+Delta Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,17:17,10:30,1,187,,,
+Southwest Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,13:47,07:00,1,165,,,
+United Airlines,True,2019-03-01,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,05:47,23:00,1,182,,,
+American Airlines,False,2019-03-09,PDX International Airport,Portland,Premium Economy,0,1,Charles de Gaulle International Airport,Paris,17:50,05:05,3,648,,,
+Delta Airlines,False,2019-03-09,PDX International Airport,Portland,Premium Economy,0,1,Charles de Gaulle International Airport,Paris,23:40,13:45,3,657,,,
+United Airlines,False,2019-03-09,PDX International Airport,Portland,Premium Economy,0,1,Charles de Gaulle International Airport,Paris,12:03,01:30,3,620,,,
+American Airlines,False,2019-03-10,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Heathrow International Airport,London,12:37,02:00,1,361,,,
+British Airways,True,2019-03-10,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,Heathrow International Airport,London,01:59,19:55,1,237,,,
+Delta Airlines,True,2019-03-10,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Heathrow International Airport,London,00:52,16:00,1,357,,,
+United Airlines,False,2019-03-10,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Heathrow International Airport,London,11:22,02:25,1,331,,,
+American Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,19:13,14:20,1,273,,,
+Delta Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,19:13,14:30,1,252,,,
+Southwest Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,09:00,04:00,1,318,,,
+Alaska Airlines,True,2019-03-12,JFK International Airport,New York,Economy,0,1,PDX International Airport,Portland,08:20,19:15,1,329,,,
+American Airlines,False,2019-03-06,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,08:25,06:50,1,116,,,
+Delta Airlines,False,2019-03-06,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,22:05,20:30,1,90,,,
+Southwest Airlines,False,2019-03-06,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,14:55,13:20,1,103,,,
+United Airlines,False,2019-03-06,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,17:55,16:20,1,107,,,
+American Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,15:14,13:15,3,189,,,
+Delta Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,23:15,17:55,3,310,,,
+Southwest Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,21:14,19:15,3,196,,,
+United Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,17:52,11:50,3,329,,,
+Alaska Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Seattle-Tacoma International Airport,Seattle,13:57,11:10,1,152,,,
+American Airlines,True,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Seattle-Tacoma International Airport,Seattle,00:17,21:30,1,137,,,
+Delta Airlines,True,2019-03-05,LAX International Airport,Los Angeles,Economy,0,1,Seattle-Tacoma International Airport,Seattle,00:30,20:25,1,194,,,
+Southwest Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,1,Seattle-Tacoma International Airport,Seattle,19:25,15:05,1,229,,,
+United Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,Seattle-Tacoma International Airport,Seattle,13:32,10:45,1,149,,,
+Alaska Airlines,False,2019-03-13,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,Seattle-Tacoma International Airport,Seattle,16:07,11:35,1,387,,,
+Delta Airlines,False,2019-03-13,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:17,13:25,1,396,,,
+Southwest Airlines,False,2019-03-13,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,Seattle-Tacoma International Airport,Seattle,20:07,15:05,1,343,,,
+United Airlines,False,2019-03-13,Sky Harbor International Airport,Phoenix,Premium Economy,0,1,Seattle-Tacoma International Airport,Seattle,15:58,10:45,1,374,,,
+Alaska Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,16:07,09:20,3,179,,,
+American Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,1,SFO International Airport,San Francisco,19:30,09:30,3,317,,,
+Delta Airlines,False,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,17:17,10:30,3,182,,,
+Southwest Airlines,True,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,03:57,21:10,3,172,,,
+United Airlines,True,2019-03-03,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,05:47,23:00,3,151,,,
+American Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,16:16,11:40,1,274,,,
+Delta Airlines,True,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,01:17,18:35,1,258,,,
+United Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Benito Juarez International Airport,Mexico City,15:32,10:20,1,266,,,
+Delta Airlines,False,2019-03-08,Sky Harbor International Airport,Phoenix,Economy,0,1,Heathrow International Airport,London,23:48,11:50,1,352,,,
+Alaska Airlines,True,2019-03-10,JFK International Airport,New York,Economy,0,1,PDX International Airport,Portland,08:20,19:15,1,335,,,
+American Airlines,True,2019-03-10,JFK International Airport,New York,Economy,0,1,PDX International Airport,Portland,05:31,16:45,1,359,,,
+Delta Airlines,True,2019-03-10,JFK International Airport,New York,Economy,0,1,PDX International Airport,Portland,08:20,19:30,1,327,,,
+Southwest Airlines,False,2019-03-10,JFK International Airport,New York,Economy,0,1,PDX International Airport,Portland,23:50,11:20,1,333,,,
+Air Canada,False,2019-03-08,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,12:37,04:30,4,225,,,
+American Airlines,False,2019-03-08,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,19:41,10:45,4,235,,,
+Delta Airlines,False,2019-03-08,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,19:41,13:20,4,235,,,
+United Airlines,False,2019-03-08,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Toronto Pearson International Airport,Toronto,22:41,16:10,4,221,,,
+American Airlines,True,2019-03-10,Indira Gandhi International Airport,Delhi,Economy,0,1,Dulles International Airport,Washington,20:54,18:40,1,391,,,
+Delta Airlines,True,2019-03-10,Indira Gandhi International Airport,Delhi,Economy,0,1,Dulles International Airport,Washington,08:10,06:10,1,324,,,
+Southwest Airlines,True,2019-03-10,Indira Gandhi International Airport,Delhi,Economy,0,1,Dulles International Airport,Washington,04:40,05:15,1,332,,,
+United Airlines,True,2019-03-10,Indira Gandhi International Airport,Delhi,Economy,0,1,Dulles International Airport,Washington,04:40,05:05,1,334,,,
+Alaska Airlines,False,2019-03-02,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,23:26,15:00,1,181,,,
+American Airlines,False,2019-03-02,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,15:41,07:15,1,183,,,
+Southwest Airlines,True,2019-03-02,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,05:46,21:20,1,206,,,
+United Airlines,True,2019-03-02,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,SFO International Airport,San Francisco,06:11,21:45,1,169,,,
+Alaska Airlines,True,2019-03-10,Heathrow International Airport,London,Economy,0,1,LAX International Airport,Los Angeles,08:02,06:45,1,449,,,
+American Airlines,True,2019-03-10,Heathrow International Airport,London,Economy,0,0,LAX International Airport,Los Angeles,16:14,20:25,1,288,,,
+Delta Airlines,True,2019-03-10,Heathrow International Airport,London,Economy,0,1,LAX International Airport,Los Angeles,09:39,10:05,1,442,,,
+Southwest Airlines,True,2019-03-10,Heathrow International Airport,London,Economy,0,1,LAX International Airport,Los Angeles,08:02,05:50,1,488,,,
+United Airlines,True,2019-03-10,Heathrow International Airport,London,Economy,0,0,LAX International Airport,Los Angeles,11:34,15:45,1,264,,,
+Air Canada,True,2019-03-05,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,YVR International Airport,Vancouver,02:54,12:15,1,331,,,
+American Airlines,False,2019-03-05,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,YVR International Airport,Vancouver,13:56,05:15,1,186,,,
+Delta Airlines,True,2019-03-05,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,YVR International Airport,Vancouver,02:51,10:15,1,343,,,
+United Airlines,False,2019-03-05,Hartsfield-Jackson International Airport,Atlanta,Economy,0,0,YVR International Airport,Vancouver,16:16,07:35,1,218,,,
+Delta Airlines,True,2019-03-04,Jomo Kenyatta International Airport,Nairobi,Economy,0,0,JFK International Airport,New York,20:42,20:35,1,292,,,
+Southwest Airlines,True,2019-03-04,Jomo Kenyatta International Airport,Nairobi,Economy,0,0,JFK International Airport,New York,10:22,10:15,1,289,,,
+American Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,0,Sky Harbor International Airport,Phoenix,11:37,09:30,1,119,,,
+Delta Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,0,Sky Harbor International Airport,Phoenix,09:52,07:45,1,134,,,
+Southwest Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,0,Sky Harbor International Airport,Phoenix,13:17,11:10,1,114,,,
+United Airlines,False,2019-03-11,SFO International Airport,San Francisco,Economy,0,0,Sky Harbor International Airport,Phoenix,11:47,09:40,1,121,,,
+American Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,McCarran International Airport,Las Vegas,08:17,04:50,1,296,,,
+Delta Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,McCarran International Airport,Las Vegas,23:31,20:30,1,316,,,
+United Airlines,True,2019-03-06,Kingsford Smith International Airport,Sydney,Economy,0,1,McCarran International Airport,Las Vegas,23:31,16:20,1,334,,,
+United Airlines,True,2019-03-12,Kingsford Smith International Airport,Sydney,Economy,0,1,McCarran International Airport,Las Vegas,23:31,16:20,1,311,,,
+American Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,0,McCarran International Airport,Las Vegas,13:14,12:00,1,78,,,
+Delta Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,0,McCarran International Airport,Las Vegas,07:34,06:20,1,82,,,
+United Airlines,False,2019-03-07,Sky Harbor International Airport,Phoenix,Economy,0,0,McCarran International Airport,Las Vegas,21:29,20:15,1,85,,,
+Air Canada,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,11:02,04:20,2,310,,,
+American Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:52,05:15,2,399,,,
+Delta Airlines,False,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:16,06:40,2,243,,,
+United Airlines,True,2019-03-08,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,01:17,18:55,2,266,,,
+Air Canada,False,2019-03-04,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,07:31,01:40,1,393,,,
+American Airlines,False,2019-03-04,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,12:02,01:30,1,465,,,
+Delta Airlines,False,2019-03-04,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,18:16,10:15,1,458,,,
+United Airlines,True,2019-03-04,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,YVR International Airport,Vancouver,01:17,18:55,1,484,,,
+Alaska Airlines,False,2019-03-10,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,10:49,09:55,3,64,,,
+American Airlines,False,2019-03-10,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,20:04,19:10,3,70,,,
+Southwest Airlines,False,2019-03-10,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,20:04,19:10,3,66,,,
+United Airlines,False,2019-03-10,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,15:49,14:55,3,63,,,
+American Airlines,False,2019-03-07,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,11:30,10:10,1,92,,,
+Delta Airlines,False,2019-03-07,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,22:55,21:35,1,92,,,
+United Airlines,False,2019-03-07,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,16:10,14:50,1,96,,,
+American Airlines,True,2019-03-07,Heathrow International Airport,London,Economy,0,1,Sky Harbor International Airport,Phoenix,06:09,05:00,3,374,,,
+American Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,O'Hare International Airport,Chicago,22:07,19:20,1,169,,,
+Delta Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,O'Hare International Airport,Chicago,08:32,05:45,1,181,,,
+Southwest Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,O'Hare International Airport,Chicago,22:52,20:05,1,159,,,
+United Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,O'Hare International Airport,Chicago,20:27,17:40,1,206,,,
+American Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,JFK International Airport,New York,10:09,08:50,1,113,,,
+Delta Airlines,True,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,JFK International Airport,New York,00:24,23:05,1,151,,,
+Southwest Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,JFK International Airport,New York,20:29,19:10,1,122,,,
+United Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,JFK International Airport,New York,19:34,18:15,1,128,,,
+Southwest Airlines,False,2019-03-04,SAN International Airport,San Diego,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,21:49,18:35,1,262,,,
+American Airlines,False,2019-03-06,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,22:01,20:50,1,124,,,
+Delta Airlines,False,2019-03-06,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,17:16,16:05,1,117,,,
+Southwest Airlines,False,2019-03-06,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,12:31,11:20,1,120,,,
+United Airlines,False,2019-03-06,O'Hare International Airport,Chicago,Economy,0,0,PHL International Airport,Philadelphia,17:56,16:45,1,136,,,
+Delta Airlines,False,2019-03-14,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,08:30,06:00,1,135,,,
+American Airlines,True,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,O'Hare International Airport,Chicago,01:02,22:30,1,175,,,
+Delta Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Premium Economy,0,0,O'Hare International Airport,Chicago,09:37,07:05,1,326,,,
+Southwest Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,O'Hare International Airport,Chicago,23:57,21:25,1,176,,,
+United Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Business,0,0,O'Hare International Airport,Chicago,10:17,07:45,1,350,,,
+Alaska Airlines,False,2019-03-11,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,16:07,09:20,1,170,,,
+American Airlines,False,2019-03-11,O'Hare International Airport,Chicago,Economy,0,1,SFO International Airport,San Francisco,19:30,09:30,1,325,,,
+Delta Airlines,True,2019-03-11,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,02:22,19:35,1,191,,,
+Southwest Airlines,False,2019-03-11,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,13:47,07:00,1,189,,,
+United Airlines,True,2019-03-11,O'Hare International Airport,Chicago,Economy,0,0,SFO International Airport,San Francisco,03:52,21:05,1,163,,,
+American Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,19:38,18:40,1,126,,,
+Delta Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,1,Dulles International Airport,Washington,20:44,17:55,1,215,,,
+Southwest Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,19:08,18:10,1,109,,,
+United Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,21:08,20:10,1,134,,,
+American Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,19:38,18:40,2,126,,,
+Delta Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,1,Dulles International Airport,Washington,20:44,17:55,2,215,,,
+Southwest Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,19:08,18:10,2,109,,,
+United Airlines,False,2019-03-14,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,21:08,20:10,2,134,,,
+Alaska Airlines,False,2019-03-10,McCarran International Airport,Las Vegas,Economy,0,1,PDX International Airport,Portland,23:20,19:15,1,232,,,
+Delta Airlines,False,2019-03-10,McCarran International Airport,Las Vegas,Economy,0,1,PDX International Airport,Portland,23:20,19:30,1,224,,,
+United Airlines,False,2019-03-10,McCarran International Airport,Las Vegas,Economy,0,1,PDX International Airport,Portland,17:35,13:45,1,196,,,
+Southwest Airlines,False,2019-03-10,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,23:40,18:50,1,220,,,
+American Airlines,False,2019-03-09,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,09:00,04:50,1,220,,,
+Delta Airlines,False,2019-03-09,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,17:58,14:25,1,227,,,
+Southwest Airlines,False,2019-03-09,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,17:58,13:20,1,222,,,
+United Airlines,False,2019-03-09,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,17:50,13:40,1,198,,,
+Southwest Airlines,True,2019-03-04,Heathrow International Airport,London,Premium Economy,0,0,O'Hare International Airport,Chicago,09:39,19:10,1,390,,,
+United Airlines,False,2019-03-04,Heathrow International Airport,London,Premium Economy,0,0,O'Hare International Airport,Chicago,20:29,06:00,1,403,,,
+United Airlines,True,2019-03-08,Kingsford Smith International Airport,Sydney,Premium Economy,0,1,Seattle-Tacoma International Airport,Seattle,11:16,06:55,1,537,,,
+Alaska Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,SAN International Airport,San Diego,11:23,09:55,1,351,,,
+Southwest Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,SAN International Airport,San Diego,11:23,11:45,1,361,,,
+United Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,SAN International Airport,San Diego,11:38,06:35,1,383,,,
+Alaska Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,10:30,09:05,1,90,,,
+American Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,19:25,18:00,1,96,,,
+Delta Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,17:30,16:05,1,93,,,
+Southwest Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,09:50,08:25,1,98,,,
+United Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,16:30,15:05,1,96,,,
+Southwest Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,O'Hare International Airport,Chicago,22:52,20:05,4,159,,,
+American Airlines,True,2019-03-09,KLIA International Airport,Kuala Lumpur,Economy,0,1,PDX International Airport,Portland,16:38,07:25,1,383,,,
+Southwest Airlines,True,2019-03-09,KLIA International Airport,Kuala Lumpur,Economy,0,1,PDX International Airport,Portland,16:38,07:40,1,391,,,
+Alaska Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,14:15,11:45,1,146,,,
+American Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,23:38,17:55,1,234,,,
+Delta Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,0,LAX International Airport,Los Angeles,08:30,06:00,1,121,,,
+Southwest Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,16:48,12:45,1,191,,,
+United Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,LAX International Airport,Los Angeles,15:28,11:40,1,242,,,
+Delta Airlines,True,2019-03-01,Jomo Kenyatta International Airport,Nairobi,Economy,0,1,PHL International Airport,Philadelphia,10:22,04:20,1,364,,,
+Southwest Airlines,True,2019-03-01,Jomo Kenyatta International Airport,Nairobi,Economy,0,1,PHL International Airport,Philadelphia,20:42,14:55,1,324,,,
+American Airlines,False,2019-03-01,YVR International Airport,Vancouver,Economy,0,1,JFK International Airport,New York,15:47,09:15,2,350,,,
+Delta Airlines,False,2019-03-01,YVR International Airport,Vancouver,Economy,0,1,JFK International Airport,New York,15:47,09:50,2,353,,,
+Southwest Airlines,False,2019-03-01,YVR International Airport,Vancouver,Economy,0,1,JFK International Airport,New York,23:06,14:20,2,324,,,
+United Airlines,False,2019-03-01,YVR International Airport,Vancouver,Economy,0,1,JFK International Airport,New York,23:06,18:45,2,322,,,
+American Airlines,False,2019-03-01,Toronto Pearson International Airport,Toronto,Economy,0,1,McCarran International Airport,Las Vegas,15:49,04:50,1,272,,,
+United Airlines,True,2019-03-01,Toronto Pearson International Airport,Toronto,Economy,0,1,McCarran International Airport,Las Vegas,03:29,13:40,1,284,,,
+Air France,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,1,Charles de Gaulle International Airport,Paris,21:26,17:15,1,326,,,
+American Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,1,Charles de Gaulle International Airport,Paris,08:46,03:00,1,286,,,
+Delta Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,1,Charles de Gaulle International Airport,Paris,17:06,09:15,1,299,,,
+Alaska Airlines,True,2019-03-07,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,05:46,20:20,1,208,,,
+American Airlines,False,2019-03-07,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,14:26,05:00,1,217,,,
+Delta Airlines,True,2019-03-07,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,04:01,18:35,1,217,,,
+Southwest Airlines,False,2019-03-07,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,15:56,06:30,1,206,,,
+United Airlines,False,2019-03-07,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,15:56,06:30,1,182,,,
+Southwest Airlines,False,2019-03-06,SFO International Airport,San Francisco,Premium Economy,0,0,LAX International Airport,Los Angeles,15:20,13:55,1,135,,,
+Alaska Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,21:20,19:40,1,118,,,
+American Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,1,SFO International Airport,San Francisco,20:59,18:00,1,172,,,
+Delta Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,19:20,17:40,1,105,,,
+Southwest Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,07:30,05:50,1,111,,,
+United Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,23:30,21:50,1,112,,,
+Southwest Airlines,True,2019-03-02,Sky Harbor International Airport,Phoenix,Economy,0,1,Dulles International Airport,Washington,00:27,20:50,1,282,,,
+United Airlines,False,2019-03-02,Sky Harbor International Airport,Phoenix,Economy,0,1,Dulles International Airport,Washington,12:32,09:25,1,304,,,
+American Airlines,True,2019-03-02,Indira Gandhi International Airport,Delhi,Economy,0,1,PHL International Airport,Philadelphia,08:10,08:45,1,300,,,
+Southwest Airlines,True,2019-03-02,Indira Gandhi International Airport,Delhi,Economy,0,1,PHL International Airport,Philadelphia,04:40,05:35,1,313,,,
+United Airlines,True,2019-03-02,Indira Gandhi International Airport,Delhi,Economy,0,1,PHL International Airport,Philadelphia,07:14,06:40,1,412,,,
+American Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,McCarran International Airport,Las Vegas,14:53,13:55,1,422,,,
+Delta Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,McCarran International Airport,Las Vegas,14:53,14:25,1,421,,,
+Southwest Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,McCarran International Airport,Las Vegas,14:53,13:20,1,412,,,
+American Airlines,False,2019-03-01,YVR International Airport,Vancouver,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,22:46,20:05,1,186,,,
+Southwest Airlines,False,2019-03-01,YVR International Airport,Vancouver,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,18:51,16:10,1,197,,,
+Delta Airlines,True,2019-03-02,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,Sky Harbor International Airport,Phoenix,00:21,19:55,4,379,,,
+Southwest Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,Sky Harbor International Airport,Phoenix,21:18,15:30,4,355,,,
+United Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,1,Sky Harbor International Airport,Phoenix,22:11,17:05,4,422,,,
+Southwest Airlines,True,2019-03-05,Charles de Gaulle International Airport,Paris,Premium Economy,0,1,Dulles International Airport,Washington,07:31,08:15,2,581,,,
+Alaska Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,0,SFO International Airport,San Francisco,17:58,16:05,1,105,,,
+Delta Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,0,SFO International Airport,San Francisco,15:28,13:35,1,106,,,
+Southwest Airlines,True,2019-03-01,PDX International Airport,Portland,Economy,0,0,SFO International Airport,San Francisco,00:58,23:05,1,93,,,
+United Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,1,SFO International Airport,San Francisco,19:13,15:40,1,199,,,
+Alaska Airlines,False,2019-03-06,O'Hare International Airport,Chicago,Economy,0,1,Seattle-Tacoma International Airport,Seattle,20:57,11:10,1,317,,,
+American Airlines,True,2019-03-04,Indira Gandhi International Airport,Delhi,Economy,0,0,JFK International Airport,New York,08:10,12:35,1,257,,,
+United Airlines,True,2019-03-04,Indira Gandhi International Airport,Delhi,Economy,0,0,JFK International Airport,New York,04:40,09:05,1,211,,,
+Alaska Airlines,True,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,1,PDX International Airport,Portland,04:50,19:15,1,273,,,
+Delta Airlines,True,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,1,PDX International Airport,Portland,01:35,12:15,1,277,,,
+Southwest Airlines,True,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,1,PDX International Airport,Portland,01:35,15:35,1,263,,,
+United Airlines,False,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,1,PDX International Airport,Portland,22:38,13:45,1,273,,,
+American Airlines,True,2019-03-08,Charles de Gaulle International Airport,Paris,Premium Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,02:51,06:05,1,586,,,
+Southwest Airlines,True,2019-03-08,Charles de Gaulle International Airport,Paris,Premium Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,11:38,06:00,1,691,,,
+Alaska Airlines,False,2019-03-06,YVR International Airport,Vancouver,Economy,0,1,SAN International Airport,San Diego,20:12,12:40,1,249,,,
+Delta Airlines,False,2019-03-06,YVR International Airport,Vancouver,Economy,0,1,SAN International Airport,San Diego,20:12,12:25,1,225,,,
+Southwest Airlines,False,2019-03-06,YVR International Airport,Vancouver,Economy,0,1,SAN International Airport,San Diego,20:12,11:35,1,222,,,
+United Airlines,False,2019-03-06,YVR International Airport,Vancouver,Premium Economy,0,1,SAN International Airport,San Diego,15:47,06:35,1,411,,,
+Southwest Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,PDX International Airport,Portland,11:38,09:20,1,356,,,
+American Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,11:23,09:50,1,465,,,
+Air Canada,True,2019-03-02,O'Hare International Airport,Chicago,Economy,0,1,YVR International Airport,Vancouver,00:12,12:15,1,298,,,
+American Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,1,YVR International Airport,Vancouver,12:47,01:30,1,321,,,
+Delta Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,0,YVR International Airport,Vancouver,09:06,02:30,1,178,,,
+United Airlines,False,2019-03-02,O'Hare International Airport,Chicago,Economy,0,0,YVR International Airport,Vancouver,14:36,08:00,1,156,,,
+American Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Charles de Gaulle International Airport,Paris,15:32,05:05,2,429,,,
+Delta Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Charles de Gaulle International Airport,Paris,22:16,11:20,2,369,,,
+United Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,Charles de Gaulle International Airport,Paris,13:30,04:50,2,408,,,
+American Airlines,False,2019-03-02,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,11:30,10:10,1,91,,,
+Delta Airlines,False,2019-03-02,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,22:55,21:35,1,83,,,
+United Airlines,False,2019-03-02,SAN International Airport,San Diego,Economy,0,0,Sky Harbor International Airport,Phoenix,17:10,15:50,1,91,,,
+American Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,O'Hare International Airport,Chicago,19:13,14:00,1,257,,,
+Delta Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,O'Hare International Airport,Chicago,12:20,07:05,1,291,,,
+Southwest Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,O'Hare International Airport,Chicago,12:20,06:45,1,277,,,
+United Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,O'Hare International Airport,Chicago,19:13,14:20,1,244,,,
+Alaska Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,SAN International Airport,San Diego,20:12,12:40,1,264,,,
+Southwest Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,SAN International Airport,San Diego,15:47,11:35,1,227,,,
+United Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,SAN International Airport,San Diego,15:47,06:35,1,227,,,
+American Airlines,False,2019-03-11,McCarran International Airport,Las Vegas,Economy,0,1,O'Hare International Airport,Chicago,13:55,08:25,1,288,,,
+Delta Airlines,False,2019-03-11,McCarran International Airport,Las Vegas,Economy,0,1,O'Hare International Airport,Chicago,13:55,08:50,1,279,,,
+Southwest Airlines,False,2019-03-11,McCarran International Airport,Las Vegas,Economy,0,1,O'Hare International Airport,Chicago,18:15,13:15,1,282,,,
+Alaska Airlines,False,2019-03-01,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,08:33,07:05,1,102,,,
+Delta Airlines,False,2019-03-02,SAN International Airport,San Diego,Economy,0,1,O'Hare International Airport,Chicago,12:00,05:45,1,288,,,
+Alaska Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,11:02,08:15,1,134,,,
+American Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,20:42,17:55,1,142,,,
+Delta Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,20:32,17:45,1,139,,,
+Southwest Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,20:07,17:20,1,151,,,
+United Airlines,True,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,01:17,22:30,1,129,,,
+American Airlines,False,2019-03-01,Sky Harbor International Airport,Phoenix,Economy,0,1,LAX International Airport,Los Angeles,07:49,05:05,1,168,,,
+Delta Airlines,False,2019-03-01,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,08:58,07:30,1,107,,,
+Southwest Airlines,False,2019-03-01,Sky Harbor International Airport,Phoenix,Economy,0,1,LAX International Airport,Los Angeles,22:59,20:05,1,178,,,
+United Airlines,False,2019-03-01,Sky Harbor International Airport,Phoenix,Economy,0,0,LAX International Airport,Los Angeles,22:58,21:30,1,83,,,
+American Airlines,False,2019-03-09,Toronto Pearson International Airport,Toronto,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,10:33,06:05,1,246,,,
+Delta Airlines,True,2019-03-09,Toronto Pearson International Airport,Toronto,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,01:15,17:55,1,214,,,
+Southwest Airlines,False,2019-03-09,Toronto Pearson International Airport,Toronto,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,13:43,06:40,1,227,,,
+United Airlines,False,2019-03-09,Toronto Pearson International Airport,Toronto,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,13:43,04:20,1,224,,,
+Alaska Airlines,False,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,0,SFO International Airport,San Francisco,16:48,11:05,1,148,,,
+American Airlines,True,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,1,SFO International Airport,San Francisco,01:35,18:00,1,239,,,
+Delta Airlines,False,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,0,SFO International Airport,San Francisco,22:38,16:55,1,151,,,
+Southwest Airlines,False,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,1,SFO International Airport,San Francisco,11:15,04:00,1,273,,,
+United Airlines,True,2019-03-01,Benito Juarez International Airport,Mexico City,Economy,0,1,SFO International Airport,San Francisco,01:35,15:05,1,226,,,
+Delta Airlines,True,2019-03-01,Jomo Kenyatta International Airport,Nairobi,Economy,0,0,JFK International Airport,New York,20:42,20:35,2,256,,,
+Southwest Airlines,True,2019-03-01,Jomo Kenyatta International Airport,Nairobi,Economy,0,0,JFK International Airport,New York,10:22,10:15,2,295,,,
+American Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,0,McCarran International Airport,Las Vegas,14:09,12:55,1,86,,,
+Delta Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,0,McCarran International Airport,Las Vegas,21:49,20:35,1,92,,,
+Southwest Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,1,McCarran International Airport,Las Vegas,21:49,18:50,1,139,,,
+United Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,1,McCarran International Airport,Las Vegas,16:29,13:40,1,150,,,
+American Airlines,False,2019-03-01,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Indira Gandhi International Airport,Delhi,15:42,12:20,1,375,,,
+United Airlines,True,2019-03-01,Hartsfield-Jackson International Airport,Atlanta,Economy,0,1,Indira Gandhi International Airport,Delhi,00:52,21:15,1,355,,,
+American Airlines,False,2019-03-04,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,1,56,,,
+Delta Airlines,False,2019-03-04,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,56,,,
+Southwest Airlines,False,2019-03-04,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,19:26,18:35,1,61,,,
+United Airlines,False,2019-03-04,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,11:16,10:25,1,69,,,
+American Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,09:36,08:45,4,59,,,
+Delta Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,05:11,04:20,4,67,,,
+Southwest Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,16:21,15:30,4,51,,,
+Alaska Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,06:20,04:55,3,100,,,
+American Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,06:55,05:30,3,91,,,
+Delta Airlines,True,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,00:40,23:15,3,109,,,
+Southwest Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,15:20,13:55,3,99,,,
+United Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,13:05,11:40,3,95,,,
+Alaska Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,14:20,12:40,4,102,,,
+American Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,1,SAN International Airport,San Diego,22:35,19:10,4,162,,,
+Delta Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,14:05,12:25,4,95,,,
+Southwest Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,13:15,11:35,4,103,,,
+United Airlines,False,2019-03-04,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,08:15,06:35,4,93,,,
+Air Canada,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,11:02,04:20,2,282,,,
+American Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:52,05:15,2,374,,,
+Delta Airlines,False,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,11:41,06:40,2,271,,,
+United Airlines,True,2019-03-10,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,01:17,18:55,2,312,,,
+Air Canada,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,11:02,04:20,1,273,,,
+American Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,12:02,01:30,1,256,,,
+Delta Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:16,06:40,1,266,,,
+United Airlines,True,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,01:17,18:55,1,270,,,
+Air Canada,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,11:02,04:20,4,297,,,
+American Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,12:02,01:30,4,266,,,
+Delta Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:16,06:40,4,260,,,
+United Airlines,True,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,01:17,18:55,4,299,,,
+Southwest Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:11,20:20,2,67,,,
+American Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,22:43,17:50,2,228,,,
+Delta Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,08:20,04:20,2,144,,,
+Southwest Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,18:10,15:30,2,149,,,
+Alaska Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,20:12,11:35,2,265,,,
+American Airlines,True,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,00:57,19:50,2,230,,,
+Delta Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,20:12,13:25,2,261,,,
+Southwest Airlines,True,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,00:57,15:05,2,257,,,
+United Airlines,False,2019-03-05,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,12:29,05:35,2,308,,,
+American Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,87,,,
+Delta Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,76,,,
+Southwest Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,93,,,
+American Airlines,True,2019-03-04,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,00:57,19:50,1,248,,,
+Air Canada,False,2019-03-04,PDX International Airport,Portland,Premium Economy,0,1,YVR International Airport,Vancouver,11:48,01:40,2,379,,,
+American Airlines,False,2019-03-04,PDX International Airport,Portland,Premium Economy,0,1,YVR International Airport,Vancouver,11:35,01:30,2,437,,,
+Delta Airlines,True,2019-03-04,PDX International Airport,Portland,Premium Economy,0,1,YVR International Airport,Vancouver,01:28,20:55,2,397,,,
+American Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,4,90,,,
+Delta Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,4,84,,,
+Southwest Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,4,76,,,
+United Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,4,74,,,
+American Airlines,False,2019-03-07,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,05:21,04:30,1,62,,,
+Delta Airlines,False,2019-03-07,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,56,,,
+Southwest Airlines,False,2019-03-07,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,17:06,16:15,1,50,,,
+United Airlines,False,2019-03-07,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:26,20:35,1,63,,,
+American Airlines,False,2019-03-06,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,14:40,13:30,1,82,,,
+Delta Airlines,False,2019-03-06,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,08:20,07:10,1,74,,,
+Southwest Airlines,False,2019-03-06,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,08:25,07:15,1,82,,,
+United Airlines,True,2019-03-06,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,00:50,23:40,1,86,,,
+Alaska Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,23:03,22:05,3,71,,,
+American Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,15:33,14:35,3,74,,,
+Delta Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,19:13,18:15,3,71,,,
+United Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,10:28,09:30,3,85,,,
+American Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,1,SFO International Airport,San Francisco,21:49,18:00,1,162,,,
+American Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,11:35,01:30,1,292,,,
+Alaska Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,14:20,12:40,1,112,,,
+American Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,1,SAN International Airport,San Diego,11:02,07:15,1,202,,,
+Delta Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,14:05,12:25,1,104,,,
+Southwest Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,13:15,11:35,1,112,,,
+United Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,08:15,06:35,1,106,,,
+American Airlines,False,2019-03-06,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,06:00,04:50,4,86,,,
+Delta Airlines,False,2019-03-06,LAX International Airport,Los Angeles,Economy,0,1,McCarran International Airport,Las Vegas,12:39,10:10,4,148,,,
+Southwest Airlines,False,2019-03-06,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,20:00,18:50,4,80,,,
+United Airlines,False,2019-03-11,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,18:45,17:35,4,78,,,
+Alaska Airlines,False,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,15:47,07:30,1,257,,,
+American Airlines,True,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,00:57,19:50,1,255,,,
+Delta Airlines,False,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,18:46,08:05,1,338,,,
+Southwest Airlines,True,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,00:57,15:05,1,260,,,
+United Airlines,False,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,12:29,05:35,1,293,,,
+American Airlines,False,2019-03-03,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,14:40,13:30,1,82,,,
+Southwest Airlines,False,2019-03-03,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,08:25,07:15,1,84,,,
+United Airlines,False,2019-03-03,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,12:00,10:50,1,90,,,
+Delta Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,21:26,17:55,1,148,,,
+American Airlines,False,2019-03-07,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,88,,,
+Delta Airlines,False,2019-03-07,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,86,,,
+Southwest Airlines,False,2019-03-07,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,81,,,
+United Airlines,False,2019-03-07,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,76,,,
+United Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,SAN International Airport,San Diego,08:15,06:35,4,115,,,
+American Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,14:10,13:00,1,88,,,
+Delta Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,77,,,
+Southwest Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,78,,,
+United Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,84,,,
+Alaska Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,21:20,19:40,2,118,,,
+American Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,1,SFO International Airport,San Francisco,20:59,18:00,2,172,,,
+Delta Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,19:20,17:40,2,105,,,
+Southwest Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,07:30,05:50,2,111,,,
+United Airlines,False,2019-03-05,SAN International Airport,San Diego,Economy,0,0,SFO International Airport,San Francisco,23:30,21:50,2,112,,,
+Air Canada,False,2019-03-05,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,20:42,12:15,4,274,,,
+American Airlines,False,2019-03-05,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,16:52,05:15,4,366,,,
+Delta Airlines,False,2019-03-05,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,18:16,10:15,4,277,,,
+United Airlines,True,2019-03-05,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,01:17,18:55,4,301,,,
+Southwest Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,16:21,15:30,4,66,,,
+American Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,09:36,08:45,1,65,,,
+Delta Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,05:11,04:20,1,61,,,
+Southwest Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,16:21,15:30,1,66,,,
+Alaska Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,23:03,22:05,1,65,,,
+American Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,15:33,14:35,1,61,,,
+Delta Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,19:13,18:15,1,66,,,
+United Airlines,False,2019-03-05,PDX International Airport,Portland,Economy,0,0,Seattle-Tacoma International Airport,Seattle,10:28,09:30,1,74,,,
+American Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,79,,,
+Delta Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,84,,,
+Southwest Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,88,,,
+United Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,102,,,
+American Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,1,56,,,
+Delta Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,57,,,
+Southwest Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,17:06,16:15,1,66,,,
+United Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:26,20:35,1,68,,,
+Alaska Airlines,False,2019-03-07,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,12:10,10:45,1,72,,,
+Alaska Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,06:20,04:55,1,92,,,
+American Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,06:55,05:30,1,91,,,
+Delta Airlines,True,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,00:40,23:15,1,92,,,
+Southwest Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,15:20,13:55,1,87,,,
+United Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,LAX International Airport,Los Angeles,06:25,05:00,1,85,,,
+American Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,82,,,
+Delta Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,75,,,
+Southwest Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,69,,,
+United Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,96,,,
+American Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:11,04:10,1,145,,,
+Delta Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,21:26,17:55,1,144,,,
+Southwest Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:26,05:15,1,136,,,
+United Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:11,05:05,1,159,,,
+Alaska Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,23:53,22:55,4,70,,,
+American Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,08:23,07:25,4,66,,,
+Southwest Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,21:18,20:20,4,72,,,
+United Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,15:53,14:55,4,69,,,
+American Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,12:00,08:45,3,144,,,
+Delta Airlines,True,2019-03-02,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,00:50,22:25,3,139,,,
+Southwest Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,20:50,18:30,3,163,,,
+American Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,22:43,17:50,3,228,,,
+Delta Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,08:20,04:20,3,144,,,
+Southwest Airlines,False,2019-03-01,Dulles International Airport,Washington,Economy,0,1,PHL International Airport,Philadelphia,18:10,15:30,3,149,,,
+American Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,06:00,04:50,4,75,,,
+Delta Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,McCarran International Airport,Las Vegas,12:39,10:10,4,127,,,
+Southwest Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,20:00,18:50,4,84,,,
+United Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,18:45,17:35,4,88,,,
+Alaska Airlines,False,2019-03-08,YVR International Airport,Vancouver,Economy,0,1,PDX International Airport,Portland,15:47,10:15,3,252,,,
+Delta Airlines,True,2019-03-08,YVR International Airport,Vancouver,Economy,0,1,PDX International Airport,Portland,00:57,17:15,3,285,,,
+Southwest Airlines,False,2019-03-08,YVR International Airport,Vancouver,Economy,0,1,PDX International Airport,Portland,15:47,09:20,3,257,,,
+American Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,3,73,,,
+Delta Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,3,63,,,
+Southwest Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:11,20:20,3,50,,,
+United Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:26,20:35,3,61,,,
+American Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,14:40,13:30,3,63,,,
+Delta Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,08:20,07:10,3,92,,,
+Southwest Airlines,False,2019-03-02,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,08:25,07:15,3,93,,,
+United Airlines,True,2019-03-02,Dulles International Airport,Washington,Economy,0,0,JFK International Airport,New York,00:50,23:40,3,76,,,
+Alaska Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,23:53,22:55,2,70,,,
+American Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,08:23,07:25,2,66,,,
+Southwest Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,21:18,20:20,2,72,,,
+United Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,0,PDX International Airport,Portland,15:53,14:55,2,69,,,
+American Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:11,04:10,1,155,,,
+Delta Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,21:26,17:55,1,138,,,
+Southwest Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,08:46,05:15,1,148,,,
+United Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,08:46,05:05,1,146,,,
+Delta Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,21:26,17:55,3,138,,,
+Southwest Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Premium Economy,0,1,Dulles International Airport,Washington,08:46,05:15,3,241,,,
+American Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,08:25,06:50,3,88,,,
+Delta Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,22:05,20:30,3,95,,,
+Southwest Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,14:55,13:20,3,113,,,
+United Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,17:55,16:20,3,100,,,
+Delta Airlines,False,2019-03-01,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,12:03,06:40,1,260,,,
+Alaska Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,10:30,09:05,4,94,,,
+American Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,12:55,11:30,4,106,,,
+Delta Airlines,True,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,00:30,23:05,4,92,,,
+Southwest Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,09:50,08:25,4,94,,,
+United Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,16:30,15:05,4,93,,,
+Air Canada,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,11:48,01:40,3,250,,,
+American Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,08:30,01:30,3,262,,,
+Delta Airlines,False,2019-03-04,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,12:03,06:40,3,252,,,
+Delta Airlines,False,2019-03-10,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,12:03,06:40,1,262,,,
+Delta Airlines,True,2019-03-04,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,15:28,10:15,1,455,00:57,17:15,2019-03-12
+Alaska Airlines,False,2019-03-05,LAX International Airport,Los Angeles,Economy,0,0,SAN International Airport,San Diego,10:49,09:55,2,119,07:49,06:55,2019-03-11
+American Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,08:25,06:50,1,187,07:00,05:25,2019-03-10
+Delta Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,16:00,14:25,1,182,22:50,21:15,2019-03-10
+Southwest Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,14:55,13:20,1,213,13:55,12:20,2019-03-10
+United Airlines,False,2019-03-02,SFO International Airport,San Francisco,Economy,0,1,McCarran International Airport,Las Vegas,17:55,16:20,1,250,18:15,15:05,2019-03-10
+United Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,4,160,00:50,23:40,2019-03-14
+United Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,166,00:50,23:40,2019-03-09
+American Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,161,14:40,13:30,2019-03-06
+Delta Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,148,08:20,07:10,2019-03-06
+Southwest Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,148,08:25,07:15,2019-03-06
+United Airlines,True,2019-03-03,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,150,00:50,23:40,2019-03-06
+Delta Airlines,False,2019-03-05,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,3,112,23:16,22:25,2019-03-10
+Alaska Airlines,False,2019-03-01,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,10:30,09:05,1,172,06:20,04:55,2019-03-12
+Delta Airlines,True,2019-03-04,YVR International Airport,Vancouver,Economy,0,1,PDX International Airport,Portland,00:57,17:15,1,464,15:28,10:15,2019-03-11
+American Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Premium Economy,0,0,JFK International Airport,New York,21:46,20:55,3,181,21:36,20:45,2019-03-06
+Delta Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Premium Economy,0,0,JFK International Airport,New York,07:11,06:20,3,191,05:11,04:20,2019-03-06
+Southwest Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Premium Economy,0,0,JFK International Airport,New York,19:26,18:35,3,170,19:21,18:30,2019-03-06
+Southwest Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Premium Economy,0,0,SAN International Airport,San Diego,12:39,11:45,3,178,16:29,15:35,2019-03-11
+Alaska Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,07:49,06:55,2,121,10:49,09:55,2019-03-10
+American Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,21:49,20:55,2,120,20:04,19:10,2019-03-10
+Southwest Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,15:29,14:35,2,119,20:04,19:10,2019-03-10
+United Airlines,False,2019-03-01,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,08:49,07:55,2,122,15:49,14:55,2019-03-10
+American Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,2,146,14:40,13:30,2019-03-12
+Delta Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,2,159,08:20,07:10,2019-03-12
+Southwest Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,15:25,14:15,2,160,08:25,07:15,2019-03-12
+United Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,2,157,20:50,19:40,2019-03-12
+Delta Airlines,False,2019-03-09,LAX International Airport,Los Angeles,Economy,0,1,McCarran International Airport,Las Vegas,12:39,10:10,1,213,23:20,22:10,2019-03-13
+United Airlines,False,2019-03-09,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,14:50,13:40,1,144,18:15,17:05,2019-03-13
+American Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,158,14:40,13:30,2019-03-06
+Delta Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,147,08:20,07:10,2019-03-06
+Southwest Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,15:25,14:15,1,160,08:25,07:15,2019-03-06
+United Airlines,True,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,156,00:50,23:40,2019-03-06
+American Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,170,14:40,13:30,2019-03-14
+Delta Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,156,08:20,07:10,2019-03-14
+Southwest Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,15:25,14:15,1,159,08:25,07:15,2019-03-14
+United Airlines,True,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,145,00:50,23:40,2019-03-14
+American Airlines,False,2019-03-02,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,23:06,10:35,1,686,16:52,05:15,2019-03-04
+Delta Airlines,False,2019-03-02,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,20:12,13:25,1,493,18:16,10:15,2019-03-04
+United Airlines,True,2019-03-02,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,12:29,05:35,1,559,01:17,18:55,2019-03-04
+American Airlines,False,2019-03-07,JFK International Airport,New York,Premium Economy,0,0,PHL International Airport,Philadelphia,09:36,08:45,1,193,05:21,04:30,2019-03-12
+Delta Airlines,False,2019-03-07,JFK International Airport,New York,Premium Economy,0,0,PHL International Airport,Philadelphia,05:11,04:20,1,193,07:11,06:20,2019-03-12
+Southwest Airlines,False,2019-03-07,JFK International Airport,New York,Premium Economy,0,0,PHL International Airport,Philadelphia,06:26,05:35,1,183,21:11,20:20,2019-03-12
+Delta Airlines,False,2019-03-07,JFK International Airport,New York,Premium Economy,0,0,PHL International Airport,Philadelphia,05:11,04:20,3,193,07:11,06:20,2019-03-12
+Alaska Airlines,False,2019-03-03,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,07:49,06:55,1,116,10:49,09:55,2019-03-07
+American Airlines,False,2019-03-03,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,21:49,20:55,1,127,20:04,19:10,2019-03-07
+Southwest Airlines,False,2019-03-03,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,15:29,14:35,1,136,20:04,19:10,2019-03-07
+United Airlines,False,2019-03-03,SAN International Airport,San Diego,Economy,0,0,LAX International Airport,Los Angeles,08:49,07:55,1,124,15:49,14:55,2019-03-07
+American Airlines,False,2019-03-04,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,0,PDX International Airport,Portland,08:23,07:25,3,225,16:48,15:50,2019-03-07
+United Airlines,False,2019-03-04,Seattle-Tacoma International Airport,Seattle,Premium Economy,0,0,PDX International Airport,Portland,15:53,14:55,3,203,10:28,09:30,2019-03-07
+American Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,161,14:40,13:30,2019-03-14
+Delta Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,152,08:20,07:10,2019-03-14
+Southwest Airlines,False,2019-03-09,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,151,08:25,07:15,2019-03-14
+United Airlines,True,2019-03-09,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,159,00:50,23:40,2019-03-14
+American Airlines,False,2019-03-02,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,05:20,04:10,3,240,15:20,14:10,2019-03-14
+United Airlines,True,2019-03-02,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,06:15,05:05,3,240,00:50,23:40,2019-03-14
+American Airlines,False,2019-03-02,Seattle-Tacoma International Airport,Seattle,Economy,0,1,YVR International Airport,Vancouver,12:02,01:30,1,640,22:46,10:35,2019-03-12
+American Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,1,123,09:36,08:45,2019-03-12
+Delta Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,126,23:16,22:25,2019-03-12
+Southwest Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:11,20:20,1,119,16:21,15:30,2019-03-12
+United Airlines,False,2019-03-08,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:26,20:35,1,112,20:46,19:55,2019-03-12
+Delta Airlines,True,2019-03-05,PDX International Airport,Portland,Economy,0,1,YVR International Airport,Vancouver,15:28,10:15,3,497,00:57,17:15,2019-03-08
+American Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,140,14:40,13:30,2019-03-12
+Delta Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,160,08:20,07:10,2019-03-12
+Southwest Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,159,08:25,07:15,2019-03-12
+United Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,177,20:50,19:40,2019-03-12
+United Airlines,True,2019-03-03,YVR International Airport,Vancouver,Economy,0,1,Seattle-Tacoma International Airport,Seattle,12:29,05:35,1,561,01:17,18:55,2019-03-06
+American Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,08:46,07:55,1,108,09:36,08:45,2019-03-03
+Delta Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,116,05:11,04:20,2019-03-03
+Southwest Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,17:06,16:15,1,110,16:21,15:30,2019-03-03
+American Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:11,04:10,2,275,12:00,08:45,2019-03-09
+Delta Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,21:26,17:55,2,288,08:20,04:20,2019-03-09
+Southwest Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,08:46,05:15,2,285,08:25,05:35,2019-03-09
+Alaska Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,10:30,09:05,4,170,06:20,04:55,2019-03-10
+American Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,19:25,18:00,4,175,06:55,05:30,2019-03-10
+Delta Airlines,True,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,17:30,16:05,4,175,00:40,23:15,2019-03-10
+Southwest Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,09:50,08:25,4,180,15:20,13:55,2019-03-10
+United Airlines,False,2019-03-08,LAX International Airport,Los Angeles,Economy,0,0,SFO International Airport,San Francisco,16:30,15:05,4,177,13:05,11:40,2019-03-10
+American Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,143,14:40,13:30,2019-03-12
+Delta Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,151,08:20,07:10,2019-03-12
+Southwest Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,141,08:25,07:15,2019-03-12
+United Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,172,20:50,19:40,2019-03-12
+Southwest Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,16:21,15:30,3,115,21:11,20:20,2019-03-11
+American Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,4,170,14:40,13:30,2019-03-14
+Delta Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,4,156,08:20,07:10,2019-03-14
+Southwest Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,15:25,14:15,4,159,08:25,07:15,2019-03-14
+United Airlines,True,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,4,145,00:50,23:40,2019-03-14
+Delta Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,21:26,17:55,1,276,08:20,04:20,2019-03-08
+Southwest Airlines,False,2019-03-03,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,08:46,05:15,1,290,18:10,15:30,2019-03-08
+American Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,06:00,04:50,1,151,06:15,05:05,2019-03-14
+Delta Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,McCarran International Airport,Las Vegas,12:39,10:10,1,193,23:20,22:10,2019-03-14
+United Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,McCarran International Airport,Las Vegas,14:50,13:40,1,148,18:15,17:05,2019-03-14
+American Airlines,False,2019-03-03,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,227,15:20,14:10,2019-03-14
+Delta Airlines,False,2019-03-03,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,251,08:20,07:10,2019-03-14
+United Airlines,True,2019-03-03,JFK International Airport,New York,Premium Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,250,00:50,23:40,2019-03-14
+American Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,08:25,06:50,3,173,07:00,05:25,2019-03-10
+Delta Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,22:05,20:30,3,169,22:50,21:15,2019-03-10
+Southwest Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,14:55,13:20,3,208,13:55,12:20,2019-03-10
+United Airlines,False,2019-03-03,SFO International Airport,San Francisco,Economy,0,1,McCarran International Airport,Las Vegas,17:55,16:20,3,263,18:15,15:05,2019-03-10
+American Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,08:25,06:50,1,201,07:00,05:25,2019-03-14
+Delta Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,22:05,20:30,1,186,22:50,21:15,2019-03-14
+Southwest Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,14:55,13:20,1,184,21:00,19:25,2019-03-14
+United Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,1,McCarran International Airport,Las Vegas,17:55,16:20,1,264,18:15,15:05,2019-03-14
+American Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,2,158,14:40,13:30,2019-03-07
+Delta Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,2,144,08:20,07:10,2019-03-07
+Southwest Airlines,False,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,2,146,08:25,07:15,2019-03-07
+United Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,2,162,00:50,23:40,2019-03-07
+American Airlines,False,2019-03-05,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:11,04:10,2,367,22:43,17:50,2019-03-12
+Southwest Airlines,False,2019-03-05,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,08:46,05:15,2,277,08:25,05:35,2019-03-12
+American Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,05:20,04:10,1,156,15:20,14:10,2019-03-09
+Delta Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,166,08:20,07:10,2019-03-09
+Southwest Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,15:25,14:15,1,173,08:25,07:15,2019-03-09
+United Airlines,True,2019-03-04,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,151,00:50,23:40,2019-03-09
+American Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,14:10,13:00,1,160,14:40,13:30,2019-03-06
+Delta Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,19:05,17:55,1,142,08:20,07:10,2019-03-06
+Southwest Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:25,05:15,1,150,08:25,07:15,2019-03-06
+United Airlines,True,2019-03-01,JFK International Airport,New York,Economy,0,0,Dulles International Airport,Washington,06:15,05:05,1,160,00:50,23:40,2019-03-06
+American Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:11,04:10,4,266,12:00,08:45,2019-03-11
+Southwest Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,1,Dulles International Airport,Washington,07:26,05:15,4,259,18:10,15:30,2019-03-11
+Delta Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,1,110,05:11,04:20,2019-03-08
+Southwest Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:11,20:20,1,122,16:21,15:30,2019-03-08
+United Airlines,False,2019-03-02,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,21:26,20:35,1,119,20:46,19:55,2019-03-08
+Delta Airlines,False,2019-03-01,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,07:11,06:20,3,116,05:11,04:20,2019-03-03
+American Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,08:34,18:30,3,447,16:29,10:25,2019-03-11
+United Airlines,False,2019-03-02,Heathrow International Airport,London,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,21:07,06:05,3,675,19:41,09:30,2019-03-11
+American Airlines,True,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,JFK International Airport,New York,22:00,18:50,3,465,03:11,14:55,2019-03-11
+Delta Airlines,True,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,JFK International Airport,New York,21:30,18:20,3,475,05:46,17:30,2019-03-11
+Southwest Airlines,True,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,JFK International Airport,New York,01:50,22:40,3,337,15:00,05:50,2019-03-11
+United Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,JFK International Airport,New York,20:20,17:10,3,471,19:05,08:25,2019-03-11
+American Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,09:36,08:45,1,108,08:46,07:55,2019-03-10
+Delta Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,05:11,04:20,1,112,07:11,06:20,2019-03-10
+Southwest Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,16:21,15:30,1,117,21:11,20:20,2019-03-10
+United Airlines,False,2019-03-06,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,20:46,19:55,1,105,21:26,20:35,2019-03-10
+Southwest Airlines,False,2019-03-04,PHL International Airport,Philadelphia,Economy,0,0,JFK International Airport,New York,19:26,18:35,1,119,16:21,15:30,2019-03-09
+American Airlines,True,2019-03-02,PDX International Airport,Portland,Economy,0,1,JFK International Airport,New York,15:28,09:15,1,603,05:31,16:45,2019-03-11
+Delta Airlines,True,2019-03-02,PDX International Airport,Portland,Economy,0,1,JFK International Airport,New York,00:58,18:40,1,588,08:20,19:30,2019-03-11
+Southwest Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,1,JFK International Airport,New York,11:48,06:25,1,599,23:50,11:20,2019-03-11
+American Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,Seattle-Tacoma International Airport,Seattle,09:39,10:35,1,772,20:42,06:55,2019-03-11
+Delta Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,Seattle-Tacoma International Airport,Seattle,08:34,06:30,1,809,20:42,11:50,2019-03-11
+United Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,Seattle-Tacoma International Airport,Seattle,11:34,10:45,1,782,16:30,09:30,2019-03-11
+Delta Airlines,True,2019-03-05,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,23:31,20:25,3,627,12:02,15:55,2019-03-14
+United Airlines,True,2019-03-05,Kingsford Smith International Airport,Sydney,Economy,0,1,Seattle-Tacoma International Airport,Seattle,16:02,10:45,3,673,18:16,23:55,2019-03-14
+American Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,11:23,09:50,1,665,15:16,12:20,2019-03-07
+Delta Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,14:22,16:05,1,559,08:51,05:55,2019-03-07
+American Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,13:32,11:10,1,244,22:17,19:55,2019-03-10
+Delta Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,22:17,19:55,1,269,15:47,13:25,2019-03-10
+Southwest Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,16:02,13:40,1,252,18:07,15:45,2019-03-10
+United Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,18:47,16:25,1,224,16:07,13:45,2019-03-10
+American Airlines,True,2019-03-03,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,08:02,05:00,1,772,12:41,02:00,2019-03-13
+Delta Airlines,True,2019-03-03,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,16:14,16:05,1,668,00:40,11:50,2019-03-13
+United Airlines,True,2019-03-03,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,08:02,06:30,1,779,22:07,09:30,2019-03-13
+American Airlines,False,2019-03-05,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,15:00,01:30,1,637,15:47,09:15,2019-03-14
+Delta Airlines,True,2019-03-05,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,03:11,10:15,1,681,15:47,09:50,2019-03-14
+United Airlines,True,2019-03-05,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,08:20,18:55,1,643,18:46,09:00,2019-03-14
+Delta Airlines,True,2019-03-05,JFK International Airport,New York,Economy,0,1,YVR International Airport,Vancouver,03:11,10:15,3,681,15:47,09:50,2019-03-14
+Alaska Airlines,False,2019-03-03,LAX International Airport,Los Angeles,Economy,0,0,Seattle-Tacoma International Airport,Seattle,13:57,11:10,1,244,16:32,13:45,2019-03-06
+American Airlines,False,2019-03-03,LAX International Airport,Los Angeles,Economy,0,0,Seattle-Tacoma International Airport,Seattle,16:27,13:40,1,257,20:42,17:55,2019-03-06
+Delta Airlines,False,2019-03-03,LAX International Airport,Los Angeles,Economy,0,1,Seattle-Tacoma International Airport,Seattle,17:30,13:25,1,348,20:32,17:45,2019-03-06
+Southwest Airlines,False,2019-03-03,LAX International Airport,Los Angeles,Economy,0,1,Seattle-Tacoma International Airport,Seattle,19:25,15:05,1,385,15:32,12:45,2019-03-06
+United Airlines,True,2019-03-03,LAX International Airport,Los Angeles,Economy,0,0,Seattle-Tacoma International Airport,Seattle,13:32,10:45,1,270,01:17,22:30,2019-03-06
+Southwest Airlines,True,2019-03-01,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,04:01,15:05,1,629,12:06,06:25,2019-03-06
+United Airlines,True,2019-03-01,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,22:05,10:35,1,536,00:33,19:40,2019-03-06
+Southwest Airlines,True,2019-03-01,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,04:01,15:05,2,629,12:06,06:25,2019-03-06
+United Airlines,True,2019-03-01,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,22:05,10:35,2,536,00:33,19:40,2019-03-06
+American Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,1,Dulles International Airport,Washington,19:38,18:40,1,314,14:40,09:40,2019-03-10
+Delta Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,1,Dulles International Airport,Washington,05:18,04:20,1,290,20:50,16:05,2019-03-10
+Southwest Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,19:08,18:10,1,235,15:58,13:00,2019-03-10
+United Airlines,False,2019-03-01,O'Hare International Airport,Chicago,Economy,0,0,Dulles International Airport,Washington,21:08,20:10,1,193,15:38,12:40,2019-03-10
+Delta Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,Dulles International Airport,Washington,14:22,17:55,1,608,14:40,09:15,2019-03-04
+Delta Airlines,True,2019-03-02,KLIA International Airport,Kuala Lumpur,Economy,0,1,Seattle-Tacoma International Airport,Seattle,15:38,08:00,1,699,01:17,17:15,2019-03-06
+United Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,1,Seattle-Tacoma International Airport,Seattle,22:05,10:35,1,564,00:33,19:40,2019-03-11
+American Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,17:50,13:05,1,420,11:24,07:05,2019-03-13
+Delta Airlines,True,2019-03-03,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,00:58,20:30,1,417,23:20,19:30,2019-03-13
+Southwest Airlines,False,2019-03-03,PDX International Airport,Portland,Economy,0,1,McCarran International Airport,Las Vegas,17:58,13:20,1,416,13:55,09:20,2019-03-13
+American Airlines,True,2019-03-01,LAX International Airport,Los Angeles,Economy,0,0,Dulles International Airport,Washington,19:10,16:25,1,363,07:00,22:15,2019-03-10
+Delta Airlines,True,2019-03-01,LAX International Airport,Los Angeles,Economy,0,1,Dulles International Airport,Washington,22:20,17:55,1,439,00:20,15:35,2019-03-10
+Southwest Airlines,False,2019-03-01,LAX International Airport,Los Angeles,Economy,0,1,Dulles International Airport,Washington,13:32,07:55,1,610,14:40,04:05,2019-03-10
+United Airlines,False,2019-03-01,LAX International Airport,Los Angeles,Economy,0,0,Dulles International Airport,Washington,22:35,19:50,1,361,17:10,08:25,2019-03-10
+United Airlines,True,2019-03-01,PHL International Airport,Philadelphia,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,08:46,04:20,1,354,00:52,19:55,2019-03-04
+American Airlines,True,2019-03-02,Charles de Gaulle International Airport,Paris,Premium Economy,0,1,Dulles International Airport,Washington,01:12,04:10,1,1009,08:25,03:00,2019-03-11
+United Airlines,True,2019-03-02,Charles de Gaulle International Airport,Paris,Premium Economy,0,1,Dulles International Airport,Washington,01:12,05:05,1,1036,15:38,04:50,2019-03-11
+United Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,Seattle-Tacoma International Airport,Seattle,11:34,10:45,1,756,16:30,09:30,2019-03-10
+Alaska Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,16:32,13:45,1,274,13:57,11:10,2019-03-05
+American Airlines,True,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,LAX International Airport,Los Angeles,20:42,17:55,1,317,00:30,19:50,2019-03-05
+Delta Airlines,True,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,LAX International Airport,Los Angeles,20:32,17:45,1,313,00:30,20:25,2019-03-05
+Southwest Airlines,False,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,1,LAX International Airport,Los Angeles,15:32,12:45,1,348,19:25,15:05,2019-03-05
+United Airlines,True,2019-03-01,Seattle-Tacoma International Airport,Seattle,Economy,0,0,LAX International Airport,Los Angeles,01:17,22:30,1,261,13:32,10:45,2019-03-05
+American Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,PHL International Airport,Philadelphia,14:22,20:45,1,562,08:46,03:00,2019-03-14
+American Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,Dulles International Airport,Washington,01:12,04:10,1,634,08:25,03:00,2019-03-08
+Delta Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,Dulles International Airport,Washington,14:22,17:55,1,557,15:20,09:15,2019-03-08
+United Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,Dulles International Airport,Washington,01:12,05:05,1,622,15:38,04:50,2019-03-08
+American Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,21:36,20:45,1,113,08:46,07:55,2019-03-11
+Delta Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,05:11,04:20,1,103,07:11,06:20,2019-03-11
+Southwest Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,16:21,15:30,1,113,21:11,20:20,2019-03-11
+United Airlines,False,2019-03-04,JFK International Airport,New York,Economy,0,0,PHL International Airport,Philadelphia,20:46,19:55,1,115,21:26,20:35,2019-03-11
+American Airlines,True,2019-03-08,JFK International Airport,New York,Economy,0,1,Indira Gandhi International Airport,Delhi,20:05,07:00,1,593,08:10,12:35,2019-03-14
+United Airlines,True,2019-03-08,JFK International Airport,New York,Economy,0,0,Indira Gandhi International Airport,Delhi,20:50,21:15,1,474,04:40,09:05,2019-03-14
+Delta Airlines,False,2019-03-04,LAX International Airport,Los Angeles,Economy,0,1,McCarran International Airport,Las Vegas,12:39,10:10,3,215,23:20,22:10,2019-03-14
+American Airlines,False,2019-03-05,SFO International Airport,San Francisco,Economy,0,0,McCarran International Airport,Las Vegas,08:25,06:50,1,191,07:00,05:25,2019-03-12
+American Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,PHL International Airport,Philadelphia,01:12,08:45,1,586,08:46,03:00,2019-03-05
+American Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,08:02,05:00,1,788,12:41,02:00,2019-03-12
+Delta Airlines,False,2019-03-01,JFK International Airport,New York,Economy,0,0,Hartsfield-Jackson International Airport,Atlanta,22:17,19:55,1,242,15:47,13:25,2019-03-13
+American Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,14:32,12:25,1,223,11:37,09:30,2019-03-09
+Delta Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,1,SFO International Airport,San Francisco,15:58,11:45,1,305,22:02,19:55,2019-03-09
+Southwest Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,16:07,14:00,1,219,13:17,11:10,2019-03-09
+United Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,06:22,04:15,1,221,11:47,09:40,2019-03-09
+American Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,0,SFO International Airport,San Francisco,14:32,12:25,4,223,11:37,09:30,2019-03-09
+Delta Airlines,False,2019-03-04,Sky Harbor International Airport,Phoenix,Economy,0,1,SFO International Airport,San Francisco,15:58,11:45,4,305,22:02,19:55,2019-03-09
+Delta Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,1,O'Hare International Airport,Chicago,08:02,11:30,1,611,13:49,09:20,2019-03-04
+American Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,0,JFK International Airport,New York,08:02,19:40,1,442,06:22,02:00,2019-03-05
+Delta Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,0,JFK International Airport,New York,05:52,17:30,1,452,20:22,16:00,2019-03-05
+United Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,0,JFK International Airport,New York,21:07,08:45,1,437,02:57,22:35,2019-03-05
+Alaska Airlines,True,2019-03-02,PDX International Airport,Portland,Economy,0,0,SAN International Airport,San Diego,15:59,13:15,1,264,02:19,23:35,2019-03-11
+American Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,1,SAN International Airport,San Diego,19:34,16:50,1,338,21:20,16:45,2019-03-11
+Delta Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,1,SAN International Airport,San Diego,16:13,12:25,1,337,18:04,15:20,2019-03-11
+Southwest Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,1,SAN International Airport,San Diego,15:28,11:35,1,328,07:04,04:20,2019-03-11
+United Airlines,False,2019-03-02,PDX International Airport,Portland,Economy,0,0,SAN International Airport,San Diego,07:44,05:00,1,240,18:29,15:45,2019-03-11
+American Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,08:34,18:30,3,571,12:37,02:00,2019-03-10
+United Airlines,False,2019-03-02,Heathrow International Airport,London,Economy,0,1,Hartsfield-Jackson International Airport,Atlanta,21:07,06:05,3,663,19:41,09:30,2019-03-10
+Delta Airlines,True,2019-03-01,LAX International Airport,Los Angeles,Economy,0,0,Kingsford Smith International Airport,Sydney,05:22,15:55,1,386,16:02,16:35,2019-03-05
+United Airlines,True,2019-03-01,LAX International Airport,Los Angeles,Economy,0,1,Kingsford Smith International Airport,Sydney,19:25,23:55,1,492,08:17,08:50,2019-03-05
+American Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,11:38,08:25,1,638,15:16,12:20,2019-03-07
+Delta Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,14:22,16:05,1,531,08:51,05:55,2019-03-07
+United Airlines,True,2019-03-03,Charles de Gaulle International Airport,Paris,Economy,0,1,O'Hare International Airport,Chicago,09:46,16:50,1,626,13:47,01:30,2019-03-07
+American Airlines,True,2019-03-02,LAX International Airport,Los Angeles,Economy,0,0,O'Hare International Airport,Chicago,01:02,22:30,1,327,11:52,05:20,2019-03-06
+Delta Airlines,True,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,O'Hare International Airport,Chicago,00:15,16:05,1,478,16:37,10:05,2019-03-06
+Southwest Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,O'Hare International Airport,Chicago,09:17,06:45,1,473,23:05,12:45,2019-03-06
+United Airlines,False,2019-03-02,LAX International Airport,Los Angeles,Economy,0,1,O'Hare International Airport,Chicago,13:32,07:45,1,590,19:26,09:25,2019-03-06
+United Airlines,True,2019-03-02,JFK International Airport,New York,Economy,0,1,Heathrow International Airport,London,02:57,22:35,1,551,10:54,18:45,2019-03-13
+United Airlines,True,2019-03-04,Kingsford Smith International Airport,Sydney,Economy,0,1,Sky Harbor International Airport,Phoenix,12:11,09:40,1,638,16:07,23:55,2019-03-10
+Delta Airlines,True,2019-03-02,Kingsford Smith International Airport,Sydney,Premium Economy,0,1,McCarran International Airport,Las Vegas,23:31,20:30,1,925,10:00,15:55,2019-03-11
+United Airlines,True,2019-03-02,Kingsford Smith International Airport,Sydney,Premium Economy,0,1,McCarran International Airport,Las Vegas,16:02,13:40,1,892,18:10,23:55,2019-03-11
+American Airlines,False,2019-03-02,Sky Harbor International Airport,Phoenix,Premium Economy,0,0,PDX International Airport,Portland,10:00,07:05,1,446,13:40,10:45,2019-03-14
+Delta Airlines,True,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,LAX International Airport,Los Angeles,00:48,10:05,3,443,21:14,18:45,2019-03-12
+United Airlines,False,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,LAX International Airport,Los Angeles,18:33,06:15,3,564,22:35,16:10,2019-03-12
+American Airlines,True,2019-03-05,Indira Gandhi International Airport,Delhi,Economy,0,0,SFO International Airport,San Francisco,09:22,06:30,1,531,08:32,07:40,2019-03-14
+United Airlines,True,2019-03-05,Indira Gandhi International Airport,Delhi,Economy,0,1,SFO International Airport,San Francisco,10:57,08:05,1,612,18:55,15:55,2019-03-14
+American Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,14:26,05:00,1,391,12:41,09:15,2019-03-12
+Delta Airlines,True,2019-03-03,JFK International Airport,New York,Economy,0,0,SFO International Airport,San Francisco,04:01,18:35,1,397,22:06,18:40,2019-03-12
+Southwest Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,1,SFO International Airport,San Francisco,15:00,04:00,1,487,09:51,06:25,2019-03-12
+United Airlines,False,2019-03-03,JFK International Airport,New York,Economy,0,1,SFO International Airport,San Francisco,15:56,06:30,1,481,22:35,17:10,2019-03-12
+American Airlines,False,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,0,O'Hare International Airport,Chicago,06:43,04:05,2,177,11:23,10:45,2019-03-05
+Delta Airlines,True,2019-03-01,Charles de Gaulle International Airport,Paris,Economy,0,1,SFO International Airport,San Francisco,11:38,13:30,1,689,18:26,09:15,2019-03-13
+American Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,PHL International Airport,Philadelphia,10:17,20:45,1,526,08:46,02:00,2019-03-12
+Delta Airlines,False,2019-03-01,Heathrow International Airport,London,Economy,0,1,PHL International Airport,Philadelphia,21:07,04:20,1,522,21:26,16:00,2019-03-12
+United Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,PHL International Airport,Philadelphia,10:17,19:55,1,593,19:46,09:30,2019-03-12
+American Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,PHL International Airport,Philadelphia,10:17,20:45,4,559,08:46,02:00,2019-03-03
+Delta Airlines,False,2019-03-01,Heathrow International Airport,London,Economy,0,1,PHL International Airport,Philadelphia,21:07,04:20,4,552,21:26,16:00,2019-03-03
+United Airlines,True,2019-03-01,Heathrow International Airport,London,Economy,0,1,PHL International Airport,Philadelphia,10:17,19:55,4,632,18:16,09:30,2019-03-03
+American Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,08:02,05:00,1,823,12:41,02:00,2019-03-12
+United Airlines,True,2019-03-02,Heathrow International Airport,London,Economy,0,1,SFO International Airport,San Francisco,08:02,06:30,1,794,22:07,09:30,2019-03-12
+United Airlines,False,2019-03-03,Toronto Pearson International Airport,Toronto,Economy,0,1,LAX International Airport,Los Angeles,18:33,06:15,1,554,22:35,16:10,2019-03-11
